@@ -19,7 +19,7 @@ v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](https://www.gnu.org
 downloads](https://cranlogs.r-pkg.org/badges/grand-total/PDHS?color=green)](https://CRAN.R-project.org/package=PDHS)
 <!-- [![packageversion](https://img.shields.io/badge/Package%20version-0.2.3.3-orange.svg)](https://github.com/myaseen208/PDHS) -->
 
-[![develVersion](https://img.shields.io/badge/devel%20version-1.0.0-orange.svg)](https://github.com/myaseen208/PDHS)
+[![develVersion](https://img.shields.io/badge/devel%20version-0.1.0-orange.svg)](https://github.com/myaseen208/PDHS)
 
 <!-- [![GitHub Download Count](https://github-basic-badges.herokuapp.com/downloads/myaseen208/PDHS/total.svg)] -->
 

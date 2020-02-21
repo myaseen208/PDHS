@@ -1,6 +1,6 @@
 ---
-title: "On the usage of the  pbkrtest package"
-author: "Søren Højsgaard^1^ and Ulrich Halekoh^2^"
+title: "Introduction to PDHS"
+author: "Muhammad Yaseen^1^"
 date: "`r Sys.Date()`"
 geometry: margin=3cm
 output:
@@ -36,7 +36,7 @@ resource_files:
 - vignettes/rstudio.png
 - vignettes/rstudio panes.png
 vignette: |
-  %\VignetteIndexEntry{Intro_pbkrtest}
+  %\VignetteIndexEntry{IntroPDHS}
   %\usepackage[utf8]{inputenc}
   %\VignetteEngine{knitr::rmarkdown_notangle}
   %\VignetteEncoding{UTF-8}
@@ -55,14 +55,10 @@ options(repos = r)
 ```{r, results='asis', echo=FALSE}
 switch(out_type,
     html = {cat("
-  <p> 1. Head of Department of Mathematical Sciences and Associate Professor of statistics at Aalborg University  (sorenh@math.aau.dk).</p>
-  
-  <p> 2. Associate Professor, Department of Public Health, University of Southern Denmark, Denmark (uhalekoh@health.sdu.dk).</p>  
-                ")},
+  <p> 1. Department of Mathematics and Statistics, University of Agriculture Faisalabad, Faisalabad-Pakistan  (myaseen208@gmail.com).</p>
+              ")},
     latex = cat("\\begin{center}
-1. Head of Department of Mathematical Sciences and Associate Professor of statistics at Aalborg University  (sorenh@math.aau.dk).
-
-2. Associate Professor, Department of Public Health, University of Southern Denmark, Denmark (uhalekoh@health.sdu.dk)
+1. Department of Mathematics and Statistics, University of Agriculture Faisalabad, Faisalabad-Pakistan  (myaseen208@gmail.com).
 
 \\end{center}" )
 )
@@ -81,161 +77,9 @@ knitr::opts_chunk$set(echo = TRUE,
 ```
 
 ```{r echo = FALSE, message=FALSE}
-library(pbkrtest)
+library(PDHS)
 ```
 
 # Introduction
 
-The \code{shoes} data is a list of two vectors, giving the wear of
-shoes of materials A and B for one foot each of ten boys.
-
-```{r}
-data(shoes, package="MASS")
-shoes
-```
-
-
-A plot clearly reveals that boys wear their shoes differently.
-
-```{r}
-plot(A~1, data=shoes, col="red",lwd=2, pch=1, ylab="wear", xlab="boy")
-points(B~1, data=shoes, col="blue", lwd=2, pch=2)
-points(I((A+B)/2)~1, data=shoes, pch="-", lwd=2)
-```
-
-
-
-One option for testing the effect of materials is to make a paired
-$t$--test. The following forms are equivalent:
-
-```{r}
-r1<-t.test(shoes$A, shoes$B, paired=T)
-r2<-t.test(shoes$A-shoes$B)
-r1
-```
-
-
-To work with data in a mixed model setting we create a dataframe, and
-for later use we also create an imbalanced version of data:
-
-```{r}
-boy <- rep(1:10,2)
-boyf<- factor(letters[boy])
-mat <- factor(c(rep("A", 10), rep("B",10)))
-## Balanced data:
-shoe.b <- data.frame(wear=unlist(shoes), boy=boy, boyf=boyf, mat=mat)
-head(shoe.b)
-## Imbalanced data; delete (boy=1, mat=1) and (boy=2, mat=b)
-shoe.i <-  shoe.b[-c(1,12),]
-```
-
-
-We fit models to the two datasets:
-
-```{r}
-lmm1.b  <- lmer( wear ~ mat + (1|boyf), data=shoe.b )
-lmm0.b  <- update( lmm1.b, .~. - mat)
-lmm1.i  <- lmer( wear ~ mat + (1|boyf), data=shoe.i )
-lmm0.i  <- update(lmm1.i, .~. - mat)
-```
-
-
-The asymptotic likelihood ratio test shows stronger significance than
-the $t$--test:
-
-```{r}
-anova( lmm1.b, lmm0.b, test="Chisq" ) ## Balanced data
-anova( lmm1.i, lmm0.i, test="Chisq" ) ## Imbalanced data
-```
-
-# Kenward--Roger approach
-
-
-The Kenward--Roger approximation is exact for the balanced data in the
-sense that it produces the same result as the paired $t$--test.
-
-```{r}
-( kr.b<-KRmodcomp(lmm1.b, lmm0.b) )
-```
-
-```{r}
-summary(kr.b)
-```
-
-
-Relevant information can be retrieved with
-
-```{r}
-getKR(kr.b, "ddf")
-```
-
-
-For the imbalanced data we get
-
-```{r}
-(kr.i<-KRmodcomp(lmm1.i, lmm0.i))
-```
-
-
-Notice that this result is similar to but not identical to the paired
-$t$--test when the two relevant boys are removed:
-
-```{r}
-shoes2 <- list(A=shoes$A[-(1:2)], B=shoes$B[-(1:2)])
-t.test(shoes2$A, shoes2$B, paired=T)
-```
-
-
-
-# Parametric bootstrap
-
-Parametric bootstrap provides an alternative but many simulations are
-often needed to provide credible results (also many more than shown
-here; in this connection it can be useful to exploit that computings
-can be made en parallel, see the documentation):
-
-```{r}
-(pb.b <- PBmodcomp(lmm1.b, lmm0.b, nsim=500, cl=2) )
-```
-
-```{r}
-summary( pb.b )
-```
-
-
-
-For the imbalanced data, the result is similar to the result from the
-paired $t$ test.
-
-```{r}
-(pb.i<-PBmodcomp(lmm1.i, lmm0.i, nsim=500, cl=2))
-```
-
-```{r}
-summary(pb.i)
-```
-
-
-\appendix
-
-# Matrices for random effects
-
-The matrices involved in the random effects can be obtained with
-
-```{r}
-shoe3 <- subset(shoe.b, boy<=5)
-shoe3 <- shoe3[order(shoe3$boy), ]
-lmm1  <- lmer( wear ~ mat + (1|boyf), data=shoe3 )
-str( SG <- get_SigmaG( lmm1 ), max=2)
-```
-
-
-
-```{r}
-round( SG$Sigma*10 )
-```
-
-
-```{r}
-SG$G
-```
+The `R` package `PDHS` provides data set and function for exploration of Pakistan Demographic and Health Survey (PDHS) data [http://nips.org.pk/Home.htm](http://nips.org.pk/Home.htm). The 2017-18 Pakistan Demographic and Health Survey (PDHS) is designed to provide data for monitoring the health situation in Pakistan. The 2017-18 PDHS is the 4th DHS survey conducted in Pakistan since 1990-91. It provides reliable estimates at the national level, for urban and rural areas, and for 4 regions and 4 provinces. The national total for indicators excludes Azad Jammu and Kashmir and Gilgit Baltistan.

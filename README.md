@@ -26,14 +26,14 @@ downloads](https://cranlogs.r-pkg.org/badges/grand-total/PDHS?color=green)](http
 [![Project Status:
 WIP](http://www.repostatus.org/badges/latest/inactive.svg)](http://www.repostatus.org/#inactive)
 [![lifecycle](https://img.shields.io/badge/lifecycle-stable-brightgreen.svg)](https://www.tidyverse.org/lifecycle/#stable)
-[![Last-changedate](https://img.shields.io/badge/last%20change-2020--02--21-yellowgreen.svg)](https://github.com/myaseen208/PDHS)
+[![Last-changedate](https://img.shields.io/badge/last%20change-2020--02--22-yellowgreen.svg)](https://github.com/myaseen208/PDHS)
 [![Rdoc](http://www.rdocumentation.org/badges/version/PDHS)](http://www.rdocumentation.org/packages/PDHS)
 
 -----
 
 ## Description
 
-Provides data set and function for exploration of Pakistan Demographic
+Provides data set and functions for exploration of Pakistan Demographic
 and Health Survey (PDHS) data (<http://nips.org.pk/Home.htm>). The
 2017-18 Pakistan Demographic and Health Survey (PDHS) is designed to
 provide data for monitoring the health situation in Pakistan. The
@@ -83,22 +83,21 @@ citation("PDHS")
 
 ``` 
 
-To cite the R package 'PakPMICS2018' in publications use:
+To cite the R package 'PDHS' in publications use:
 
-  Muhammad Yaseen (2020).  PakPMICS2018: Multiple Indicator Cluster
-  Survey (MICS) 2017-18 Data for Punjab, Pakistan.R package version
-  1.0.0 ,
-  https://myaseen208.github.io/PakPMICS2018/https://cran.r-project.org/package=PakPMICS2018.
+  Muhammad Yaseen (2020).  PDHS: Pakistan Demographic and Health
+  Survey.R package version 0.1.0 ,
+  https://myaseen208.github.io/PDHS/https://cran.r-project.org/package=PDHS.
 
 A BibTeX entry for LaTeX users is
 
   @Manual{,
-    title = {PakPMICS2018: Multiple Indicator Cluster Survey (MICS) 2017-18 Data for Punjab, Pakistan},
+    title = {PDHS: Pakistan Demographic and Health Survey},
     author = {{Muhammad Yaseen}},
     year = {2020},
-    note = {R package version 1.0.0},
-    note = {https://myaseen208.github.io/PakPMICS2018/ },
-    note = {https://cran.r-project.org/package=PakPMICS2018},
+    note = {R package version 0.1.0},
+    note = {https://myaseen208.github.io/PDHS/ },
+    note = {https://cran.r-project.org/package=PDHS},
   }
 
 This free and open-source software implements academic research by the

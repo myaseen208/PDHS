@@ -679,12 +679,12 @@
 #'     \item{\code{v3a08z}}{reason not using: don't know}                                  
 #'     \item{\code{v3a09a}}{how many pill cycles did get last time}                        
 #'     \item{\code{v3a09b}}{how many condoms did get last time}                            
-#'     \item{\code{midx.1}}{notappl
-#'     \item{\code{midx.2}}{notappl
-#'     \item{\code{midx.3}}{notappl
-#'     \item{\code{midx.4}}{notappl
-#'     \item{\code{midx.5}}{notappl
-#'     \item{\code{midx.6}}{notappl
+#'     \item{\code{midx.1}}{notappl}
+#'     \item{\code{midx.2}}{notappl}
+#'     \item{\code{midx.3}}{notappl}
+#'     \item{\code{midx.4}}{notappl}
+#'     \item{\code{midx.5}}{notappl}
+#'     \item{\code{midx.6}}{notappl}
 #'     \item{\code{m1.1}}{tetanus injections bef. birth}                                   
 #'     \item{\code{m1.2}}{tetanus injections bef. birth}                                   
 #'     \item{\code{m1.3}}{tetanus injections bef. birth}                                   
@@ -1576,7 +1576,7 @@
 #'     \item{\code{v414e}}{gave child bread, noddles, -na}                                 
 #'     \item{\code{v414f}}{gave child potatoes, cassav-na}                                 
 #'     \item{\code{v414g}}{gave child eggs            -na}                                 
-#'     \item{\code{v414h}}{gave child meat (beef, pork-na}                                 
+#'     \item{\code{v414h}}{gave child meat (beef), pork-na}                                 
 #'     \item{\code{v414i}}{gave child pumpink, carrots-na}                                 
 #'     \item{\code{v414j}}{gave child any dark green l-na}                                 
 #'     \item{\code{v414k}}{gave child mangoes, papayas-na}                                 
@@ -1598,14 +1598,14 @@
 #'     \item{\code{v420}}{measurer's code            -na}                                  
 #'     \item{\code{v421}}{assistant measurer's code  -na}                                  
 #'     \item{\code{v426}}{when child put to breast}                                        
-#'     \item{\code{v437}}{respondent's weight (kilos--na}                                  
-#'     \item{\code{v438}}{respondent's height (cms-1d-na}                                  
+#'     \item{\code{v437}}{respondent's weight (kilos)--na}                                  
+#'     \item{\code{v438}}{respondent's height (cms-1d-na)}                                  
 #'     \item{\code{v439}}{ht/a percentile (resp.)    -na}                                  
-#'     \item{\code{v440}}{ht/a standard deviations (r-na}                                  
-#'     \item{\code{v441}}{ht/a percent ref. median (r-na}                                  
-#'     \item{\code{v442}}{wt/ht percent ref. median (-na}                                  
-#'     \item{\code{v443}}{wt/ht percent ref. median (-na}                                  
-#'     \item{\code{v444}}{wt/ht percent ref. median (-na}                                  
+#'     \item{\code{v440}}{ht/a standard deviations (r-na)}                                  
+#'     \item{\code{v441}}{ht/a percent ref. median (r-na)}                                  
+#'     \item{\code{v442}}{wt/ht percent ref. median (-na)}                                  
+#'     \item{\code{v443}}{wt/ht percent ref. median (-na)}                                  
+#'     \item{\code{v444}}{wt/ht percent ref. median (-na)}                                  
 #'     \item{\code{v444a}}{wt/ht std deviations(resp) -na}                                 
 #'     \item{\code{v445}}{body mass index for respond-na}                                  
 #'     \item{\code{v446}}{rohrer's index for responde-na}                                  
@@ -1614,9 +1614,9 @@
 #'     \item{\code{v452a}}{under age 18 (hh report)   -na}                                 
 #'     \item{\code{v452b}}{line no. of parent/caretake-na}                                 
 #'     \item{\code{v452c}}{read consent statement     -na}                                 
-#'     \item{\code{v453}}{hemoglobin level (g/dl - 1 -na}                                  
-#'     \item{\code{v454}}{currently pregnant (househo-na}                                  
-#'     \item{\code{v455}}{result of measuring (hemogl-na}                                  
+#'     \item{\code{v453}}{hemoglobin level (g/dl) - 1 -na}                                  
+#'     \item{\code{v454}}{currently pregnant (househo-na)}                                  
+#'     \item{\code{v455}}{result of measuring (hemogl-na)}                                  
 #'     \item{\code{v456}}{hemoglobin level adjusted b-na}                                  
 #'     \item{\code{v457}}{anemia level               -na}                                  
 #'     \item{\code{v458}}{agrees to referral         -na}                                  
@@ -1664,7 +1664,7 @@
 #'     \item{\code{v472e}}{mother had bread, noddles, -na}                                 
 #'     \item{\code{v472f}}{mother had potatoes, cassav-na}                                 
 #'     \item{\code{v472g}}{mother had eggs            -na}                                 
-#'     \item{\code{v472h}}{mother had meat (beef, pork-na}                                 
+#'     \item{\code{v472h}}{mother had meat (beef), pork-na}                                 
 #'     \item{\code{v472i}}{mother had pumpink, carrots-na}                                 
 #'     \item{\code{v472j}}{mother had any dark green l-na}                                 
 #'     \item{\code{v472k}}{mother had mangoes, papayas-na}                                 
@@ -1678,7 +1678,7 @@
 #'     \item{\code{v472s}}{mother had other solid-semi-na}                                 
 #'     \item{\code{v472t}}{mother had cs foods        -na}                                 
 #'     \item{\code{v472u}}{mother had cs foods        -na}                                 
-#'     \item{\code{v473a}}{read consent statement (hiv-na}                                 
+#'     \item{\code{v473a}}{read consent statement (hiv)-na}                                 
 #'     \item{\code{v473b}}{result of measuring (hiv)  -na}                                 
 #'     \item{\code{v474}}{heard of tuberculosis or tb}                                     
 #'     \item{\code{v474a}}{tuberculosis spread by: air when coughing or sneezing}          
@@ -2168,12 +2168,12 @@
 #'     \item{\code{h15e.4}}{given zinc                 -na}                                
 #'     \item{\code{h15e.5}}{given zinc                 -na}                                
 #'     \item{\code{h15e.6}}{given zinc                 -na}                                
-#'     \item{\code{h15f.1}}{given other (not antibiotic-na}                                
-#'     \item{\code{h15f.2}}{given other (not antibiotic-na}                                
-#'     \item{\code{h15f.3}}{given other (not antibiotic-na}                                
-#'     \item{\code{h15f.4}}{given other (not antibiotic-na}                                
-#'     \item{\code{h15f.5}}{given other (not antibiotic-na}                                
-#'     \item{\code{h15f.6}}{given other (not antibiotic-na}                                
+#'     \item{\code{h15f.1}}{given other (not antibiotic)-na}                                
+#'     \item{\code{h15f.2}}{given other (not antibiotic)-na}                                
+#'     \item{\code{h15f.3}}{given other (not antibiotic)-na}                                
+#'     \item{\code{h15f.4}}{given other (not antibiotic)-na}                                
+#'     \item{\code{h15f.5}}{given other (not antibiotic)-na}                                
+#'     \item{\code{h15f.6}}{given other (not antibiotic)-na}                                
 #'     \item{\code{h15g.1}}{given unknown pill or syrup}                                   
 #'     \item{\code{h15g.2}}{given unknown pill or syrup}                                   
 #'     \item{\code{h15g.3}}{given unknown pill or syrup}                                   
@@ -2426,12 +2426,12 @@
 #'     \item{\code{h32z.4}}{fever/cough: medical treatment}                                
 #'     \item{\code{h32z.5}}{fever/cough: medical treatment}                                
 #'     \item{\code{h32z.6}}{fever/cough: medical treatment}                                
-#'     \item{\code{h33.1}}{received vitamin a1 (most r-na}                                 
-#'     \item{\code{h33.2}}{received vitamin a1 (most r-na}                                 
-#'     \item{\code{h33.3}}{received vitamin a1 (most r-na}                                 
-#'     \item{\code{h33.4}}{received vitamin a1 (most r-na}                                 
-#'     \item{\code{h33.5}}{received vitamin a1 (most r-na}                                 
-#'     \item{\code{h33.6}}{received vitamin a1 (most r-na}                                 
+#'     \item{\code{h33.1}}{received vitamin a1 (most) r-na}                                 
+#'     \item{\code{h33.2}}{received vitamin a1 (most) r-na}                                 
+#'     \item{\code{h33.3}}{received vitamin a1 (most) r-na}                                 
+#'     \item{\code{h33.4}}{received vitamin a1 (most) r-na}                                 
+#'     \item{\code{h33.5}}{received vitamin a1 (most) r-na}                                 
+#'     \item{\code{h33.6}}{received vitamin a1 (most) r-na}                                 
 #'     \item{\code{h33d.1}}{vitamin a1 day             -na}                                
 #'     \item{\code{h33d.2}}{vitamin a1 day             -na}                                
 #'     \item{\code{h33d.3}}{vitamin a1 day             -na}                                
@@ -2624,12 +2624,12 @@
 #'     \item{\code{h39.4}}{had diarrhea in last 2 weeks: amount offered to eat}            
 #'     \item{\code{h39.5}}{had diarrhea in last 2 weeks: amount offered to eat}            
 #'     \item{\code{h39.6}}{had diarrhea in last 2 weeks: amount offered to eat}            
-#'     \item{\code{h40.1}}{received vitamin a2 (2nd mo-na}                                 
-#'     \item{\code{h40.2}}{received vitamin a2 (2nd mo-na}                                 
-#'     \item{\code{h40.3}}{received vitamin a2 (2nd mo-na}                                 
-#'     \item{\code{h40.4}}{received vitamin a2 (2nd mo-na}                                 
-#'     \item{\code{h40.5}}{received vitamin a2 (2nd mo-na}                                 
-#'     \item{\code{h40.6}}{received vitamin a2 (2nd mo-na}                                 
+#'     \item{\code{h40.1}}{received vitamin a2 (2nd mo)-na}                                 
+#'     \item{\code{h40.2}}{received vitamin a2 (2nd mo)-na}                                 
+#'     \item{\code{h40.3}}{received vitamin a2 (2nd mo)-na}                                 
+#'     \item{\code{h40.4}}{received vitamin a2 (2nd mo)-na}                                 
+#'     \item{\code{h40.5}}{received vitamin a2 (2nd mo)-na}                                 
+#'     \item{\code{h40.6}}{received vitamin a2 (2nd mo)-na}                                 
 #'     \item{\code{h40d.1}}{vitamin a2 day             -na}                                
 #'     \item{\code{h40d.2}}{vitamin a2 day             -na}                                
 #'     \item{\code{h40d.3}}{vitamin a2 day             -na}                                
@@ -2720,18 +2720,18 @@
 #'     \item{\code{hw1.4}}{age in months              -na}                                 
 #'     \item{\code{hw1.5}}{age in months              -na}                                 
 #'     \item{\code{hw1.6}}{age in months              -na}                                 
-#'     \item{\code{hw2.1}}{weight in kilograms (1 dec.-na}                                 
-#'     \item{\code{hw2.2}}{weight in kilograms (1 dec.-na}                                 
-#'     \item{\code{hw2.3}}{weight in kilograms (1 dec.-na}                                 
-#'     \item{\code{hw2.4}}{weight in kilograms (1 dec.-na}                                 
-#'     \item{\code{hw2.5}}{weight in kilograms (1 dec.-na}                                 
-#'     \item{\code{hw2.6}}{weight in kilograms (1 dec.-na}                                 
-#'     \item{\code{hw3.1}}{height in centimeters (1 de-na}                                 
-#'     \item{\code{hw3.2}}{height in centimeters (1 de-na}                                 
-#'     \item{\code{hw3.3}}{height in centimeters (1 de-na}                                 
-#'     \item{\code{hw3.4}}{height in centimeters (1 de-na}                                 
-#'     \item{\code{hw3.5}}{height in centimeters (1 de-na}                                 
-#'     \item{\code{hw3.6}}{height in centimeters (1 de-na}                                 
+#'     \item{\code{hw2.1}}{weight in kilograms (1 dec.)-na}                                 
+#'     \item{\code{hw2.2}}{weight in kilograms (1 dec.)-na}                                 
+#'     \item{\code{hw2.3}}{weight in kilograms (1 dec.)-na}                                 
+#'     \item{\code{hw2.4}}{weight in kilograms (1 dec.)-na}                                 
+#'     \item{\code{hw2.5}}{weight in kilograms (1 dec.)-na}                                 
+#'     \item{\code{hw2.6}}{weight in kilograms (1 dec.)-na}                                 
+#'     \item{\code{hw3.1}}{height in centimeters (1 de)-na}                                 
+#'     \item{\code{hw3.2}}{height in centimeters (1 de)-na}                                 
+#'     \item{\code{hw3.3}}{height in centimeters (1 de)-na}                                 
+#'     \item{\code{hw3.4}}{height in centimeters (1 de)-na}                                 
+#'     \item{\code{hw3.5}}{height in centimeters (1 de)-na}                                 
+#'     \item{\code{hw3.6}}{height in centimeters (1 de)-na}                                 
 #'     \item{\code{hw4.1}}{ht/a percentile            -na}                                 
 #'     \item{\code{hw4.2}}{ht/a percentile            -na}                                 
 #'     \item{\code{hw4.3}}{ht/a percentile            -na}                                 
@@ -2834,18 +2834,18 @@
 #'     \item{\code{hw52.4}}{read consent statement     -na}                                
 #'     \item{\code{hw52.5}}{read consent statement     -na}                                
 #'     \item{\code{hw52.6}}{read consent statement     -na}                                
-#'     \item{\code{hw53.1}}{hemoglobin level (g/dl - 1 -na}                                
-#'     \item{\code{hw53.2}}{hemoglobin level (g/dl - 1 -na}                                
-#'     \item{\code{hw53.3}}{hemoglobin level (g/dl - 1 -na}                                
-#'     \item{\code{hw53.4}}{hemoglobin level (g/dl - 1 -na}                                
-#'     \item{\code{hw53.5}}{hemoglobin level (g/dl - 1 -na}                                
-#'     \item{\code{hw53.6}}{hemoglobin level (g/dl - 1 -na}                                
-#'     \item{\code{hw55.1}}{result of measuring (hemogl-na}                                
-#'     \item{\code{hw55.2}}{result of measuring (hemogl-na}                                
-#'     \item{\code{hw55.3}}{result of measuring (hemogl-na}                                
-#'     \item{\code{hw55.4}}{result of measuring (hemogl-na}                                
-#'     \item{\code{hw55.5}}{result of measuring (hemogl-na}                                
-#'     \item{\code{hw55.6}}{result of measuring (hemogl-na}                                
+#'     \item{\code{hw53.1}}{hemoglobin level (g/dl) - 1 -na}                                
+#'     \item{\code{hw53.2}}{hemoglobin level (g/dl) - 1 -na}                                
+#'     \item{\code{hw53.3}}{hemoglobin level (g/dl) - 1 -na}                                
+#'     \item{\code{hw53.4}}{hemoglobin level (g/dl) - 1 -na}                                
+#'     \item{\code{hw53.5}}{hemoglobin level (g/dl) - 1 -na}                                
+#'     \item{\code{hw53.6}}{hemoglobin level (g/dl) - 1 -na}                                
+#'     \item{\code{hw55.1}}{result of measuring (hemogl)-na}                                
+#'     \item{\code{hw55.2}}{result of measuring (hemogl)-na}                                
+#'     \item{\code{hw55.3}}{result of measuring (hemogl)-na}                                
+#'     \item{\code{hw55.4}}{result of measuring (hemogl)-na}                                
+#'     \item{\code{hw55.5}}{result of measuring (hemogl)-na}                                
+#'     \item{\code{hw55.6}}{result of measuring (hemogl)-na}                                
 #'     \item{\code{hw56.1}}{hemoglobin level adjusted b-na}                                
 #'     \item{\code{hw56.2}}{hemoglobin level adjusted b-na}                                
 #'     \item{\code{hw56.3}}{hemoglobin level adjusted b-na}                                
@@ -2864,30 +2864,30 @@
 #'     \item{\code{hw58.4}}{agrees to referral         -na}                                
 #'     \item{\code{hw58.5}}{agrees to referral         -na}                                
 #'     \item{\code{hw58.6}}{agrees to referral         -na}                                
-#'     \item{\code{hw70.1}}{ht/a standard deviations (a-na}                                
-#'     \item{\code{hw70.2}}{ht/a standard deviations (a-na}                                
-#'     \item{\code{hw70.3}}{ht/a standard deviations (a-na}                                
-#'     \item{\code{hw70.4}}{ht/a standard deviations (a-na}                                
-#'     \item{\code{hw70.5}}{ht/a standard deviations (a-na}                                
-#'     \item{\code{hw70.6}}{ht/a standard deviations (a-na}                                
-#'     \item{\code{hw71.1}}{wt/a standard deviations (a-na}                                
-#'     \item{\code{hw71.2}}{wt/a standard deviations (a-na}                                
-#'     \item{\code{hw71.3}}{wt/a standard deviations (a-na}                                
-#'     \item{\code{hw71.4}}{wt/a standard deviations (a-na}                                
-#'     \item{\code{hw71.5}}{wt/a standard deviations (a-na}                                
-#'     \item{\code{hw71.6}}{wt/a standard deviations (a-na}                                
-#'     \item{\code{hw72.1}}{wt/ht standard deviations (-na}                                
-#'     \item{\code{hw72.2}}{wt/ht standard deviations (-na}                                
-#'     \item{\code{hw72.3}}{wt/ht standard deviations (-na}                                
-#'     \item{\code{hw72.4}}{wt/ht standard deviations (-na}                                
-#'     \item{\code{hw72.5}}{wt/ht standard deviations (-na}                                
-#'     \item{\code{hw72.6}}{wt/ht standard deviations (-na}                                
-#'     \item{\code{hw73.1}}{bmi standard deviations (ac-na}                                
-#'     \item{\code{hw73.2}}{bmi standard deviations (ac-na}                                
-#'     \item{\code{hw73.3}}{bmi standard deviations (ac-na}                                
-#'     \item{\code{hw73.4}}{bmi standard deviations (ac-na}                                
-#'     \item{\code{hw73.5}}{bmi standard deviations (ac-na}                                
-#'     \item{\code{hw73.6}}{bmi standard deviations (ac-na}                                
+#'     \item{\code{hw70.1}}{ht/a standard deviations (a)-na}                                
+#'     \item{\code{hw70.2}}{ht/a standard deviations (a)-na}                                
+#'     \item{\code{hw70.3}}{ht/a standard deviations (a)-na}                                
+#'     \item{\code{hw70.4}}{ht/a standard deviations (a)-na}                                
+#'     \item{\code{hw70.5}}{ht/a standard deviations (a)-na}                                
+#'     \item{\code{hw70.6}}{ht/a standard deviations (a)-na}                                
+#'     \item{\code{hw71.1}}{wt/a standard deviations (a)-na}                                
+#'     \item{\code{hw71.2}}{wt/a standard deviations (a)-na}                                
+#'     \item{\code{hw71.3}}{wt/a standard deviations (a)-na}                                
+#'     \item{\code{hw71.4}}{wt/a standard deviations (a)-na}                                
+#'     \item{\code{hw71.5}}{wt/a standard deviations (a)-na}                                
+#'     \item{\code{hw71.6}}{wt/a standard deviations (a)-na}                                
+#'     \item{\code{hw72.1}}{wt/ht standard deviations (-na)}                                
+#'     \item{\code{hw72.2}}{wt/ht standard deviations (-na)}                                
+#'     \item{\code{hw72.3}}{wt/ht standard deviations (-na)}                                
+#'     \item{\code{hw72.4}}{wt/ht standard deviations (-na)}                                
+#'     \item{\code{hw72.5}}{wt/ht standard deviations (-na)}                                
+#'     \item{\code{hw72.6}}{wt/ht standard deviations (-na)}                                
+#'     \item{\code{hw73.1}}{bmi standard deviations (ac)-na}                                
+#'     \item{\code{hw73.2}}{bmi standard deviations (ac)-na}                                
+#'     \item{\code{hw73.3}}{bmi standard deviations (ac)-na}                                
+#'     \item{\code{hw73.4}}{bmi standard deviations (ac)-na}                                
+#'     \item{\code{hw73.5}}{bmi standard deviations (ac)-na}                                
+#'     \item{\code{hw73.6}}{bmi standard deviations (ac)-na}                                
 #'     \item{\code{v501}}{current marital status}                                          
 #'     \item{\code{v502}}{currently/formerly/never marr.}                                  
 #'     \item{\code{v503}}{number of unions}                                                
@@ -2906,7 +2906,7 @@
 #'     \item{\code{v528}}{time since last intercourse-na}                                  
 #'     \item{\code{v529}}{time since last intercourse-na}                                  
 #'     \item{\code{v530}}{flag for v529              -na}                                  
-#'     \item{\code{v531}}{age at first intercourse (i-na}                                  
+#'     \item{\code{v531}}{age at first intercourse (i)-na}                                  
 #'     \item{\code{v532}}{flag for v531              -na}                                  
 #'     \item{\code{v535}}{have ever been married     -na}                                  
 #'     \item{\code{v536}}{recent sexual activity     -na}                                  
@@ -3555,7 +3555,7 @@
 #'     \item{\code{slangi}}{language of interview}                                         
 #'     \item{\code{slangw}}{language woman speaks}                                         
 #'     \item{\code{awfactu2}}{awfactor (major urban, other urban, rural)}                  
-#'     \item{\code{awfacte2}}{awfactor education (educ2- 0,princ,pricmp,secyinc,seccomp,hi}
+#'     \item{\code{awfacte2}}{awfactor education (educ2- 0,princ,pricmp,secyinc,seccomp,hi)}
 #'     \item{\code{awfacte3}}{awfactor education (educ2- 0,prim,middle,secy,high)}         
 #'     \item{\code{s107fh}}{room cooler, air conditioner owns}                             
 #'     \item{\code{s107gh}}{washing machine owns}                                          
@@ -3614,7 +3614,7 @@
 #'     \item{\code{s710}}{would like to work if could find suitable job}                   
 #'     \item{\code{s713}}{ever worked before first married}                                
 #'     \item{\code{s714}}{ever worked after first married}                                 
-#'     \item{\code{s715}}{work status (current, before marriage, after marriage}           
+#'     \item{\code{s715}}{work status (current, before marriage, after marriage)}           
 #'     \item{\code{s811}}{ever talked with husband about ways to prevent getting hiv/a}    
 #'     \item{\code{s815a}}{sign of sti infection:wound without pain}                       
 #'     \item{\code{s815b}}{sign of sti infection:wound with pain}                          
@@ -4590,7 +4590,7 @@
 #' # Loading PKIR52
 #'  \dontrun{
 #'  load(url(
-#'   "https://github.com/myaseen208/PDHSData/raw/master/DHS2006-07/PKIR52.RData"
+#'   "https://github.com/myaseen208/PDHSData/raw/master/data/PKIR52.RData"
 #'   ))
 #'   PKIR52
 #'  }

@@ -630,7 +630,7 @@
 # Loading PKMR71
  \dontrun{
  load(url(
-  "https://github.com/myaseen208/PDHSData/raw/master/DHS2017-18/PKMR71.RData"
+  "https://github.com/myaseen208/PDHSData/raw/master/data/PKMR71.RData"
   ))
   PKMR71
  }

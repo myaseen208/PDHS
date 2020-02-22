@@ -3,7 +3,7 @@
 #' @description \code{PKKR52} data of Children's Recode from Pakistan Demographic and Health Survey 2006-07.
 #' \describe{
 #'       \item{\code{caseid}}{case identification}                                           
-#'       \item{\code{midx}}{notappl
+#'       \item{\code{midx}}{notappl}
 #'       \item{\code{v000}}{country code and phase}                                          
 #'       \item{\code{v001}}{cluster number}                                                  
 #'       \item{\code{v002}}{household number}                                                
@@ -141,7 +141,7 @@
 #'       \item{\code{v242}}{cmc termination ended prior-na}                                  
 #'       \item{\code{v243}}{completeness of last termin-na}                                  
 #'       \item{\code{v310}}{living children at first us-na}                                  
-#'       \item{\code{v311}}{children at first use (grpd-na}                                  
+#'       \item{\code{v311}}{children at first use (grpd)-na}                                  
 #'       \item{\code{v312}}{current contraceptive method}                                    
 #'       \item{\code{v313}}{current use by method type}                                      
 #'       \item{\code{v315}}{month of start of use of method}                                 
@@ -265,7 +265,7 @@
 #'     \item{\code{v414e}}{gave child bread, noddles, -na}                                 
 #'     \item{\code{v414f}}{gave child potatoes, cassav-na}                                 
 #'     \item{\code{v414g}}{gave child eggs            -na}                                 
-#'     \item{\code{v414h}}{gave child meat (beef, pork-na}                                 
+#'     \item{\code{v414h}}{gave child meat (beef, pork)-na}                                 
 #'     \item{\code{v414i}}{gave child pumpink, carrots-na}                                 
 #'     \item{\code{v414j}}{gave child any dark green l-na}                                 
 #'     \item{\code{v414k}}{gave child mangoes, papayas-na}                                 
@@ -287,14 +287,14 @@
 #'     \item{\code{v420}}{measurer's code            -na}                                  
 #'       \item{\code{v421}}{assistant measurer's code  -na}                                  
 #'     \item{\code{v426}}{when child put to breast}                                        
-#'     \item{\code{v437}}{respondent's weight (kilos--na}                                  
-#'       \item{\code{v438}}{respondent's height (cms-1d-na}                                  
+#'     \item{\code{v437}}{respondent's weight (kilos)--na}                                  
+#'       \item{\code{v438}}{respondent's height (cms-1d)-na}                                  
 #'     \item{\code{v439}}{ht/a percentile (resp.)    -na}                                  
-#'     \item{\code{v440}}{ht/a standard deviations (r-na}                                  
-#'     \item{\code{v441}}{ht/a percent ref. median (r-na}                                  
-#'     \item{\code{v442}}{wt/ht percent ref. median (-na}                                  
-#'     \item{\code{v443}}{wt/ht percent ref. median (-na}                                  
-#'     \item{\code{v444}}{wt/ht percent ref. median (-na}                                  
+#'     \item{\code{v440}}{ht/a standard deviations (r)-na}                                  
+#'     \item{\code{v441}}{ht/a percent ref. median (r)-na}                                  
+#'     \item{\code{v442}}{wt/ht percent ref. median ()-na}                                  
+#'     \item{\code{v443}}{wt/ht percent ref. median ()-na}                                  
+#'     \item{\code{v444}}{wt/ht percent ref. median ()-na}                                  
 #'     \item{\code{v444a}}{wt/ht std deviations(resp) -na}                                 
 #'     \item{\code{v445}}{body mass index for respond-na}                                  
 #'     \item{\code{v446}}{rohrer's index for responde-na}                                  
@@ -303,9 +303,9 @@
 #'     \item{\code{v452a}}{under age 18 (hh report)   -na}                                 
 #'     \item{\code{v452b}}{line no. of parent/caretake-na}                                 
 #'     \item{\code{v452c}}{read consent statement     -na}                                 
-#'     \item{\code{v453}}{hemoglobin level (g/dl - 1 -na}                                  
-#'     \item{\code{v454}}{currently pregnant (househo-na}                                  
-#'     \item{\code{v455}}{result of measuring (hemogl-na}                                  
+#'     \item{\code{v453}}{hemoglobin level (g/dl - 1) -na}                                  
+#'     \item{\code{v454}}{currently pregnant (househo)-na}                                  
+#'     \item{\code{v455}}{result of measuring (hemogl)-na}                                  
 #'     \item{\code{v456}}{hemoglobin level adjusted b-na}                                  
 #'     \item{\code{v457}}{anemia level               -na}                                  
 #'     \item{\code{v458}}{agrees to referral         -na}                                  
@@ -353,7 +353,7 @@
 #'       \item{\code{v472e}}{mother had bread, noddles, -na}                                 
 #'       \item{\code{v472f}}{mother had potatoes, cassav-na}                                 
 #'       \item{\code{v472g}}{mother had eggs            -na}                                 
-#'       \item{\code{v472h}}{mother had meat (beef, pork-na}                                 
+#'       \item{\code{v472h}}{mother had meat (beef, pork)-na}                                 
 #'       \item{\code{v472i}}{mother had pumpink, carrots-na}                                 
 #'       \item{\code{v472j}}{mother had any dark green l-na}                                 
 #'       \item{\code{v472k}}{mother had mangoes, papayas-na}                                 
@@ -367,7 +367,7 @@
 #'       \item{\code{v472s}}{mother had other solid-semi-na}                                 
 #'       \item{\code{v472t}}{mother had cs foods        -na}                                 
 #'       \item{\code{v472u}}{mother had cs foods        -na}                                 
-#'       \item{\code{v473a}}{read consent statement (hiv-na}                                 
+#'       \item{\code{v473a}}{read consent statement (hiv)-na}                                 
 #'       \item{\code{v473b}}{result of measuring (hiv)  -na}                                 
 #'       \item{\code{v474}}{heard of tuberculosis or tb}                                     
 #'       \item{\code{v474a}}{tuberculosis spread by: air when coughing or sneezing}          
@@ -419,7 +419,7 @@
 #'     \item{\code{v528}}{time since last intercourse-na}                                  
 #'     \item{\code{v529}}{time since last intercourse-na}                                  
 #'     \item{\code{v530}}{flag for v529              -na}                                  
-#'     \item{\code{v531}}{age at first intercourse (i-na}                                  
+#'     \item{\code{v531}}{age at first intercourse (i)-na}                                  
 #'     \item{\code{v532}}{flag for v531              -na}                                  
 #'     \item{\code{v535}}{have ever been married     -na}                                  
 #'     \item{\code{v536}}{recent sexual activity     -na}                                  
@@ -721,7 +721,7 @@
 #'       \item{\code{h15c}}{given an intravenous (iv)}                                       
 #'       \item{\code{h15d}}{given home remedy, herbal med.}                                  
 #'       \item{\code{h15e}}{given zinc                 -na}                                  
-#'       \item{\code{h15f}}{given other (not antibiotic-na}                                  
+#'       \item{\code{h15f}}{given other (not antibiotic)-na}                                  
 #'       \item{\code{h15g}}{given unknown pill or syrup}                                     
 #'       \item{\code{h15h}}{given not antibiotic inject-na}                                  
 #'       \item{\code{h15i}}{given unknown injection}                                         
@@ -764,7 +764,7 @@
 #'       \item{\code{h32x}}{fever/cough: other}                                              
 #'       \item{\code{h32y}}{fever/cough: no treatment}                                       
 #'       \item{\code{h32z}}{fever/cough: medical treatment}                                  
-#'       \item{\code{h33}}{received vitamin a1 (most r-na}                                   
+#'       \item{\code{h33}}{received vitamin a1 (most r)-na}                                   
 #'       \item{\code{h33d}}{vitamin a1 day             -na}                                  
 #'       \item{\code{h33m}}{vitamin a1 month           -na}                                  
 #'       \item{\code{h33y}}{vitamin a1 year            -na}                                  
@@ -797,7 +797,7 @@
 #'       \item{\code{h37z}}{don't know if or what was taken for fever/convulsion}            
 #'     \item{\code{h38}}{had diarrhea in last 2 weeks: amount offered to drink}            
 #'     \item{\code{h39}}{had diarrhea in last 2 weeks: amount offered to eat}              
-#'     \item{\code{h40}}{received vitamin a2 (2nd mo-na}                                   
+#'     \item{\code{h40}}{received vitamin a2 (2nd mo)-na}                                   
 #'     \item{\code{h40d}}{vitamin a2 day             -na}                                  
 #'     \item{\code{h40m}}{vitamin a2 month           -na}                                  
 #'     \item{\code{h40y}}{vitamin a2 year            -na}                                  
@@ -813,8 +813,8 @@
 #'     \item{\code{h46b}}{days after fever sought advice or treatment}                     
 #'     \item{\code{hwidx}}{index to birth history}                                         
 #'     \item{\code{hw1}}{age in months              -na}                                   
-#'     \item{\code{hw2}}{weight in kilograms (1 dec.-na}                                   
-#'     \item{\code{hw3}}{height in centimeters (1 de-na}                                   
+#'     \item{\code{hw2}}{weight in kilograms (1 dec.)-na}                                   
+#'     \item{\code{hw3}}{height in centimeters (1 de)-na}                                   
 #'     \item{\code{hw4}}{ht/a percentile            -na}                                   
 #'     \item{\code{hw5}}{ht/a standard deviations   -na}                                   
 #'     \item{\code{hw6}}{ht/a percent of ref. median-na}                                   
@@ -832,15 +832,15 @@
 #'     \item{\code{hw19}}{date measured (year)       -na}                                  
 #'     \item{\code{hw51}}{line no. of parent/caretake-na}                                  
 #'     \item{\code{hw52}}{read consent statement     -na}                                  
-#'     \item{\code{hw53}}{hemoglobin level (g/dl - 1 -na}                                  
-#'     \item{\code{hw55}}{result of measuring (hemogl-na}                                  
+#'     \item{\code{hw53}}{hemoglobin level (g/dl - 1) -na}                                  
+#'     \item{\code{hw55}}{result of measuring (hemogl)-na}                                  
 #'     \item{\code{hw56}}{hemoglobin level adjusted b-na}                                  
 #'     \item{\code{hw57}}{anemia level               -na}                                  
 #'     \item{\code{hw58}}{agrees to referral         -na}                                  
-#'     \item{\code{hw70}}{ht/a standard deviations (a-na}                                  
-#'     \item{\code{hw71}}{wt/a standard deviations (a-na}                                  
-#'     \item{\code{hw72}}{wt/ht standard deviations (-na}                                  
-#'     \item{\code{hw73}}{bmi standard deviations (ac-na}                                  
+#'     \item{\code{hw70}}{ht/a standard deviations (a)-na}                                  
+#'     \item{\code{hw71}}{wt/a standard deviations (a)-na}                                  
+#'     \item{\code{hw72}}{wt/ht standard deviations ()-na}                                  
+#'     \item{\code{hw73}}{bmi standard deviations (ac)-na}                                  
 #'     \item{\code{idxml}}{index to birth history}                                         
 #'     \item{\code{ml0}}{type of bednet(s) child slept under last night}                   
 #'     \item{\code{ml1}}{times took fansidar during -na}                                   
@@ -909,7 +909,7 @@
 #'       \item{\code{slangi}}{language of interview}                                         
 #'       \item{\code{slangw}}{language woman speaks}                                         
 #'       \item{\code{awfactu2}}{awfactor (major urban, other urban, rural)}                  
-#'       \item{\code{awfacte2}}{awfactor education (educ2- 0,princ,pricmp,secyinc,seccomp,hi}
+#'       \item{\code{awfacte2}}{awfactor education (educ2- 0,princ,pricmp,secyinc,seccomp,hi)}
 #'       \item{\code{awfacte3}}{awfactor education (educ2- 0,prim,middle,secy,high)}         
 #'       \item{\code{s107fh}}{room cooler, air conditioner owns}                             
 #'       \item{\code{s107gh}}{washing machine owns}                                          
@@ -968,7 +968,7 @@
 #'     \item{\code{s710}}{would like to work if could find suitable job}                   
 #'     \item{\code{s713}}{ever worked before first married}                                
 #'     \item{\code{s714}}{ever worked after first married}                                 
-#'     \item{\code{s715}}{work status (current, before marriage, after marriage}           
+#'     \item{\code{s715}}{work status (current, before marriage, after marriage)}           
 #'     \item{\code{s811}}{ever talked with husband about ways to prevent getting hiv/a}    
 #'     \item{\code{s815a}}{sign of sti infection:wound without pain}                       
 #'     \item{\code{s815b}}{sign of sti infection:wound with pain}                          
@@ -1159,7 +1159,7 @@
 #' # Loading PKKR52
 #'  \dontrun{
 #'  load(url(
-#'   "https://github.com/myaseen208/PDHSData/raw/master/DHS2006-07/PKKR52.RData"
+#'   "https://github.com/myaseen208/PDHSData/raw/master/data/PKKR52.RData"
 #'   ))
 #'   PKKR52
 #'  }

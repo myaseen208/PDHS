@@ -1207,7 +1207,7 @@
 #' # Loading PKBR71
 #'  \dontrun{
 #'  load(url(
-#'   "https://github.com/myaseen208/PDHSData/raw/master/DHS2017-18/PKBR71.RData"
+#'   "https://github.com/myaseen208/PDHSData/raw/master/data/PKBR71.RData"
 #'   ))
 #'   PKBR71
 #'  }

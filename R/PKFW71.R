@@ -47,7 +47,7 @@
 #' # Loading PKFW71
 #'  \dontrun{
 #'  load(url(
-#'   "https://github.com/myaseen208/PDHSData/raw/master/DHS2017-18/PKFW71.RData"
+#'   "https://github.com/myaseen208/PDHSData/raw/master/data/PKFW71.RData"
 #'   ))
 #'   PKFW71
 #'  }

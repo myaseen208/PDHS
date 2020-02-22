@@ -1119,7 +1119,7 @@
 #' # Loading PKMR61
 #'  \dontrun{
 #'  load(url(
-#'   "https://github.com/myaseen208/PDHSData/raw/master/DHS2012-13/PKMR61.RData"
+#'   "https://github.com/myaseen208/PDHSData/raw/master/data/PKMR61.RData"
 #'   ))
 #'   PKMR61
 #'  }

@@ -4566,7 +4566,7 @@
 # Loading PKHR71
  \dontrun{
  load(url(
-  "https://github.com/myaseen208/PDHSData/raw/master/DHS2017-18/PKHR71.RData"
+  "https://github.com/myaseen208/PDHSData/raw/master/data/PKHR71.RData"
   ))
   PKHR71
  }

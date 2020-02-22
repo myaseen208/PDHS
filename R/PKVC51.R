@@ -11,8 +11,8 @@
 #'     \item{\code{qnumber}}{household number}                                              
 #'     \item{\code{qregion}}{region of residence}                                           
 #'     \item{\code{qdist}}{district}                                                        
-#'     \item{\code{qlocal3}}{city\town\countryside - 3 values}                            
-#'     \item{\code{qlocal4}}{city\town\countryside}                                       
+#'     \item{\code{qlocal3}}{city \ town \ countryside - 3 values}                            
+#'     \item{\code{qlocal4}}{city \ town \ countryside}                                       
 #'     \item{\code{typeq}}{type of questionnaire (alpha)}                                   
 #'     \item{\code{qintd}}{day of interview}                                                
 #'     \item{\code{qintm}}{month of interview}                                              
@@ -601,7 +601,7 @@
 #' # Loading PKVC51
 #'  \dontrun{
 #'  load(url(
-#'   "https://github.com/myaseen208/PDHSData/raw/master/DHS2006-07/PKVC51.RData"
+#'   "https://github.com/myaseen208/PDHSData/raw/master/data/PKVC51.RData"
 #'   ))
 #'   PKVC51
 #'  }

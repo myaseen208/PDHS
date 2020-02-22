@@ -27,7 +27,7 @@
 #' # Loading PKWI21
 #'  \dontrun{
 #'  load(url(
-#'   "https://github.com/myaseen208/PDHSData/raw/master/DHS1990-91/PKWI21.RData"
+#'   "https://github.com/myaseen208/PDHSData/raw/master/data/PKWI21.RData"
 #'   ))
 #'   PKWI21
 #'  }

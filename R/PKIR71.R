@@ -5352,7 +5352,7 @@
 #' # Loading PKIR71
 #'  \dontrun{
 #'  load(url(
-#'   "https://github.com/myaseen208/PDHSData/raw/master/DHS2017-18/PKIR71.RData"
+#'   "https://github.com/myaseen208/PDHSData/raw/master/data/PKIR71.RData"
 #'   ))
 #'   PKIR71
 #'  }

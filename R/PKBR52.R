@@ -197,7 +197,7 @@
 #'     \item{\code{v3a00q}}{source of fp for non-users:-na}                                
 #'     \item{\code{v3a00r}}{source of fp for non-users:  oth med.priv sect}                
 #'     \item{\code{v3a00s}}{source of fp for non-users:  shop}                             
-#'     \item{\code{v3a00t}}{source of fp for non-users:-na}                                
+#'     \item{\code{v3a00t}}{source of fp for non-users:-na}                                     
 #'     \item{\code{v3a00u}}{source of fp for non-users:  friend, relative}                 
 #'     \item{\code{v3a00v}}{source of fp for non-users:  hakim}                            
 #'     \item{\code{v3a00w}}{source of fp for non-users:  dai, tba}                         
@@ -265,7 +265,7 @@
 #'     \item{\code{v414e}}{gave child bread, noddles, -na}                                 
 #'     \item{\code{v414f}}{gave child potatoes, cassav-na}                                 
 #'     \item{\code{v414g}}{gave child eggs            -na}                                 
-#'     \item{\code{v414h}}{gave child meat (beef, pork-na}                                 
+#'     \item{\code{v414h}}{gave child meat (beef), pork-na}                                 
 #'     \item{\code{v414i}}{gave child pumpink, carrots-na}                                 
 #'     \item{\code{v414j}}{gave child any dark green l-na}                                 
 #'     \item{\code{v414k}}{gave child mangoes, papayas-na}                                 
@@ -287,14 +287,14 @@
 #'     \item{\code{v420}}{measurer's code            -na}                                  
 #'     \item{\code{v421}}{assistant measurer's code  -na}                                  
 #'     \item{\code{v426}}{when child put to breast}                                        
-#'     \item{\code{v437}}{respondent's weight (kilos--na}                                  
-#'     \item{\code{v438}}{respondent's height (cms-1d-na}                                  
+#'     \item{\code{v437}}{respondent's weight (kilos)--na}                                  
+#'     \item{\code{v438}}{respondent's height (cms)-1d-na}                                  
 #'     \item{\code{v439}}{ht/a percentile (resp.)    -na}                                  
-#'     \item{\code{v440}}{ht/a standard deviations (r-na}                                  
-#'     \item{\code{v441}}{ht/a percent ref. median (r-na}                                  
-#'     \item{\code{v442}}{wt/ht percent ref. median (-na}                                  
-#'     \item{\code{v443}}{wt/ht percent ref. median (-na}                                  
-#'     \item{\code{v444}}{wt/ht percent ref. median (-na}                                  
+#'     \item{\code{v440}}{ht/a standard deviations (r)-na}                                  
+#'     \item{\code{v441}}{ht/a percent ref. median (r)-na}                                  
+#'     \item{\code{v442}}{wt/ht percent ref. median (-na)}                                  
+#'     \item{\code{v443}}{wt/ht percent ref. median (-na)}                                  
+#'     \item{\code{v444}}{wt/ht percent ref. median (-na)}                                  
 #'     \item{\code{v444a}}{wt/ht std deviations(resp) -na}                                 
 #'     \item{\code{v445}}{body mass index for respond-na}                                  
 #'     \item{\code{v446}}{rohrer's index for responde-na}                                  
@@ -303,9 +303,9 @@
 #'     \item{\code{v452a}}{under age 18 (hh report)   -na}                                 
 #'     \item{\code{v452b}}{line no. of parent/caretake-na}                                 
 #'     \item{\code{v452c}}{read consent statement     -na}                                 
-#'     \item{\code{v453}}{hemoglobin level (g/dl - 1 -na}                                  
-#'     \item{\code{v454}}{currently pregnant (househo-na}                                  
-#'     \item{\code{v455}}{result of measuring (hemogl-na}                                  
+#'     \item{\code{v453}}{hemoglobin level (g/dl) - 1 -na}                                  
+#'     \item{\code{v454}}{currently pregnant (househo-na)}                                  
+#'     \item{\code{v455}}{result of measuring (hemogl-na)}                                  
 #'     \item{\code{v456}}{hemoglobin level adjusted b-na}                                  
 #'     \item{\code{v457}}{anemia level               -na}                                  
 #'     \item{\code{v458}}{agrees to referral         -na}                                  
@@ -353,7 +353,7 @@
 #'     \item{\code{v472e}}{mother had bread, noddles, -na}                                 
 #'     \item{\code{v472f}}{mother had potatoes, cassav-na}                                 
 #'     \item{\code{v472g}}{mother had eggs            -na}                                 
-#'     \item{\code{v472h}}{mother had meat (beef, pork-na}                                 
+#'     \item{\code{v472h}}{mother had meat (beef), pork-na}                                 
 #'     \item{\code{v472i}}{mother had pumpink, carrots-na}                                 
 #'     \item{\code{v472j}}{mother had any dark green l-na}                                 
 #'     \item{\code{v472k}}{mother had mangoes, papayas-na}                                 
@@ -367,7 +367,7 @@
 #'     \item{\code{v472s}}{mother had other solid-semi-na}                                 
 #'     \item{\code{v472t}}{mother had cs foods        -na}                                 
 #'     \item{\code{v472u}}{mother had cs foods        -na}                                 
-#'     \item{\code{v473a}}{read consent statement (hiv-na}                                 
+#'     \item{\code{v473a}}{read consent statement (hiv-na)}                                 
 #'     \item{\code{v473b}}{result of measuring (hiv)  -na}                                 
 #'     \item{\code{v474}}{heard of tuberculosis or tb}                                     
 #'     \item{\code{v474a}}{tuberculosis spread by: air when coughing or sneezing}          
@@ -419,7 +419,7 @@
 #'     \item{\code{v528}}{time since last intercourse-na}                                  
 #'     \item{\code{v529}}{time since last intercourse-na}                                  
 #'     \item{\code{v530}}{flag for v529              -na}                                  
-#'     \item{\code{v531}}{age at first intercourse (i-na}                                  
+#'     \item{\code{v531}}{age at first intercourse (i-na)}                                  
 #'     \item{\code{v532}}{flag for v531              -na}                                  
 #'     \item{\code{v535}}{have ever been married     -na}                                  
 #'     \item{\code{v536}}{recent sexual activity     -na}                                  
@@ -497,307 +497,307 @@
 #'     \item{\code{b10}}{completeness of information}                                      
 #'     \item{\code{b11}}{preceding birth interval}                                         
 #'     \item{\code{b12}}{succeeding birth interval}                                        
-#'     \item{\code{b13}}{flag for age at death}                                            
+#'     \item{\code{b13}}{flag for age at death} 
 #'     \item{\code{b15}}{live birth between births}                                        
 #'     \item{\code{b16}}{child's line number in household}                                 
-#'     \item{\code{midx}}{notappl
-#'       \item{\code{m1}}{tetanus injections bef. birth}                                     
-#'       \item{\code{m1a}}{tetanus injections before pregnancy}                              
-#'       \item{\code{m1b}}{month last tetanus injection before pregnancy}                    
-#'       \item{\code{m1c}}{year last tetanus injection before pregnancy}                     
-#'       \item{\code{m1d}}{years ago received last tetanus injection before pregnancy}       
-#'       \item{\code{m1e}}{last tetanus injection before pregnancy (cmc)}                    
-#'       \item{\code{m2a}}{prenatal: doctor}                                                 
-#'       \item{\code{m2b}}{prenatal: nurse/midwife/lady health visitor}                      
-#'       \item{\code{m2c}}{prenatal: auxiliary midwife-na}                                   
-#'       \item{\code{m2d}}{prenatal: cs health profess-na}                                   
-#'       \item{\code{m2e}}{prenatal: cs health profess-na}                                   
-#'       \item{\code{m2f}}{prenatal: trained birth att-na}                                   
-#'       \item{\code{m2g}}{prenatal: trad.birth attendant/dai}                               
-#'       \item{\code{m2h}}{prenatal: relative         -na}                                   
-#'       \item{\code{m2i}}{prenatal: lady health worker}                                     
-#'       \item{\code{m2j}}{prenatal: homeopath}                                              
-#'       \item{\code{m2k}}{prenatal: other resp (uncoded)}                                   
-#'       \item{\code{m2l}}{prenatal: hakim}                                                  
-#'       \item{\code{m2m}}{prenatal: dispenser/compounder}                                   
-#'       \item{\code{m2n}}{prenatal: no one}                                                 
-#'       \item{\code{m3a}}{assistance: doctor}                                               
-#'       \item{\code{m3b}}{assistance: nurse/midwife/lady health visitor}                    
-#'       \item{\code{m3c}}{assistance: auxiliary midwi-na}                                   
-#'       \item{\code{m3d}}{assistance: cs health profe-na}                                   
-#'       \item{\code{m3e}}{assistance: cs health profe-na}                                   
-#'       \item{\code{m3f}}{assistance: trained birth a-na}                                   
-#'       \item{\code{m3g}}{assistance: trad.birth attend/dai}                                
-#'       \item{\code{m3h}}{assistance: relative, friend}                                     
-#'       \item{\code{m3i}}{assistance: lady health worker}                                   
-#'       \item{\code{m3j}}{assistance: homeopath}                                            
-#'       \item{\code{m3k}}{assistance: other resp (uncod)}                                   
-#'       \item{\code{m3l}}{assistance: hakim}                                                
-#'       \item{\code{m3m}}{assistance: cs other       -na}                                   
-#'       \item{\code{m3n}}{assistance: no one}                                               
-#'       \item{\code{m4}}{duration of breastfeeding}                                         
-#'       \item{\code{m5}}{months of breastfeeding}                                           
-#'       \item{\code{m6}}{duration of amenorrhea}                                            
-#'       \item{\code{m7}}{months of amenorrhea}                                              
-#'       \item{\code{m8}}{duration of abstinence}                                            
-#'       \item{\code{m9}}{months of abstinence}                                              
-#'       \item{\code{m10}}{time wanted pregnancy}                                            
-#'       \item{\code{m11}}{time would have waited}                                           
-#'       \item{\code{m13}}{timing of 1st antenatal check}                                    
-#'       \item{\code{m14}}{antenatal visits for pregnancy}                                   
-#'       \item{\code{m15}}{place of delivery}                                                
-#'       \item{\code{m17}}{delivery by caesarian section}                                    
-#'       \item{\code{m18}}{size of child at birth}                                           
-#'       \item{\code{m19}}{birth weight (kilos - 3 dec.)}                                    
-#'       \item{\code{m19a}}{weight at birth recall}                                          
-#'       \item{\code{m27}}{flag for breastfeeding}                                           
-#'       \item{\code{m28}}{flag for amenorrhea}                                              
-#'       \item{\code{m29}}{flag for abstinence}                                              
-#'       \item{\code{m34}}{when child put to breast}                                         
-#'       \item{\code{m35}}{times breastfed during night}                                     
-#'       \item{\code{m36}}{times breastfed during day}                                       
-#'       \item{\code{m38}}{drank from bottle with nipple}                                    
-#'       \item{\code{m39}}{times ate solid, semi-solid-na}                                   
-#'       \item{\code{m42a}}{during pregnancy - weighed}                                      
-#'       \item{\code{m42b}}{during pregnancy - height m-na}                                  
-#'       \item{\code{m42c}}{during pregnancy - blood pressure taken}                         
-#'       \item{\code{m42d}}{during pregnancy - urine sample taken}                           
-#'       \item{\code{m42e}}{during pregnancy - blood sample taken}                           
-#'       \item{\code{m43}}{told about pregnancy complications}                               
-#'       \item{\code{m44}}{told where to go for pregnancy complications}                     
-#'       \item{\code{m45}}{during pregancy, given or bought iron tablets/syrup}              
-#'       \item{\code{m46}}{days tablets or syrup taken}                                      
-#'       \item{\code{m47}}{during pregnancy, had difficulty with daylight vision}            
-#'       \item{\code{m48}}{during pregnancy, had difficulty with night blindness}            
-#'       \item{\code{m49a}}{during pregnancy - took fan-na}                                  
-#'       \item{\code{m49b}}{during pregnancy - took chl-na}                                  
-#'       \item{\code{m49c}}{during pregnancy - took unk-na}                                  
-#'       \item{\code{m49d}}{during pregnancy - took cou-na}                                  
-#'       \item{\code{m49e}}{during pregnancy - took cou-na}                                  
-#'       \item{\code{m49f}}{during pregnancy - took cou-na}                                  
-#'       \item{\code{m49g}}{during pregnancy - took cou-na}                                  
-#'       \item{\code{m49x}}{during pregnancy - took oth-na}                                  
-#'       \item{\code{m49z}}{during pregnancy - took no -na}                                  
-#'       \item{\code{m51a}}{respondent checkup after deliver timing}                         
-#'       \item{\code{m54}}{received vitamin a dose in first 2 months after delivery}         
-#'       \item{\code{m55a}}{first 3 days, given milk other than breast milk}                 
-#'       \item{\code{m55b}}{first 3 days, given plain water}                                 
-#'       \item{\code{m55c}}{first 3 days, given sugar/glucose water}                         
-#'       \item{\code{m55d}}{first 3 days, given gripe w-na}                                  
-#'       \item{\code{m55e}}{first 3 days, given sugar/s-na}                                  
-#'       \item{\code{m55f}}{first 3 days, given fruit juice}                                 
-#'       \item{\code{m55g}}{first 3 days, given infant formula}                              
-#'       \item{\code{m55h}}{first 3 days, given tea/infusions}                               
-#'       \item{\code{m55i}}{first 3 days, given honey  -na}                                  
-#'       \item{\code{m55j}}{first 3 days, given ghee, butter}                                
-#'       \item{\code{m55k}}{first 3 days, given ghutee}                                      
-#'       \item{\code{m55l}}{first 3 days, given cs herbs/traditional medicines}              
-#'       \item{\code{m55m}}{first 3 days, given country-na}                                  
-#'       \item{\code{m55n}}{first 3 days, given country-na}                                  
-#'       \item{\code{m55x}}{first 3 days, given other}                                       
-#'       \item{\code{m55z}}{first 3 days, given nothing}                                     
-#'       \item{\code{m57a}}{antenatal care: your home}                                       
-#'       \item{\code{m57b}}{antenatal care: other home}                                      
-#'       \item{\code{m57c}}{antenatal care: cs home    -na}                                  
-#'       \item{\code{m57d}}{antenatal care: cs home    -na}                                  
-#'       \item{\code{m57e}}{antenatal care: govt. hospital}                                  
-#'       \item{\code{m57f}}{antenatal care: govt. health center}                             
-#'       \item{\code{m57g}}{antenatal care: govt. healt-na}                                  
-#'       \item{\code{m57h}}{antenatal care: public mobi-na}                                  
-#'       \item{\code{m57i}}{antenatal care: cs public bhu/fwc}                               
-#'       \item{\code{m57j}}{antenatal care: cs public  -na}                                  
-#'       \item{\code{m57k}}{antenatal care: cs public  -na}                                  
-#'       \item{\code{m57l}}{antenatal care: other public}                                    
-#'       \item{\code{m57m}}{antenatal care: pvt. hospital/clinic}                            
-#'       \item{\code{m57n}}{antenatal care: pvt. mobile-na}                                  
-#'       \item{\code{m57o}}{antenatal care: cs pvt. private doctor}                          
-#'       \item{\code{m57p}}{antenatal care: cs pvt.homeopath}                                
-#'       \item{\code{m57q}}{antenatal care: cs pvt.dispenser/compounder}                     
-#'       \item{\code{m57r}}{antenatal care: other private}                                   
-#'       \item{\code{m57s}}{antenatal care: cs other hakim}                                  
-#'       \item{\code{m57t}}{antenatal care: cs other   -na}                                  
-#'       \item{\code{m57u}}{antenatal care: cs other   -na}                                  
-#'       \item{\code{m57v}}{antenatal care: cs other   -na}                                  
-#'       \item{\code{m57x}}{antenatal care: other}                                           
-#'       \item{\code{m60}}{drugs for intestinal parasi-na}                                   
-#'       \item{\code{m61}}{time spent at place of delivery}                                  
-#'       \item{\code{m62}}{anyone checked respondent health before discharge}                
-#'       \item{\code{m63}}{how long before discharging resondent health check took plac}     
-#'       \item{\code{m64}}{who checked respondent health before discharge}                   
-#'       \item{\code{m65a}}{reason didn't deliver at health facility: cost too much}         
+#'     \item{\code{midx}}{notappl}
+#'     \item{\code{m1}}{tetanus injections bef. birth}                                     
+#'     \item{\code{m1a}}{tetanus injections before pregnancy}                              
+#'     \item{\code{m1b}}{month last tetanus injection before pregnancy}                    
+#'     \item{\code{m1c}}{year last tetanus injection before pregnancy}                     
+#'     \item{\code{m1d}}{years ago received last tetanus injection before pregnancy}       
+#'     \item{\code{m1e}}{last tetanus injection before pregnancy (cmc)}                    
+#'     \item{\code{m2a}}{prenatal: doctor}                                                 
+#'     \item{\code{m2b}}{prenatal: nurse/midwife/lady health visitor}                      
+#'     \item{\code{m2c}}{prenatal: auxiliary midwife-na}                                   
+#'     \item{\code{m2d}}{prenatal: cs health profess-na}                                   
+#'     \item{\code{m2e}}{prenatal: cs health profess-na}                                   
+#'     \item{\code{m2f}}{prenatal: trained birth att-na}                                   
+#'     \item{\code{m2g}}{prenatal: trad.birth attendant/dai}                               
+#'     \item{\code{m2h}}{prenatal: relative         -na}                                   
+#'     \item{\code{m2i}}{prenatal: lady health worker}                                     
+#'     \item{\code{m2j}}{prenatal: homeopath}                                              
+#'     \item{\code{m2k}}{prenatal: other resp (uncoded)}                                   
+#'     \item{\code{m2l}}{prenatal: hakim}                                                  
+#'     \item{\code{m2m}}{prenatal: dispenser/compounder}                                   
+#'     \item{\code{m2n}}{prenatal: no one}                                                 
+#'     \item{\code{m3a}}{assistance: doctor}                                               
+#'     \item{\code{m3b}}{assistance: nurse/midwife/lady health visitor}                    
+#'     \item{\code{m3c}}{assistance: auxiliary midwi-na}                                   
+#'     \item{\code{m3d}}{assistance: cs health profe-na}                                   
+#'     \item{\code{m3e}}{assistance: cs health profe-na}                                   
+#'     \item{\code{m3f}}{assistance: trained birth a-na}                                   
+#'     \item{\code{m3g}}{assistance: trad.birth attend/dai}                                
+#'     \item{\code{m3h}}{assistance: relative, friend}                                     
+#'     \item{\code{m3i}}{assistance: lady health worker}                                   
+#'     \item{\code{m3j}}{assistance: homeopath}                                            
+#'     \item{\code{m3k}}{assistance: other resp (uncod)}                                   
+#'     \item{\code{m3l}}{assistance: hakim}                                                
+#'     \item{\code{m3m}}{assistance: cs other       -na}                                   
+#'     \item{\code{m3n}}{assistance: no one}                                               
+#'     \item{\code{m4}}{duration of breastfeeding}                                         
+#'     \item{\code{m5}}{months of breastfeeding}                                           
+#'     \item{\code{m6}}{duration of amenorrhea}                                            
+#'     \item{\code{m7}}{months of amenorrhea}                                              
+#'     \item{\code{m8}}{duration of abstinence}                                            
+#'     \item{\code{m9}}{months of abstinence}                                              
+#'     \item{\code{m10}}{time wanted pregnancy}                                            
+#'     \item{\code{m11}}{time would have waited}                                           
+#'     \item{\code{m13}}{timing of 1st antenatal check}                                    
+#'     \item{\code{m14}}{antenatal visits for pregnancy}                                   
+#'     \item{\code{m15}}{place of delivery}                                                
+#'     \item{\code{m17}}{delivery by caesarian section}                                    
+#'     \item{\code{m18}}{size of child at birth}                                           
+#'     \item{\code{m19}}{birth weight (kilos - 3 dec.)}                                    
+#'     \item{\code{m19a}}{weight at birth recall}                                          
+#'     \item{\code{m27}}{flag for breastfeeding}                                           
+#'     \item{\code{m28}}{flag for amenorrhea}                                              
+#'     \item{\code{m29}}{flag for abstinence}                                              
+#'     \item{\code{m34}}{when child put to breast}                                         
+#'     \item{\code{m35}}{times breastfed during night}                                     
+#'     \item{\code{m36}}{times breastfed during day}                                       
+#'     \item{\code{m38}}{drank from bottle with nipple}                                    
+#'     \item{\code{m39}}{times ate solid, semi-solid-na}                                   
+#'     \item{\code{m42a}}{during pregnancy - weighed}                                      
+#'     \item{\code{m42b}}{during pregnancy - height m-na}                                  
+#'     \item{\code{m42c}}{during pregnancy - blood pressure taken}                         
+#'     \item{\code{m42d}}{during pregnancy - urine sample taken}                           
+#'     \item{\code{m42e}}{during pregnancy - blood sample taken}                           
+#'     \item{\code{m43}}{told about pregnancy complications}                               
+#'     \item{\code{m44}}{told where to go for pregnancy complications}                     
+#'     \item{\code{m45}}{during pregancy, given or bought iron tablets/syrup}              
+#'     \item{\code{m46}}{days tablets or syrup taken}                                      
+#'     \item{\code{m47}}{during pregnancy, had difficulty with daylight vision}            
+#'     \item{\code{m48}}{during pregnancy, had difficulty with night blindness}            
+#'     \item{\code{m49a}}{during pregnancy - took fan-na}                                  
+#'     \item{\code{m49b}}{during pregnancy - took chl-na}                                  
+#'     \item{\code{m49c}}{during pregnancy - took unk-na}                                  
+#'     \item{\code{m49d}}{during pregnancy - took cou-na}                                  
+#'     \item{\code{m49e}}{during pregnancy - took cou-na}                                  
+#'     \item{\code{m49f}}{during pregnancy - took cou-na}                                  
+#'     \item{\code{m49g}}{during pregnancy - took cou-na}                                  
+#'     \item{\code{m49x}}{during pregnancy - took oth-na}                                  
+#'     \item{\code{m49z}}{during pregnancy - took no -na}                                  
+#'     \item{\code{m51a}}{respondent checkup after deliver timing}                         
+#'     \item{\code{m54}}{received vitamin a dose in first 2 months after delivery}         
+#'     \item{\code{m55a}}{first 3 days, given milk other than breast milk}                 
+#'     \item{\code{m55b}}{first 3 days, given plain water}                                 
+#'     \item{\code{m55c}}{first 3 days, given sugar/glucose water}                         
+#'     \item{\code{m55d}}{first 3 days, given gripe w-na}                                  
+#'     \item{\code{m55e}}{first 3 days, given sugar/s-na}                                  
+#'     \item{\code{m55f}}{first 3 days, given fruit juice}                                 
+#'     \item{\code{m55g}}{first 3 days, given infant formula}                              
+#'     \item{\code{m55h}}{first 3 days, given tea/infusions}                               
+#'     \item{\code{m55i}}{first 3 days, given honey  -na}                                  
+#'     \item{\code{m55j}}{first 3 days, given ghee, butter}                                
+#'     \item{\code{m55k}}{first 3 days, given ghutee}                                      
+#'     \item{\code{m55l}}{first 3 days, given cs herbs/traditional medicines}              
+#'     \item{\code{m55m}}{first 3 days, given country-na}                                  
+#'     \item{\code{m55n}}{first 3 days, given country-na}                                  
+#'     \item{\code{m55x}}{first 3 days, given other}                                       
+#'     \item{\code{m55z}}{first 3 days, given nothing}                                     
+#'     \item{\code{m57a}}{antenatal care: your home}                                       
+#'     \item{\code{m57b}}{antenatal care: other home}                                      
+#'     \item{\code{m57c}}{antenatal care: cs home    -na}                                  
+#'     \item{\code{m57d}}{antenatal care: cs home    -na}                                  
+#'     \item{\code{m57e}}{antenatal care: govt. hospital}                                  
+#'     \item{\code{m57f}}{antenatal care: govt. health center}                             
+#'     \item{\code{m57g}}{antenatal care: govt. healt-na}                                  
+#'     \item{\code{m57h}}{antenatal care: public mobi-na}                                  
+#'     \item{\code{m57i}}{antenatal care: cs public bhu/fwc}                               
+#'     \item{\code{m57j}}{antenatal care: cs public  -na}                                  
+#'     \item{\code{m57k}}{antenatal care: cs public  -na}                                  
+#'     \item{\code{m57l}}{antenatal care: other public}                                    
+#'     \item{\code{m57m}}{antenatal care: pvt. hospital/clinic}                            
+#'     \item{\code{m57n}}{antenatal care: pvt. mobile-na}                                  
+#'     \item{\code{m57o}}{antenatal care: cs pvt. private doctor}                          
+#'     \item{\code{m57p}}{antenatal care: cs pvt.homeopath}                                
+#'     \item{\code{m57q}}{antenatal care: cs pvt.dispenser/compounder}                     
+#'     \item{\code{m57r}}{antenatal care: other private}                                   
+#'     \item{\code{m57s}}{antenatal care: cs other hakim}                                  
+#'     \item{\code{m57t}}{antenatal care: cs other   -na}                                  
+#'     \item{\code{m57u}}{antenatal care: cs other   -na}                                  
+#'     \item{\code{m57v}}{antenatal care: cs other   -na}                                  
+#'     \item{\code{m57x}}{antenatal care: other}                                           
+#'     \item{\code{m60}}{drugs for intestinal parasi-na}                                   
+#'     \item{\code{m61}}{time spent at place of delivery}                                  
+#'     \item{\code{m62}}{anyone checked respondent health before discharge}                
+#'     \item{\code{m63}}{how long before discharging resondent health check took plac}     
+#'     \item{\code{m64}}{who checked respondent health before discharge}                   
+#'     \item{\code{m65a}}{reason didn't deliver at health facility: cost too much}         
 #'     \item{\code{m65b}}{reason didn't deliver at health facility: facility not open}     
-#'       \item{\code{m65c}}{reason didn't deliver at health facility: too far/no transpo}    
+#'     \item{\code{m65c}}{reason didn't deliver at health facility: too far/no transpo}    
 #'     \item{\code{m65d}}{reason didn't deliver at health facility: don't trust facili}    
 #'     \item{\code{m65e}}{reason didn't deliver at health facility: no female provider}    
-#'       \item{\code{m65f}}{reason didn't deliver at health facility: husband/family did}    
+#'     \item{\code{m65f}}{reason didn't deliver at health facility: husband/family did}    
 #'     \item{\code{m65g}}{reason didn't deliver at health facility: not necessary}         
-#'       \item{\code{m65h}}{reason didn't deliver at health facility: not customary}         
+#'     \item{\code{m65h}}{reason didn't deliver at health facility: not customary}         
 #'     \item{\code{m65i}}{reason didn't deliver at health facility: cs no time/baby ca}    
-#'       \item{\code{m65j}}{reason didn't deliver at he-na}                                  
+#'     \item{\code{m65j}}{reason didn't deliver at he-na}                                  
 #'     \item{\code{m65k}}{reason didn't deliver at he-na}                                  
-#'       \item{\code{m65l}}{reason didn't deliver at he-na}                                  
+#'     \item{\code{m65l}}{reason didn't deliver at he-na}                                  
 #'     \item{\code{m65x}}{reason didn't deliver at health facility: other}                 
-#'       \item{\code{m66}}{after discharge/delivery at home anyone checked respondent h}     
-#'       \item{\code{m67}}{how long after discharge/delivery at home respondent health }     
-#'       \item{\code{m68}}{who checked respondent health after discharge/delivery at ho}     
-#'       \item{\code{m69}}{where respondent check after discharge/delivery at home took}     
-#'       \item{\code{m70}}{baby postnatal check within 2 months}                             
-#'       \item{\code{m71}}{how long after delivery postnatal check took place}               
-#'       \item{\code{m72}}{who performed postnatal checkup}                                  
-#'       \item{\code{m73}}{where was the baby checked for the first time}                    
-#'       \item{\code{hidx}}{index to birth history}                                          
-#'       \item{\code{h1}}{has health card}                                                   
-#'       \item{\code{h2}}{received bcg}                                                      
-#'       \item{\code{h2d}}{bcg day}                                                          
-#'       \item{\code{h2m}}{bcg month}                                                        
-#'       \item{\code{h2y}}{bcg year}                                                         
-#'       \item{\code{h3}}{received dpt 1}                                                    
-#'       \item{\code{h3d}}{dpt 1 day}                                                        
-#'       \item{\code{h3m}}{dpt 1 month}                                                      
-#'       \item{\code{h3y}}{dpt 1 year}                                                       
-#'       \item{\code{h4}}{received polio 1}                                                  
-#'       \item{\code{h4d}}{polio 1 day}                                                      
-#'       \item{\code{h4m}}{polio 1 month}                                                    
-#'       \item{\code{h4y}}{polio 1 year}                                                     
-#'       \item{\code{h5}}{received dpt 2}                                                    
-#'       \item{\code{h5d}}{dpt 2 day}                                                        
-#'       \item{\code{h5m}}{dpt 2 month}                                                      
-#'       \item{\code{h5y}}{dpt 2 year}                                                       
-#'       \item{\code{h6}}{received polio 2}                                                  
-#'       \item{\code{h6d}}{polio 2 day}                                                      
-#'       \item{\code{h6m}}{polio 2 month}                                                    
-#'       \item{\code{h6y}}{polio 2 year}                                                     
-#'       \item{\code{h7}}{received dpt 3}                                                    
-#'       \item{\code{h7d}}{dpt 3 day}                                                        
-#'       \item{\code{h7m}}{dpt 3 month}                                                      
-#'       \item{\code{h7y}}{dpt 3 year}                                                       
-#'       \item{\code{h8}}{received polio 3}                                                  
-#'       \item{\code{h8d}}{polio 3 day}                                                      
-#'       \item{\code{h8m}}{polio 3 month}                                                    
-#'       \item{\code{h8y}}{polio 3 year}                                                     
-#'       \item{\code{h9}}{received measles}                                                  
-#'       \item{\code{h9d}}{measles day}                                                      
-#'       \item{\code{h9m}}{measles month}                                                    
-#'       \item{\code{h9y}}{measles year}                                                     
-#'       \item{\code{h0}}{received polio 0}                                                  
-#'       \item{\code{h0d}}{polio 0 day}                                                      
-#'       \item{\code{h0m}}{polio 0 month}                                                    
-#'       \item{\code{h0y}}{polio 0 year}                                                     
-#'       \item{\code{h10}}{ever had vaccination}                                             
-#'       \item{\code{h11}}{had diarrhea recently}                                            
-#'       \item{\code{h11b}}{blood in the stools}                                             
-#'       \item{\code{h12a}}{diarrhea: government hosp.}                                      
-#'       \item{\code{h12b}}{diarrhea: govt health center rhc/mch}                            
-#'       \item{\code{h12c}}{diarrhea: govt health post -na}                                  
-#'       \item{\code{h12d}}{diarrhea: mobile clinic    -na}                                  
-#'       \item{\code{h12e}}{diarrhea: comm.health worker}                                    
-#'       \item{\code{h12f}}{diarrhea: cs public sector bhu/fwc}                              
-#'       \item{\code{h12g}}{diarrhea: cs public sector -na}                                  
-#'       \item{\code{h12h}}{diarrhea: cs public sector -na}                                  
-#'       \item{\code{h12i}}{diarrhea: other public sector}                                   
-#'       \item{\code{h12j}}{diarrhea: private hosp/clin.}                                    
-#'       \item{\code{h12k}}{diarrhea: private pharmacy}                                      
-#'       \item{\code{h12l}}{diarrhea: private doctor}                                        
-#'       \item{\code{h12m}}{diarrhea: private mobile cl-na}                                  
-#'       \item{\code{h12n}}{diarrhea: comm.health worke-na}                                  
-#'       \item{\code{h12o}}{diarrhea: cs med.priv sector homeopath}                          
-#'       \item{\code{h12p}}{diarrhea: cs med.priv sector dispenser/compounder}               
-#'       \item{\code{h12q}}{diarrhea: cs med.priv secto-na}                                  
-#'       \item{\code{h12r}}{diarrhea: other med.priv sect.}                                  
-#'       \item{\code{h12s}}{diarrhea: shop}                                                  
-#'       \item{\code{h12t}}{diarrhea: traditional pract-na}                                  
-#'       \item{\code{h12u}}{diarrhea: cs oth.priv sector hakim}                              
-#'       \item{\code{h12v}}{diarrhea: cs oth.priv sector dai/tba}                            
-#'       \item{\code{h12w}}{diarrhea: cs oth.priv secto-na}                                  
-#'       \item{\code{h12x}}{diarrhea: other}                                                 
-#'       \item{\code{h12y}}{diarrhea: no treatment}                                          
-#'       \item{\code{h12z}}{diarrhea: medical treatment}                                     
-#'       \item{\code{h13}}{given oral rehydration}                                           
-#'       \item{\code{h13b}}{given a pre-packaged ors li-na}                                  
-#'       \item{\code{h14}}{given recommend. home solution}                                   
-#'       \item{\code{h15}}{given antibiotic pills or s-na}                                   
-#'       \item{\code{h15a}}{given antimotility         -na}                                  
-#'       \item{\code{h15b}}{given an antibiotic injecti-na}                                  
-#'       \item{\code{h15c}}{given an intravenous (iv)}                                       
-#'       \item{\code{h15d}}{given home remedy, herbal med.}                                  
-#'       \item{\code{h15e}}{given zinc                 -na}                                  
-#'       \item{\code{h15f}}{given other (not antibiotic-na}                                  
-#'       \item{\code{h15g}}{given unknown pill or syrup}                                     
-#'       \item{\code{h15h}}{given not antibiotic inject-na}                                  
-#'       \item{\code{h15i}}{given unknown injection}                                         
-#'       \item{\code{h15j}}{given cs                   -na}                                  
-#'       \item{\code{h15k}}{given cs                   -na}                                  
-#'       \item{\code{h15l}}{given cs                   -na}                                  
-#'       \item{\code{h15m}}{given cs                   -na}                                  
-#'       \item{\code{h20}}{given other treatment}                                            
-#'       \item{\code{h21a}}{given no treatment}                                              
-#'       \item{\code{h21}}{received any treatment}                                           
-#'       \item{\code{h22}}{had fever in last two weeks}                                      
-#'       \item{\code{h31}}{had cough in last two weeks}                                      
-#'       \item{\code{h31b}}{short, rapid breaths}                                            
-#'       \item{\code{h31c}}{problem in the chest or blocked or running nose}                 
-#'       \item{\code{h31d}}{had fever/cough in last 2 weeks: amount offered to drink}        
-#'       \item{\code{h31e}}{had fever/cough in last 2 weeks: amount offered to eat}          
-#'       \item{\code{h32a}}{fever/cough: government hosp.}                                   
-#'       \item{\code{h32b}}{fever/cough: govt health cntr rhc/mch}                           
-#'       \item{\code{h32c}}{fever/cough: govt health po-na}                                  
-#'       \item{\code{h32d}}{fever/cough: mobile clinic -na}                                  
-#'       \item{\code{h32e}}{fever/cough: comm.health wrkr (lady health worker)}              
-#'       \item{\code{h32f}}{fever/cough: cs public sector bhu/fwc}                           
-#'       \item{\code{h32g}}{fever/cough: cs public sect-na}                                  
-#'       \item{\code{h32h}}{fever/cough: cs public sect-na}                                  
-#'       \item{\code{h32i}}{fever/cough: oth public sector}                                  
-#'       \item{\code{h32j}}{fever/cough: private hosp/clin}                                  
-#'       \item{\code{h32k}}{fever/cough: private pharmacy}                                   
-#'       \item{\code{h32l}}{fever/cough: private doctor}                                     
-#'       \item{\code{h32m}}{fever/cough: private mobile-na}                                  
-#'       \item{\code{h32n}}{fever/cough: comm.health wr-na}                                  
-#'       \item{\code{h32o}}{fever/cough: cs med.priv sect homeopath}                         
-#'       \item{\code{h32p}}{fever/cough: cs med.priv sect dispenser/compounder}              
-#'       \item{\code{h32q}}{fever/cough: cs med.priv se-na}                                  
-#'       \item{\code{h32r}}{fever/cough: oth med.priv sect}                                  
-#'       \item{\code{h32s}}{fever/cough: shop}                                               
-#'       \item{\code{h32t}}{fever/cough: traditional pr-na}                                  
-#'       \item{\code{h32u}}{fever/cough: cs oth.priv sect hakim}                             
-#'       \item{\code{h32v}}{fever/cough: cs oth.priv sect dai/tba}                           
-#'       \item{\code{h32w}}{fever/cough: cs oth.priv se-na}                                  
-#'       \item{\code{h32x}}{fever/cough: other}                                              
-#'       \item{\code{h32y}}{fever/cough: no treatment}                                       
-#'       \item{\code{h32z}}{fever/cough: medical treatment}                                  
-#'       \item{\code{h33}}{received vitamin a1 (most r-na}                                   
-#'       \item{\code{h33d}}{vitamin a1 day             -na}                                  
-#'       \item{\code{h33m}}{vitamin a1 month           -na}                                  
-#'       \item{\code{h33y}}{vitamin a1 year            -na}                                  
-#'       \item{\code{h34}}{vitamin a in last 6 months}                                       
-#'       \item{\code{h35}}{any vaccinations in last 2 years part of campaign}                
-#'       \item{\code{h36a}}{vaccinated during campaign -na}                                  
-#'       \item{\code{h36b}}{vaccinated during campaign -na}                                  
-#'       \item{\code{h36c}}{vaccinated during campaign -na}                                  
-#'       \item{\code{h36d}}{vaccinated during campaign -na}                                  
-#'       \item{\code{h36e}}{vaccinated during campaign -na}                                  
-#'       \item{\code{h36f}}{vaccinated during campaign -na}                                  
-#'       \item{\code{h37a}}{fansidar taken for fever/cough}                                  
-#'       \item{\code{h37b}}{chloroquine taken for fever/cough}                               
-#'       \item{\code{h37c}}{amodiaquine taken for fever-na}                                  
-#'       \item{\code{h37d}}{quinine taken for fever/cough}                                   
-#'       \item{\code{h37e}}{combination with artemisini-na}                                  
-#'       \item{\code{h37f}}{cs antimalarial taken for f-na}                                  
-#'       \item{\code{h37g}}{cs antimalarial taken for f-na}                                  
-#'       \item{\code{h37h}}{other antimalarial taken for fever/cough}                        
-#'       \item{\code{h37i}}{pills/syrup taken for fever/cough}                               
-#'       \item{\code{h37j}}{injection taken for fever/cough}                                 
-#'       \item{\code{h37k}}{aspirin taken for fever/cough}                                   
-#'       \item{\code{h37l}}{acetaminophen taken for fever/cough}                             
-#'       \item{\code{h37m}}{ibuprofen taken for fever/c-na}                                  
-#'       \item{\code{h37n}}{cs brufen taken for fever/cough}                                 
-#'       \item{\code{h37o}}{cs pill/syrup for cough for fever/cough}                         
-#'       \item{\code{h37p}}{cs other for fever/cough   -na}                                  
-#'       \item{\code{h37x}}{other taken for fever/convulsion}                                
-#'       \item{\code{h37y}}{nothing taken for fever/convulsion}                              
-#'       \item{\code{h37z}}{don't know if or what was taken for fever/convulsion}            
+#'     \item{\code{m66}}{after discharge/delivery at home anyone checked respondent h}     
+#'     \item{\code{m67}}{how long after discharge/delivery at home respondent health }     
+#'     \item{\code{m68}}{who checked respondent health after discharge/delivery at ho}     
+#'     \item{\code{m69}}{where respondent check after discharge/delivery at home took}     
+#'     \item{\code{m70}}{baby postnatal check within 2 months}                             
+#'     \item{\code{m71}}{how long after delivery postnatal check took place}               
+#'     \item{\code{m72}}{who performed postnatal checkup}                                  
+#'     \item{\code{m73}}{where was the baby checked for the first time}                    
+#'     \item{\code{hidx}}{index to birth history}                                          
+#'     \item{\code{h1}}{has health card}                                                   
+#'     \item{\code{h2}}{received bcg}                                                      
+#'     \item{\code{h2d}}{bcg day}                                                          
+#'     \item{\code{h2m}}{bcg month}                                                        
+#'     \item{\code{h2y}}{bcg year}                                                         
+#'     \item{\code{h3}}{received dpt 1}                                                    
+#'     \item{\code{h3d}}{dpt 1 day}                                                        
+#'     \item{\code{h3m}}{dpt 1 month}                                                      
+#'     \item{\code{h3y}}{dpt 1 year}                                                       
+#'     \item{\code{h4}}{received polio 1}                                                  
+#'     \item{\code{h4d}}{polio 1 day}                                                      
+#'     \item{\code{h4m}}{polio 1 month}                                                    
+#'     \item{\code{h4y}}{polio 1 year}                                                     
+#'     \item{\code{h5}}{received dpt 2}                                                    
+#'     \item{\code{h5d}}{dpt 2 day}                                                        
+#'     \item{\code{h5m}}{dpt 2 month}                                                      
+#'     \item{\code{h5y}}{dpt 2 year}                                                       
+#'     \item{\code{h6}}{received polio 2}                                                  
+#'     \item{\code{h6d}}{polio 2 day}                                                      
+#'     \item{\code{h6m}}{polio 2 month}                                                    
+#'     \item{\code{h6y}}{polio 2 year}                                                     
+#'     \item{\code{h7}}{received dpt 3}                                                    
+#'     \item{\code{h7d}}{dpt 3 day}                                                        
+#'     \item{\code{h7m}}{dpt 3 month}                                                      
+#'     \item{\code{h7y}}{dpt 3 year}                                                       
+#'     \item{\code{h8}}{received polio 3}                                                  
+#'     \item{\code{h8d}}{polio 3 day}                                                      
+#'     \item{\code{h8m}}{polio 3 month}                                                    
+#'     \item{\code{h8y}}{polio 3 year}                                                     
+#'     \item{\code{h9}}{received measles}                                                  
+#'     \item{\code{h9d}}{measles day}                                                      
+#'     \item{\code{h9m}}{measles month}                                                    
+#'     \item{\code{h9y}}{measles year}                                                     
+#'     \item{\code{h0}}{received polio 0}                                                  
+#'     \item{\code{h0d}}{polio 0 day}                                                      
+#'     \item{\code{h0m}}{polio 0 month}                                                    
+#'     \item{\code{h0y}}{polio 0 year}                                                     
+#'     \item{\code{h10}}{ever had vaccination}                                             
+#'     \item{\code{h11}}{had diarrhea recently}                                            
+#'     \item{\code{h11b}}{blood in the stools}                                             
+#'     \item{\code{h12a}}{diarrhea: government hosp.}                                      
+#'     \item{\code{h12b}}{diarrhea: govt health center rhc/mch}                            
+#'     \item{\code{h12c}}{diarrhea: govt health post -na}                                  
+#'     \item{\code{h12d}}{diarrhea: mobile clinic    -na}                                  
+#'     \item{\code{h12e}}{diarrhea: comm.health worker}                                    
+#'     \item{\code{h12f}}{diarrhea: cs public sector bhu/fwc}                              
+#'     \item{\code{h12g}}{diarrhea: cs public sector -na}                                  
+#'     \item{\code{h12h}}{diarrhea: cs public sector -na}                                  
+#'     \item{\code{h12i}}{diarrhea: other public sector}                                   
+#'     \item{\code{h12j}}{diarrhea: private hosp/clin.}                                    
+#'     \item{\code{h12k}}{diarrhea: private pharmacy}                                      
+#'     \item{\code{h12l}}{diarrhea: private doctor}                                        
+#'     \item{\code{h12m}}{diarrhea: private mobile cl-na}                                  
+#'     \item{\code{h12n}}{diarrhea: comm.health worke-na}                                  
+#'     \item{\code{h12o}}{diarrhea: cs med.priv sector homeopath}                          
+#'     \item{\code{h12p}}{diarrhea: cs med.priv sector dispenser/compounder}               
+#'     \item{\code{h12q}}{diarrhea: cs med.priv secto-na}                                  
+#'     \item{\code{h12r}}{diarrhea: other med.priv sect.}                                  
+#'     \item{\code{h12s}}{diarrhea: shop}                                                  
+#'     \item{\code{h12t}}{diarrhea: traditional pract-na}                                  
+#'     \item{\code{h12u}}{diarrhea: cs oth.priv sector hakim}                              
+#'     \item{\code{h12v}}{diarrhea: cs oth.priv sector dai/tba}                            
+#'     \item{\code{h12w}}{diarrhea: cs oth.priv secto-na}                                  
+#'     \item{\code{h12x}}{diarrhea: other}                                                 
+#'     \item{\code{h12y}}{diarrhea: no treatment}                                          
+#'     \item{\code{h12z}}{diarrhea: medical treatment}                                     
+#'     \item{\code{h13}}{given oral rehydration}                                           
+#'     \item{\code{h13b}}{given a pre-packaged ors li-na}                                  
+#'     \item{\code{h14}}{given recommend. home solution}                                   
+#'     \item{\code{h15}}{given antibiotic pills or s-na}                                   
+#'     \item{\code{h15a}}{given antimotility         -na}                                  
+#'     \item{\code{h15b}}{given an antibiotic injecti-na}                                  
+#'     \item{\code{h15c}}{given an intravenous (iv)}                                       
+#'     \item{\code{h15d}}{given home remedy, herbal med.}                                  
+#'     \item{\code{h15e}}{given zinc                 -na}                                  
+#'     \item{\code{h15f}}{given other (not antibiotic-na)}                                  
+#'     \item{\code{h15g}}{given unknown pill or syrup}                                     
+#'     \item{\code{h15h}}{given not antibiotic inject-na}                                  
+#'     \item{\code{h15i}}{given unknown injection}                                         
+#'     \item{\code{h15j}}{given cs                   -na}                                  
+#'     \item{\code{h15k}}{given cs                   -na}                                  
+#'     \item{\code{h15l}}{given cs                   -na}                                  
+#'     \item{\code{h15m}}{given cs                   -na}                                  
+#'     \item{\code{h20}}{given other treatment}                                            
+#'     \item{\code{h21a}}{given no treatment}                                              
+#'     \item{\code{h21}}{received any treatment}                                           
+#'     \item{\code{h22}}{had fever in last two weeks}                                      
+#'     \item{\code{h31}}{had cough in last two weeks}                                      
+#'     \item{\code{h31b}}{short, rapid breaths}                                            
+#'     \item{\code{h31c}}{problem in the chest or blocked or running nose}                 
+#'     \item{\code{h31d}}{had fever/cough in last 2 weeks: amount offered to drink}        
+#'     \item{\code{h31e}}{had fever/cough in last 2 weeks: amount offered to eat}          
+#'     \item{\code{h32a}}{fever/cough: government hosp.}                                   
+#'     \item{\code{h32b}}{fever/cough: govt health cntr rhc/mch}                           
+#'     \item{\code{h32c}}{fever/cough: govt health po-na}                                  
+#'     \item{\code{h32d}}{fever/cough: mobile clinic -na}                                  
+#'     \item{\code{h32e}}{fever/cough: comm.health wrkr (lady health worker)}              
+#'     \item{\code{h32f}}{fever/cough: cs public sector bhu/fwc}                           
+#'     \item{\code{h32g}}{fever/cough: cs public sect-na}                                  
+#'     \item{\code{h32h}}{fever/cough: cs public sect-na}                                  
+#'     \item{\code{h32i}}{fever/cough: oth public sector}                                  
+#'     \item{\code{h32j}}{fever/cough: private hosp/clin}                                  
+#'     \item{\code{h32k}}{fever/cough: private pharmacy}                                   
+#'     \item{\code{h32l}}{fever/cough: private doctor}                                     
+#'     \item{\code{h32m}}{fever/cough: private mobile-na}                                  
+#'     \item{\code{h32n}}{fever/cough: comm.health wr-na}                                  
+#'     \item{\code{h32o}}{fever/cough: cs med.priv sect homeopath}                         
+#'     \item{\code{h32p}}{fever/cough: cs med.priv sect dispenser/compounder}              
+#'     \item{\code{h32q}}{fever/cough: cs med.priv se-na}                                  
+#'     \item{\code{h32r}}{fever/cough: oth med.priv sect}                                  
+#'     \item{\code{h32s}}{fever/cough: shop}                                               
+#'     \item{\code{h32t}}{fever/cough: traditional pr-na}                                  
+#'     \item{\code{h32u}}{fever/cough: cs oth.priv sect hakim}                             
+#'     \item{\code{h32v}}{fever/cough: cs oth.priv sect dai/tba}                           
+#'     \item{\code{h32w}}{fever/cough: cs oth.priv se-na}                                  
+#'     \item{\code{h32x}}{fever/cough: other}                                              
+#'     \item{\code{h32y}}{fever/cough: no treatment}                                       
+#'     \item{\code{h32z}}{fever/cough: medical treatment}                                  
+#'     \item{\code{h33}}{received vitamin a1 (most r-na)}                                   
+#'     \item{\code{h33d}}{vitamin a1 day             -na}                                  
+#'     \item{\code{h33m}}{vitamin a1 month           -na}                                  
+#'     \item{\code{h33y}}{vitamin a1 year            -na}                                  
+#'     \item{\code{h34}}{vitamin a in last 6 months}                                       
+#'     \item{\code{h35}}{any vaccinations in last 2 years part of campaign}                
+#'     \item{\code{h36a}}{vaccinated during campaign -na}                                  
+#'     \item{\code{h36b}}{vaccinated during campaign -na}                                  
+#'     \item{\code{h36c}}{vaccinated during campaign -na}                                  
+#'     \item{\code{h36d}}{vaccinated during campaign -na}                                  
+#'     \item{\code{h36e}}{vaccinated during campaign -na}                                  
+#'     \item{\code{h36f}}{vaccinated during campaign -na}                                  
+#'     \item{\code{h37a}}{fansidar taken for fever/cough}                                  
+#'     \item{\code{h37b}}{chloroquine taken for fever/cough}                               
+#'     \item{\code{h37c}}{amodiaquine taken for fever-na}                                  
+#'     \item{\code{h37d}}{quinine taken for fever/cough}                                   
+#'     \item{\code{h37e}}{combination with artemisini-na}                                  
+#'     \item{\code{h37f}}{cs antimalarial taken for f-na}                                  
+#'     \item{\code{h37g}}{cs antimalarial taken for f-na}                                  
+#'     \item{\code{h37h}}{other antimalarial taken for fever/cough}                        
+#'     \item{\code{h37i}}{pills/syrup taken for fever/cough}                               
+#'     \item{\code{h37j}}{injection taken for fever/cough}                                 
+#'     \item{\code{h37k}}{aspirin taken for fever/cough}                                   
+#'     \item{\code{h37l}}{acetaminophen taken for fever/cough}                             
+#'     \item{\code{h37m}}{ibuprofen taken for fever/c-na}                                  
+#'     \item{\code{h37n}}{cs brufen taken for fever/cough}                                 
+#'     \item{\code{h37o}}{cs pill/syrup for cough for fever/cough}                         
+#'     \item{\code{h37p}}{cs other for fever/cough   -na}                                  
+#'     \item{\code{h37x}}{other taken for fever/convulsion}                                
+#'     \item{\code{h37y}}{nothing taken for fever/convulsion}                              
+#'     \item{\code{h37z}}{don't know if or what was taken for fever/convulsion}            
 #'     \item{\code{h38}}{had diarrhea in last 2 weeks: amount offered to drink}            
 #'     \item{\code{h39}}{had diarrhea in last 2 weeks: amount offered to eat}              
-#'     \item{\code{h40}}{received vitamin a2 (2nd mo-na}                                   
+#'     \item{\code{h40}}{received vitamin a2 (2nd mo-na)}                                   
 #'     \item{\code{h40d}}{vitamin a2 day             -na}                                  
 #'     \item{\code{h40m}}{vitamin a2 month           -na}                                  
 #'     \item{\code{h40y}}{vitamin a2 year            -na}                                  
@@ -813,8 +813,8 @@
 #'     \item{\code{h46b}}{days after fever sought advice or treatment}                     
 #'     \item{\code{hwidx}}{index to birth history}                                         
 #'     \item{\code{hw1}}{age in months              -na}                                   
-#'     \item{\code{hw2}}{weight in kilograms (1 dec.-na}                                   
-#'     \item{\code{hw3}}{height in centimeters (1 de-na}                                   
+#'     \item{\code{hw2}}{weight in kilograms (1 dec.-na)}                                   
+#'     \item{\code{hw3}}{height in centimeters (1 de-na)}                                   
 #'     \item{\code{hw4}}{ht/a percentile            -na}                                   
 #'     \item{\code{hw5}}{ht/a standard deviations   -na}                                   
 #'     \item{\code{hw6}}{ht/a percent of ref. median-na}                                   
@@ -832,15 +832,15 @@
 #'     \item{\code{hw19}}{date measured (year)       -na}                                  
 #'     \item{\code{hw51}}{line no. of parent/caretake-na}                                  
 #'     \item{\code{hw52}}{read consent statement     -na}                                  
-#'     \item{\code{hw53}}{hemoglobin level (g/dl - 1 -na}                                  
-#'     \item{\code{hw55}}{result of measuring (hemogl-na}                                  
+#'     \item{\code{hw53}}{hemoglobin level (g/dl - 1 -na)}                                  
+#'     \item{\code{hw55}}{result of measuring (hemogl-na)}                                  
 #'     \item{\code{hw56}}{hemoglobin level adjusted b-na}                                  
 #'     \item{\code{hw57}}{anemia level               -na}                                  
 #'     \item{\code{hw58}}{agrees to referral         -na}                                  
-#'     \item{\code{hw70}}{ht/a standard deviations (a-na}                                  
-#'     \item{\code{hw71}}{wt/a standard deviations (a-na}                                  
-#'     \item{\code{hw72}}{wt/ht standard deviations (-na}                                  
-#'     \item{\code{hw73}}{bmi standard deviations (ac-na}                                  
+#'     \item{\code{hw70}}{ht/a standard deviations (a-na)}                                  
+#'     \item{\code{hw71}}{wt/a standard deviations (a-na)}                                  
+#'     \item{\code{hw72}}{wt/ht standard deviations (-na)}                                  
+#'     \item{\code{hw73}}{bmi standard deviations (ac-na)}                                  
 #'     \item{\code{idxml}}{index to birth history}                                         
 #'     \item{\code{ml0}}{type of bednet(s) child slept under last night}                   
 #'     \item{\code{ml1}}{times took fansidar during -na}                                   
@@ -866,10 +866,10 @@
 #'     \item{\code{ml13x}}{other taken for fever/convulsion}                               
 #'     \item{\code{ml13y}}{nothing taken for fever/convulsion}                             
 #'     \item{\code{ml13z}}{don't know if or what was taken for fever/convulsion}           
-#'       \item{\code{ml14a}}{injection for fever/convuls-na}                                 
-#'       \item{\code{ml14b}}{suppository for fever/convu-na}                                 
-#'       \item{\code{ml14y}}{no suppository or injection-na}                                 
-#'       \item{\code{ml14z}}{don't know if suppository o-na}                                 
+#'     \item{\code{ml14a}}{injection for fever/convuls-na}                                 
+#'     \item{\code{ml14b}}{suppository for fever/convu-na}                                 
+#'     \item{\code{ml14y}}{no suppository or injection-na}                                 
+#'     \item{\code{ml14z}}{don't know if suppository o-na}                                 
 #'     \item{\code{ml15a}}{when started fansidar}                                          
 #'     \item{\code{ml15b}}{days child took fansidar}                                       
 #'     \item{\code{ml15c}}{first source for fansidar  -na}                                 
@@ -891,84 +891,84 @@
 #'     \item{\code{ml19x}}{for fever/conv: other      -na}                                 
 #'     \item{\code{ml19y}}{for fever/conv: gave nothin-na}                                 
 #'     \item{\code{ml19z}}{for fever/conv: don't know -na}                                 
-#'       \item{\code{ml20a}}{when started combination wi-na}                                 
-#'       \item{\code{ml20b}}{days child took combination-na}                                 
-#'       \item{\code{ml20c}}{first source for combinatio-na}                                 
-#'       \item{\code{ml21a}}{when started cs antimalaria-na}                                 
-#'       \item{\code{ml21b}}{days child took cs antimala-na}                                 
-#'       \item{\code{ml21c}}{first source for cs antimal-na}                                 
-#'       \item{\code{ml22a}}{when started cs antimalaria-na}                                 
-#'       \item{\code{ml22b}}{days child took cs antimala-na}                                 
-#'       \item{\code{ml22c}}{first source for cs antimal-na}                                 
-#'       \item{\code{ml23a}}{when started other anti-malarial}                               
-#'       \item{\code{ml23b}}{days child took other anti-malarial}                            
-#'       \item{\code{ml23c}}{first source for other anti-na}                                 
-#'       \item{\code{ml24c}}{first source for antibiotic-na}                                 
-#'       \item{\code{sdist}}{district}                                                       
-#'       \item{\code{slangq}}{language of questionaire}                                      
-#'       \item{\code{slangi}}{language of interview}                                         
-#'       \item{\code{slangw}}{language woman speaks}                                         
-#'       \item{\code{awfactu2}}{awfactor (major urban, other urban, rural)}                  
-#'       \item{\code{awfacte2}}{awfactor education (educ2- 0,princ,pricmp,secyinc,seccomp,hi}
-#'       \item{\code{awfacte3}}{awfactor education (educ2- 0,prim,middle,secy,high)}         
-#'       \item{\code{s107fh}}{room cooler, air conditioner owns}                             
-#'       \item{\code{s107gh}}{washing machine owns}                                          
-#'       \item{\code{s107hh}}{water pump owns}                                               
-#'       \item{\code{s107ih}}{bed owns}                                                      
-#'       \item{\code{s107jh}}{chairs owns}                                                   
-#'       \item{\code{s107kh}}{almirah/cabinet owns}                                          
-#'       \item{\code{s107lh}}{clock owns}                                                    
-#'       \item{\code{s107mh}}{sofa owns}                                                     
-#'       \item{\code{s107nh}}{sewing machine owns}                                           
-#'       \item{\code{s107oh}}{camera owns}                                                   
-#'       \item{\code{s107ph}}{personal computer owns}                                        
-#'       \item{\code{s113h}}{status of house}                                                
-#'       \item{\code{s128h}}{currently have any medicines for treating malaria in the hou}   
-#'       \item{\code{s108}}{type of blood relationship with husband}                         
-#'       \item{\code{s113}}{educational level}                                               
-#'       \item{\code{s233a}}{number of terminated pregnancy since jan 2001 (miscarriages)}   
-#'       \item{\code{s233b}}{number of terminated pregnancy since jan 2001 (abortions)}      
-#'       \item{\code{s233c}}{number of terminated pregnancy since jan 2001 (stillbirths)}    
-#'       \item{\code{s236a}}{complications/problems have heard about it (1)}                 
-#'       \item{\code{s236b}}{complications/problems have heard about it (2)}                 
-#'       \item{\code{s236c}}{complications/problems have heard about it (3)}                 
-#'       \item{\code{s236d}}{complications/problems have heard about it (4)}                 
-#'       \item{\code{s312}}{social marketing brand}                                          
-#'       \item{\code{s314}}{name of injection using}                                         
-#'       \item{\code{s315}}{number of weeks one injection is effective}                      
-#'       \item{\code{s323e}}{source of fp for non-user (lady health worker)}                 
-#'       \item{\code{s323f}}{source of fp for non-user (lady health visitor)}                
-#'       \item{\code{s326a}}{type of help received:information}                              
-#'       \item{\code{s326b}}{type of help received:contraceptive supplies}                   
-#'       \item{\code{s326c}}{type of help received:referred to health/fp facility}           
-#'       \item{\code{s326d}}{type of help received:treatment of side effects}                
-#'       \item{\code{s326x}}{type of help received:other}                                    
-#'       \item{\code{s326y}}{type of help received:no help}                                  
-#'       \item{\code{s329a}}{fp message heard:limiting the family}                           
-#'       \item{\code{s329b}}{fp message heard:higher age at marriage}                        
-#'       \item{\code{s329c}}{fp message heard:spacing of children}                           
-#'       \item{\code{s329d}}{fp message heard:use of contraceptives}                         
-#'       \item{\code{s329e}}{fp message heard:welfare of family}                             
-#'       \item{\code{s329f}}{fp message heard:maternal/child health}                         
-#'       \item{\code{s329g}}{fp message heard:fewer children means prosperous life}          
-#'       \item{\code{s329h}}{fp message heard:more children means poverty and starvation}    
-#'       \item{\code{s329i}}{fp message heard:importance of breastfeeding}                   
-#'       \item{\code{s329x}}{fp message heard:other}                                         
-#'       \item{\code{s329z}}{fp message heard:don't know/don't remember}                     
-#'       \item{\code{s330}}{fp message heard was effective}                                  
-#'       \item{\code{smetneed}}{met need for contraceptives}                                 
-#'       \item{\code{sunmetnd}}{unmet need for contraceptives}                               
-#'       \item{\code{stotdemd}}{total demand}                                                
-#'       \item{\code{s617a}}{presence of others section 6: children < 10}                    
-#'       \item{\code{s617b}}{presence of others section 6: husband}                          
-#'       \item{\code{s617c}}{presence of others section 6: mother-in-law}                    
-#'       \item{\code{s617d}}{presence of others section 6: other male(s)}                    
-#'       \item{\code{s617e}}{presence of others section 6: other female(s)}                  
-#'       \item{\code{s704}}{husband's educational level}                                     
+#'     \item{\code{ml20a}}{when started combination wi-na}                                 
+#'     \item{\code{ml20b}}{days child took combination-na}                                 
+#'     \item{\code{ml20c}}{first source for combinatio-na}                                 
+#'     \item{\code{ml21a}}{when started cs antimalaria-na}                                 
+#'     \item{\code{ml21b}}{days child took cs antimala-na}                                 
+#'     \item{\code{ml21c}}{first source for cs antimal-na}                                 
+#'     \item{\code{ml22a}}{when started cs antimalaria-na}                                 
+#'     \item{\code{ml22b}}{days child took cs antimala-na}                                 
+#'     \item{\code{ml22c}}{first source for cs antimal-na}                                 
+#'     \item{\code{ml23a}}{when started other anti-malarial}                               
+#'     \item{\code{ml23b}}{days child took other anti-malarial}                            
+#'     \item{\code{ml23c}}{first source for other anti-na}                                 
+#'     \item{\code{ml24c}}{first source for antibiotic-na}                                 
+#'     \item{\code{sdist}}{district}                                                       
+#'     \item{\code{slangq}}{language of questionaire}                                      
+#'     \item{\code{slangi}}{language of interview}                                         
+#'     \item{\code{slangw}}{language woman speaks}                                         
+#'     \item{\code{awfactu2}}{awfactor (major urban, other urban, rural)}                  
+#'     \item{\code{awfacte2}}{awfactor education (educ2- 0),princ,pricmp,secyinc,seccomp,hi}
+#'     \item{\code{awfacte3}}{awfactor education (educ2- 0),prim,middle,secy,high)}         
+#'     \item{\code{s107fh}}{room cooler, air conditioner owns}                             
+#'     \item{\code{s107gh}}{washing machine owns}                                          
+#'     \item{\code{s107hh}}{water pump owns}                                               
+#'     \item{\code{s107ih}}{bed owns}                                                      
+#'     \item{\code{s107jh}}{chairs owns}                                                   
+#'     \item{\code{s107kh}}{almirah/cabinet owns}                                          
+#'     \item{\code{s107lh}}{clock owns}                                                    
+#'     \item{\code{s107mh}}{sofa owns}                                                     
+#'     \item{\code{s107nh}}{sewing machine owns}                                           
+#'     \item{\code{s107oh}}{camera owns}                                                   
+#'     \item{\code{s107ph}}{personal computer owns}                                        
+#'     \item{\code{s113h}}{status of house}                                                
+#'     \item{\code{s128h}}{currently have any medicines for treating malaria in the hou}   
+#'     \item{\code{s108}}{type of blood relationship with husband}                         
+#'     \item{\code{s113}}{educational level}                                               
+#'     \item{\code{s233a}}{number of terminated pregnancy since jan 2001 (miscarriages)}   
+#'     \item{\code{s233b}}{number of terminated pregnancy since jan 2001 (abortions)}      
+#'     \item{\code{s233c}}{number of terminated pregnancy since jan 2001 (stillbirths)}    
+#'     \item{\code{s236a}}{complications/problems have heard about it (1)}                 
+#'     \item{\code{s236b}}{complications/problems have heard about it (2)}                 
+#'     \item{\code{s236c}}{complications/problems have heard about it (3)}                 
+#'     \item{\code{s236d}}{complications/problems have heard about it (4)}                 
+#'     \item{\code{s312}}{social marketing brand}                                          
+#'     \item{\code{s314}}{name of injection using}                                         
+#'     \item{\code{s315}}{number of weeks one injection is effective}                      
+#'     \item{\code{s323e}}{source of fp for non-user (lady health worker)}                 
+#'     \item{\code{s323f}}{source of fp for non-user (lady health visitor)}                
+#'     \item{\code{s326a}}{type of help received:information}                              
+#'     \item{\code{s326b}}{type of help received:contraceptive supplies}                   
+#'     \item{\code{s326c}}{type of help received:referred to health/fp facility}           
+#'     \item{\code{s326d}}{type of help received:treatment of side effects}                
+#'     \item{\code{s326x}}{type of help received:other}                                    
+#'     \item{\code{s326y}}{type of help received:no help}                                  
+#'     \item{\code{s329a}}{fp message heard:limiting the family}                           
+#'     \item{\code{s329b}}{fp message heard:higher age at marriage}                        
+#'     \item{\code{s329c}}{fp message heard:spacing of children}                           
+#'     \item{\code{s329d}}{fp message heard:use of contraceptives}                         
+#'     \item{\code{s329e}}{fp message heard:welfare of family}                             
+#'     \item{\code{s329f}}{fp message heard:maternal/child health}                         
+#'     \item{\code{s329g}}{fp message heard:fewer children means prosperous life}          
+#'     \item{\code{s329h}}{fp message heard:more children means poverty and starvation}    
+#'     \item{\code{s329i}}{fp message heard:importance of breastfeeding}                   
+#'     \item{\code{s329x}}{fp message heard:other}                                         
+#'     \item{\code{s329z}}{fp message heard:don't know/don't remember}                     
+#'     \item{\code{s330}}{fp message heard was effective}                                  
+#'     \item{\code{smetneed}}{met need for contraceptives}                                 
+#'     \item{\code{sunmetnd}}{unmet need for contraceptives}                               
+#'     \item{\code{stotdemd}}{total demand}                                                
+#'     \item{\code{s617a}}{presence of others section 6: children < 10}                    
+#'     \item{\code{s617b}}{presence of others section 6: husband}                          
+#'     \item{\code{s617c}}{presence of others section 6: mother-in-law}                    
+#'     \item{\code{s617d}}{presence of others section 6: other male(s)}                    
+#'     \item{\code{s617e}}{presence of others section 6: other female(s)}                  
+#'     \item{\code{s704}}{husband's educational level}                                     
 #'     \item{\code{s710}}{would like to work if could find suitable job}                   
 #'     \item{\code{s713}}{ever worked before first married}                                
 #'     \item{\code{s714}}{ever worked after first married}                                 
-#'     \item{\code{s715}}{work status (current, before marriage, after marriage}           
+#'     \item{\code{s715}}{work status (current, before marriage, after marriage)}           
 #'     \item{\code{s811}}{ever talked with husband about ways to prevent getting hiv/a}    
 #'     \item{\code{s815a}}{sign of sti infection:wound without pain}                       
 #'     \item{\code{s815b}}{sign of sti infection:wound with pain}                          
@@ -1033,52 +1033,52 @@
 #'     \item{\code{s438x}}{seek advice/treatment for problems from:other}                  
 #'     \item{\code{s438y}}{seek advice/treatment for problems from:no one}                 
 #'     \item{\code{s439a}}{place for treatment of problem:respondent's home}               
-#'       \item{\code{s439b}}{place for treatment of problem:other home}                      
-#'       \item{\code{s439c}}{place for treatment of problem:govt. hospital}                  
-#'       \item{\code{s439d}}{place for treatment of problem:rhc/mch}                         
-#'       \item{\code{s439e}}{place for treatment of problem:bhu/fwc}                         
-#'       \item{\code{s439f}}{place for treatment of problem:other public}                    
-#'       \item{\code{s439h}}{place for treatment of problem:pvt. hospital/clinic}            
-#'       \item{\code{s439i}}{place for treatment of problem:pvt. doctor}                     
-#'       \item{\code{s439j}}{place for treatment of problem:homeopath}                       
-#'       \item{\code{s439k}}{place for treatment of problem:dispenser/compounder}            
-#'       \item{\code{s439l}}{place for treatment of problem:hakim}                           
-#'       \item{\code{s439m}}{place for treatment of problem:other private medical}           
-#'       \item{\code{s439x}}{place for treatment of problem:other}                           
-#'       \item{\code{s440}}{interval between problem and seeking advice}                     
-#'       \item{\code{s441a}}{reason no treatment for problem sought:not necessary}           
-#'       \item{\code{s441b}}{reason no treatment for problem sought:costs too much}          
-#'       \item{\code{s441c}}{reason no treatment for problem sought:too far}                 
-#'       \item{\code{s441d}}{reason no treatment for problem sought:no transport}            
-#'       \item{\code{s441e}}{reason no treatment for problem sought:no one to go with}       
-#'       \item{\code{s441f}}{reason no treatment for problem sought:service not good}        
-#'       \item{\code{s441g}}{reason no treatment for problem sought:no time to go}           
-#'       \item{\code{s441h}}{reason no treatment for problem sought:did not know where to}   
-#'       \item{\code{s441i}}{reason no treatment for problem sought:did not want to see m}   
-#'       \item{\code{s441j}}{reason no treatment for problem sought:long waiting time}       
-#'       \item{\code{s441k}}{reason no treatment for problem sought:not allowed to go}       
-#'       \item{\code{s441x}}{reason no treatment for problem sought:other}                   
-#'       \item{\code{s442}}{ever discussed where would deliver during pregnancy}             
-#'       \item{\code{s443}}{set aside any money in case of emergency during pregnancy}       
-#'       \item{\code{s448}}{given an injection to induce labor}                              
-#'       \item{\code{s450a}}{reason for delivering at health facility (1)}                   
-#'       \item{\code{s450b}}{reason for delivering at health facility (2)}                   
-#'       \item{\code{s450c}}{reason for delivering at health facility (3)}                   
-#'       \item{\code{s453}}{fee paid for the delivery (inclusive of everything)}             
-#'       \item{\code{s459}}{total fee paid for the delivery}                                 
-#'       \item{\code{s460}}{safe delivery kit used}                                          
-#'       \item{\code{s461}}{used to tie the umbilical cord}                                  
-#'       \item{\code{s462}}{used to cut the umbilical cord}                                  
-#'       \item{\code{s463}}{instrument boiled before using it}                               
-#'       \item{\code{s472}}{duration before baby was bathed}                                 
-#'       \item{\code{s473a}}{during delivery or after birth, experienced severe headaches}   
-#'       \item{\code{s473b}}{during delivery or after birth, experienced blurred vision}     
-#'       \item{\code{s473c}}{during delivery or after birth, experienced swelling on hand}   
-#'       \item{\code{s473d}}{during delivery or after birth, experienced swelling on face}   
-#'       \item{\code{s473e}}{during delivery or after birth, experienced high fever}         
-#'       \item{\code{s473f}}{during delivery or after birth, experienced fits or convulsi}   
-#'       \item{\code{s473g}}{during delivery or after birth, experienced labour for more }   
-#'       \item{\code{s473h}}{during delivery or after birth, experienced baby's feet came}   
+#'     \item{\code{s439b}}{place for treatment of problem:other home}                      
+#'     \item{\code{s439c}}{place for treatment of problem:govt. hospital}                  
+#'     \item{\code{s439d}}{place for treatment of problem:rhc/mch}                         
+#'     \item{\code{s439e}}{place for treatment of problem:bhu/fwc}                         
+#'     \item{\code{s439f}}{place for treatment of problem:other public}                    
+#'     \item{\code{s439h}}{place for treatment of problem:pvt. hospital/clinic}            
+#'     \item{\code{s439i}}{place for treatment of problem:pvt. doctor}                     
+#'     \item{\code{s439j}}{place for treatment of problem:homeopath}                       
+#'     \item{\code{s439k}}{place for treatment of problem:dispenser/compounder}            
+#'     \item{\code{s439l}}{place for treatment of problem:hakim}                           
+#'     \item{\code{s439m}}{place for treatment of problem:other private medical}           
+#'     \item{\code{s439x}}{place for treatment of problem:other}                           
+#'     \item{\code{s440}}{interval between problem and seeking advice}                     
+#'     \item{\code{s441a}}{reason no treatment for problem sought:not necessary}           
+#'     \item{\code{s441b}}{reason no treatment for problem sought:costs too much}          
+#'     \item{\code{s441c}}{reason no treatment for problem sought:too far}                 
+#'     \item{\code{s441d}}{reason no treatment for problem sought:no transport}            
+#'     \item{\code{s441e}}{reason no treatment for problem sought:no one to go with}       
+#'     \item{\code{s441f}}{reason no treatment for problem sought:service not good}        
+#'     \item{\code{s441g}}{reason no treatment for problem sought:no time to go}           
+#'     \item{\code{s441h}}{reason no treatment for problem sought:did not know where to}   
+#'     \item{\code{s441i}}{reason no treatment for problem sought:did not want to see m}   
+#'     \item{\code{s441j}}{reason no treatment for problem sought:long waiting time}       
+#'     \item{\code{s441k}}{reason no treatment for problem sought:not allowed to go}       
+#'     \item{\code{s441x}}{reason no treatment for problem sought:other}                   
+#'     \item{\code{s442}}{ever discussed where would deliver during pregnancy}             
+#'     \item{\code{s443}}{set aside any money in case of emergency during pregnancy}       
+#'     \item{\code{s448}}{given an injection to induce labor}                              
+#'     \item{\code{s450a}}{reason for delivering at health facility (1)}                   
+#'     \item{\code{s450b}}{reason for delivering at health facility (2)}                   
+#'     \item{\code{s450c}}{reason for delivering at health facility (3)}                   
+#'     \item{\code{s453}}{fee paid for the delivery (inclusive of everything)}             
+#'     \item{\code{s459}}{total fee paid for the delivery}                                 
+#'     \item{\code{s460}}{safe delivery kit used}                                          
+#'     \item{\code{s461}}{used to tie the umbilical cord}                                  
+#'     \item{\code{s462}}{used to cut the umbilical cord}                                  
+#'     \item{\code{s463}}{instrument boiled before using it}                               
+#'     \item{\code{s472}}{duration before baby was bathed}                                 
+#'     \item{\code{s473a}}{during delivery or after birth, experienced severe headaches}   
+#'     \item{\code{s473b}}{during delivery or after birth, experienced blurred vision}     
+#'     \item{\code{s473c}}{during delivery or after birth, experienced swelling on hand}   
+#'     \item{\code{s473d}}{during delivery or after birth, experienced swelling on face}   
+#'     \item{\code{s473e}}{during delivery or after birth, experienced high fever}         
+#'     \item{\code{s473f}}{during delivery or after birth, experienced fits or convulsi}   
+#'     \item{\code{s473g}}{during delivery or after birth, experienced labour for more }   
+#'     \item{\code{s473h}}{during delivery or after birth, experienced baby's feet came}   
 #'     \item{\code{s473i}}{during delivery or after birth, experienced placenta came fi}   
 #'     \item{\code{s473j}}{during delivery or after birth, experienced continous dribbl}   
 #'     \item{\code{s473k}}{during delivery or after birth, experienced bad-smelling vag}   
@@ -1095,54 +1095,52 @@
 #'     \item{\code{s476x}}{seek advice/treatment for the problem from:other}               
 #'     \item{\code{s476y}}{seek advice/treatment for the problem from:no one}              
 #'     \item{\code{s477a}}{place sought advice/treatment:respondent's home}                
-#'       \item{\code{s477b}}{place sought advice/treatment:other home}                       
-#'       \item{\code{s477c}}{place sought advice/treatment:govt. hospital}                   
-#'       \item{\code{s477d}}{place sought advice/treatment:rhc/mch}                          
-#'       \item{\code{s477e}}{place sought advice/treatment:bhu/fwc}                          
-#'       \item{\code{s477f}}{place sought advice/treatment:other public}                     
-#'       \item{\code{s477h}}{place sought advice/treatment:pvt. hospital/clinic}             
-#'       \item{\code{s477i}}{place sought advice/treatment:pvt. doctor}                      
-#'       \item{\code{s477j}}{place sought advice/treatment:homeopath}                        
-#'       \item{\code{s477k}}{place sought advice/treatment:dispenser/compounder}             
-#'       \item{\code{s477l}}{place sought advice/treatment:hakim}                            
-#'       \item{\code{s477m}}{place sought advice/treatment:other private medical}            
-#'       \item{\code{s477x}}{place sought advice/treatment:other}                            
-#'       \item{\code{s478}}{duration between start of problem and seeking advice/treatme}    
-#'       \item{\code{s479a}}{reason did not seek advice/treatment:not necessary}             
-#'       \item{\code{s479b}}{reason did not seek advice/treatment:costs too much}            
-#'       \item{\code{s479c}}{reason did not seek advice/treatment:facility too far away}     
-#'       \item{\code{s479d}}{reason did not seek advice/treatment:no transport}              
-#'       \item{\code{s479e}}{reason did not seek advice/treatment:no one to go with}         
-#'       \item{\code{s479f}}{reason did not seek advice/treatment:service not good}          
-#'       \item{\code{s479g}}{reason did not seek advice/treatment:no time to go}             
-#'       \item{\code{s479h}}{reason did not seek advice/treatment:did not know where to g}   
-#'       \item{\code{s479i}}{reason did not seek advice/treatment:did not want to see mal}   
-#'       \item{\code{s479j}}{reason did not seek advice/treatment:long waiting time}         
-#'       \item{\code{s479k}}{reason did not seek advice/treatment:not allowed to go}         
-#'       \item{\code{s479x}}{reason did not seek advice/treatment:other}                     
-#'       \item{\code{s489}}{gave colostrum to child}                                         
-#'       \item{\code{s498a}}{gave child water yesterday or last night}                       
-#'       \item{\code{s498b}}{gave child milk yesterday or last night}                        
-#'       \item{\code{s498c}}{gave child juice/soda yesterday or last night}                  
-#'       \item{\code{s498d}}{gave child food yesterday or last night}                        
-#'       \item{\code{idx95}}{index to birth history}                                         
-#'       \item{\code{shbv1}}{received hbv 1}                                                 
-#'       \item{\code{shbv1d}}{hbv 1 day}                                                     
-#'       \item{\code{shbv1m}}{hbv 1 month}                                                   
-#'       \item{\code{shbv1y}}{hbv 1 year}                                                    
-#'       \item{\code{shbv2}}{received hbv 2}                                                 
-#'       \item{\code{shbv2d}}{hbv 2 day}                                                     
-#'       \item{\code{shbv2m}}{hbv 2 month}                                                   
-#'       \item{\code{shbv2y}}{hbv 2 year}                                                    
-#'       \item{\code{shbv3}}{received hbv 3}                                                 
-#'       \item{\code{shbv3d}}{hbv 3 day}                                                     
-#'       \item{\code{shbv3m}}{hbv 3 month}                                                   
-#'       \item{\code{shbv3y}}{hbv 3 year}                                                    
-#'       \item{\code{s512}}{months ago child received a vitamin a dose}                      
-#'       \item{\code{s516}}{number of times stools passed in past 24 hours}                  
-#'       \item{\code{s538}}{medicines for fever/cough prescribed by medical, health or p}    
-#'       
-#'
+#'     \item{\code{s477b}}{place sought advice/treatment:other home}                       
+#'     \item{\code{s477c}}{place sought advice/treatment:govt. hospital}                   
+#'     \item{\code{s477d}}{place sought advice/treatment:rhc/mch}                          
+#'     \item{\code{s477e}}{place sought advice/treatment:bhu/fwc}                          
+#'     \item{\code{s477f}}{place sought advice/treatment:other public}                     
+#'     \item{\code{s477h}}{place sought advice/treatment:pvt. hospital/clinic}             
+#'     \item{\code{s477i}}{place sought advice/treatment:pvt. doctor}                      
+#'     \item{\code{s477j}}{place sought advice/treatment:homeopath}                        
+#'     \item{\code{s477k}}{place sought advice/treatment:dispenser/compounder}             
+#'     \item{\code{s477l}}{place sought advice/treatment:hakim}                            
+#'     \item{\code{s477m}}{place sought advice/treatment:other private medical}            
+#'     \item{\code{s477x}}{place sought advice/treatment:other}                            
+#'     \item{\code{s478}}{duration between start of problem and seeking advice/treatme}    
+#'     \item{\code{s479a}}{reason did not seek advice/treatment:not necessary}             
+#'     \item{\code{s479b}}{reason did not seek advice/treatment:costs too much}            
+#'     \item{\code{s479c}}{reason did not seek advice/treatment:facility too far away}     
+#'     \item{\code{s479d}}{reason did not seek advice/treatment:no transport}              
+#'     \item{\code{s479e}}{reason did not seek advice/treatment:no one to go with}         
+#'     \item{\code{s479f}}{reason did not seek advice/treatment:service not good}          
+#'     \item{\code{s479g}}{reason did not seek advice/treatment:no time to go}             
+#'     \item{\code{s479h}}{reason did not seek advice/treatment:did not know where to g}   
+#'     \item{\code{s479i}}{reason did not seek advice/treatment:did not want to see mal}   
+#'     \item{\code{s479j}}{reason did not seek advice/treatment:long waiting time}         
+#'     \item{\code{s479k}}{reason did not seek advice/treatment:not allowed to go}         
+#'     \item{\code{s479x}}{reason did not seek advice/treatment:other}                     
+#'     \item{\code{s489}}{gave colostrum to child}                                         
+#'     \item{\code{s498a}}{gave child water yesterday or last night}                       
+#'     \item{\code{s498b}}{gave child milk yesterday or last night}                        
+#'     \item{\code{s498c}}{gave child juice/soda yesterday or last night}                  
+#'     \item{\code{s498d}}{gave child food yesterday or last night}                        
+#'     \item{\code{idx95}}{index to birth history}                                         
+#'     \item{\code{shbv1}}{received hbv 1}                                                 
+#'     \item{\code{shbv1d}}{hbv 1 day}                                                     
+#'     \item{\code{shbv1m}}{hbv 1 month}                                                   
+#'     \item{\code{shbv1y}}{hbv 1 year}                                                    
+#'     \item{\code{shbv2}}{received hbv 2}                                                 
+#'     \item{\code{shbv2d}}{hbv 2 day}                                                     
+#'     \item{\code{shbv2m}}{hbv 2 month}                                                   
+#'     \item{\code{shbv2y}}{hbv 2 year}                                                    
+#'     \item{\code{shbv3}}{received hbv 3}                                                 
+#'     \item{\code{shbv3d}}{hbv 3 day}                                                     
+#'     \item{\code{shbv3m}}{hbv 3 month}                                                   
+#'     \item{\code{shbv3y}}{hbv 3 year}                                                    
+#'     \item{\code{s512}}{months ago child received a vitamin a dose}                      
+#'     \item{\code{s516}}{number of times stools passed in past 24 hours}                  
+#'     \item{\code{s538}}{medicines for fever/cough prescribed by medical, health or p}    
 #'   }
 #'
 #' @author
@@ -1161,7 +1159,7 @@
 #' # Loading PKBR52
 #'  \dontrun{
 #'  load(url(
-#'   "https://github.com/myaseen208/PDHSData/raw/master/DHS2006-07/PKBR52.RData"
+#'   "https://github.com/myaseen208/PDHSData/raw/master/data/PKBR52.RData"
 #'   ))
 #'   PKBR52
 #'  }

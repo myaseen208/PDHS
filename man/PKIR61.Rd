@@ -4121,7 +4121,7 @@
 # Loading PKIR61
  \dontrun{
  load(url(
-  "https://github.com/myaseen208/PDHSData/raw/master/DHS2012-13/PKIR61.RData"
+  "https://github.com/myaseen208/PDHSData/raw/master/data/PKIR61.RData"
   ))
   PKIR61
  }

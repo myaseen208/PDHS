@@ -20,7 +20,7 @@
 #'     \item{\code{v014}}{completeness of information}        
 #'     \item{\code{v015}}{result of individual interview}     
 #'     \item{\code{v016}}{day of interview}                   
-#'     \item{\code{v017}}{cmc start of calendar\health}      
+#'     \item{\code{v017}}{cmc start of calendar \ health}      
 #'     \item{\code{v018}}{row of month of interview}          
 #'     \item{\code{v019}}{length of calendar}                 
 #'     \item{\code{v020}}{ever-married sample}                
@@ -82,7 +82,7 @@
 #'     \item{\code{v151}}{sex of household head}              
 #'     \item{\code{v152}}{age of household head}              
 #'     \item{\code{awfactt}}{all woman factor - total}        
-#'     \item{\code{awfactu}}{all woman factor - urban\rural} 
+#'     \item{\code{awfactu}}{all woman factor - urban \ rural} 
 #'     \item{\code{awfactr}}{all woman factor - regional}     
 #'     \item{\code{awfacte}}{all woman factor - educati- na}  
 #'     \item{\code{bidx.01}}{birth column number}             
@@ -535,8 +535,8 @@
 #'     \item{\code{v370}}{source of first method    - na}     
 #'     \item{\code{v371}}{source of first method    - na}     
 #'     \item{\code{v372}}{shown pill package}                 
-#'     \item{\code{v373}}{doctor\nurse for first pil- na}    
-#'     \item{\code{v374}}{doctor\nurse for last pills}       
+#'     \item{\code{v373}}{doctor \ nurse for first pil- na}    
+#'     \item{\code{v374}}{doctor \ nurse for last pills}       
 #'     \item{\code{v375}}{reason for current method - na}     
 #'     \item{\code{v376}}{main reason not to use a meth.}     
 #'     \item{\code{v377}}{source for future method}           
@@ -545,7 +545,7 @@
 #'     \item{\code{v380}}{source known for any method}        
 #'     \item{\code{v381}}{time to get to source}              
 #'     \item{\code{v382}}{time to get to source(grouped)}     
-#'     \item{\code{v383}}{easy\difficult to get to place}    
+#'     \item{\code{v383}}{easy \ difficult to get to place}    
 #'     \item{\code{v384}}{heard about fp on television}       
 #'     \item{\code{v385}}{contraceptive use before  - na}     
 #'     \item{\code{v386}}{month started method pre  - na}     
@@ -558,7 +558,7 @@
 #'     \item{\code{midx.1}}{index to birth history}           
 #'     \item{\code{m1.1}}{tetanus injections bef. birth}      
 #'     \item{\code{m2a.1}}{prenatal: doctor}                  
-#'     \item{\code{m2b.1}}{prenatal: nurse\midwife}          
+#'     \item{\code{m2b.1}}{prenatal: nurse \ midwife}          
 #'     \item{\code{m2c.1}}{prenatal: auxiliary midwi - na}    
 #'     \item{\code{m2d.1}}{prenatal:cs lady health visitr}    
 #'     \item{\code{m2e.1}}{prenatal:cs fam welfare worker}    
@@ -572,7 +572,7 @@
 #'     \item{\code{m2m.1}}{prenatal: cs other        - na}    
 #'     \item{\code{m2n.1}}{prenatal: no one}                  
 #'     \item{\code{m3a.1}}{assistance: doctor}                
-#'     \item{\code{m3b.1}}{assistance: nurse\midwife}        
+#'     \item{\code{m3b.1}}{assistance: nurse \ midwife}        
 #'     \item{\code{m3c.1}}{assistance: auxiliary mid - na}    
 #'     \item{\code{m3d.1}}{assistance:cs lady health vist}    
 #'     \item{\code{m3e.1}}{assistance:cs family health wk}    
@@ -614,7 +614,7 @@
 #'     \item{\code{midx.2}}{index to birth history}           
 #'     \item{\code{m1.2}}{tetanus injections bef. birth}      
 #'     \item{\code{m2a.2}}{prenatal: doctor}                  
-#'     \item{\code{m2b.2}}{prenatal: nurse\midwife}          
+#'     \item{\code{m2b.2}}{prenatal: nurse \ midwife}          
 #'     \item{\code{m2c.2}}{prenatal: auxiliary midwi - na}    
 #'     \item{\code{m2d.2}}{prenatal:cs lady health visitr}    
 #'     \item{\code{m2e.2}}{prenatal:cs fam welfare worker}    
@@ -628,7 +628,7 @@
 #'     \item{\code{m2m.2}}{prenatal: cs other        - na}    
 #'     \item{\code{m2n.2}}{prenatal: no one}                  
 #'     \item{\code{m3a.2}}{assistance: doctor}                
-#'     \item{\code{m3b.2}}{assistance: nurse\midwife}        
+#'     \item{\code{m3b.2}}{assistance: nurse \ midwife}        
 #'     \item{\code{m3c.2}}{assistance: auxiliary mid - na}    
 #'     \item{\code{m3d.2}}{assistance:cs lady health vist}    
 #'     \item{\code{m3e.2}}{assistance:cs family health wk}    
@@ -670,7 +670,7 @@
 #'     \item{\code{midx.3}}{index to birth history}           
 #'     \item{\code{m1.3}}{tetanus injections bef. birth}      
 #'     \item{\code{m2a.3}}{prenatal: doctor}                  
-#'     \item{\code{m2b.3}}{prenatal: nurse\midwife}          
+#'     \item{\code{m2b.3}}{prenatal: nurse \ midwife}          
 #'     \item{\code{m2c.3}}{prenatal: auxiliary midwi - na}    
 #'     \item{\code{m2d.3}}{prenatal:cs lady health visitr}    
 #'     \item{\code{m2e.3}}{prenatal:cs fam welfare worker}    
@@ -684,7 +684,7 @@
 #'     \item{\code{m2m.3}}{prenatal: cs other        - na}    
 #'     \item{\code{m2n.3}}{prenatal: no one}                  
 #'     \item{\code{m3a.3}}{assistance: doctor}                
-#'     \item{\code{m3b.3}}{assistance: nurse\midwife}        
+#'     \item{\code{m3b.3}}{assistance: nurse \ midwife}        
 #'     \item{\code{m3c.3}}{assistance: auxiliary mid - na}    
 #'     \item{\code{m3d.3}}{assistance:cs lady health vist}    
 #'     \item{\code{m3e.3}}{assistance:cs family health wk}    
@@ -726,7 +726,7 @@
 #'     \item{\code{midx.4}}{index to birth history}           
 #'     \item{\code{m1.4}}{tetanus injections bef. birth}      
 #'     \item{\code{m2a.4}}{prenatal: doctor}                  
-#'     \item{\code{m2b.4}}{prenatal: nurse\midwife}          
+#'     \item{\code{m2b.4}}{prenatal: nurse \ midwife}          
 #'     \item{\code{m2c.4}}{prenatal: auxiliary midwi - na}    
 #'     \item{\code{m2d.4}}{prenatal:cs lady health visitr}    
 #'     \item{\code{m2e.4}}{prenatal:cs fam welfare worker}    
@@ -740,7 +740,7 @@
 #'     \item{\code{m2m.4}}{prenatal: cs other        - na}    
 #'     \item{\code{m2n.4}}{prenatal: no one}                  
 #'     \item{\code{m3a.4}}{assistance: doctor}                
-#'     \item{\code{m3b.4}}{assistance: nurse\midwife}        
+#'     \item{\code{m3b.4}}{assistance: nurse \ midwife}        
 #'     \item{\code{m3c.4}}{assistance: auxiliary mid - na}    
 #'     \item{\code{m3d.4}}{assistance:cs lady health vist}    
 #'     \item{\code{m3e.4}}{assistance:cs family health wk}    
@@ -782,7 +782,7 @@
 #'     \item{\code{midx.5}}{index to birth history}           
 #'     \item{\code{m1.5}}{tetanus injections bef. birth}      
 #'     \item{\code{m2a.5}}{prenatal: doctor}                  
-#'     \item{\code{m2b.5}}{prenatal: nurse\midwife}          
+#'     \item{\code{m2b.5}}{prenatal: nurse \ midwife}          
 #'     \item{\code{m2c.5}}{prenatal: auxiliary midwi - na}    
 #'     \item{\code{m2d.5}}{prenatal:cs lady health visitr}    
 #'     \item{\code{m2e.5}}{prenatal:cs fam welfare worker}    
@@ -796,7 +796,7 @@
 #'     \item{\code{m2m.5}}{prenatal: cs other        - na}    
 #'     \item{\code{m2n.5}}{prenatal: no one}                  
 #'     \item{\code{m3a.5}}{assistance: doctor}                
-#'     \item{\code{m3b.5}}{assistance: nurse\midwife}        
+#'     \item{\code{m3b.5}}{assistance: nurse \ midwife}        
 #'     \item{\code{m3c.5}}{assistance: auxiliary mid - na}    
 #'     \item{\code{m3d.5}}{assistance:cs lady health vist}    
 #'     \item{\code{m3e.5}}{assistance:cs family health wk}    
@@ -838,7 +838,7 @@
 #'     \item{\code{midx.6}}{index to birth history}           
 #'     \item{\code{m1.6}}{tetanus injections bef. birth}      
 #'     \item{\code{m2a.6}}{prenatal: doctor}                  
-#'     \item{\code{m2b.6}}{prenatal: nurse\midwife}          
+#'     \item{\code{m2b.6}}{prenatal: nurse \ midwife}          
 #'     \item{\code{m2c.6}}{prenatal: auxiliary midwi - na}    
 #'     \item{\code{m2d.6}}{prenatal:cs lady health visitr}    
 #'     \item{\code{m2e.6}}{prenatal:cs fam welfare worker}    
@@ -852,7 +852,7 @@
 #'     \item{\code{m2m.6}}{prenatal: cs other        - na}    
 #'     \item{\code{m2n.6}}{prenatal: no one}                  
 #'     \item{\code{m3a.6}}{assistance: doctor}                
-#'     \item{\code{m3b.6}}{assistance: nurse\midwife}        
+#'     \item{\code{m3b.6}}{assistance: nurse \ midwife}        
 #'     \item{\code{m3c.6}}{assistance: auxiliary mid - na}    
 #'     \item{\code{m3d.6}}{assistance:cs lady health vist}    
 #'     \item{\code{m3e.6}}{assistance:cs family health wk}    
@@ -901,7 +901,7 @@
 #'     \item{\code{v409a}}{gave child sugar water}            
 #'     \item{\code{v410}}{gave child juice}                   
 #'     \item{\code{v410a}}{gave child herbal tea}             
-#'     \item{\code{v411}}{gave child powder\tinned milk}     
+#'     \item{\code{v411}}{gave child powder \ tinned milk}     
 #'     \item{\code{v411a}}{gave child baby formula}           
 #'     \item{\code{v412}}{gave child fresh milk}              
 #'     \item{\code{v413a}}{country specific: ghutti}          
@@ -918,7 +918,7 @@
 #'     \item{\code{v416}}{heard of oral rehydration}          
 #'     \item{\code{v417}}{entries in maternity table}         
 #'     \item{\code{v418}}{entries in health table}            
-#'     \item{\code{v419}}{entries in height\weight table}    
+#'     \item{\code{v419}}{entries in height \ weight table}    
 #'     \item{\code{v420}}{measurer's code          -  na}     
 #'     \item{\code{v421}}{assistant measurer's code - na}     
 #'     \item{\code{v422}}{ever prepared ors solution}         
@@ -928,11 +928,11 @@
 #'     \item{\code{v424c}}{ors source: govt health p - na}    
 #'     \item{\code{v424d}}{ors source: mobile clinic - na}    
 #'     \item{\code{v424e}}{ors source: comm.health w - na}    
-#'     \item{\code{v424f}}{ors source:cs rhc\govt clinin}    
+#'     \item{\code{v424f}}{ors source:cs rhc \ govt clinin}    
 #'     \item{\code{v424g}}{ors source:cs fam welfare wrkr}    
 #'     \item{\code{v424h}}{ors source:cs lady health wrkr}    
 #'     \item{\code{v424i}}{ors source:cs pub. mobile team}    
-#'     \item{\code{v424j}}{ors source: private hosp\clin.}   
+#'     \item{\code{v424j}}{ors source: private hosp \ clin.}   
 #'     \item{\code{v424k}}{ors source: private pharmacy}      
 #'     \item{\code{v424l}}{ors source: private doctor}        
 #'     \item{\code{v424m}}{ors source: private mobil - na}    
@@ -962,12 +962,12 @@
 #'     \item{\code{v436}}{arm circumference (cms-1d - na}     
 #'     \item{\code{v437}}{respondent's weight (kilo - na}     
 #'     \item{\code{v438}}{respondent's height (cms- - na}     
-#'     \item{\code{v439}}{ht\a percentile (resp.)   - na}    
-#'     \item{\code{v440}}{ht\a standard deviations  - na}    
-#'     \item{\code{v441}}{ht\a percent ref. median  - na}    
-#'     \item{\code{v442}}{wt\ht percent ref. median - na}    
-#'     \item{\code{v443}}{wt\ht percent ref. median - na}    
-#'     \item{\code{v444}}{wt\ht percent ref. median - na}    
+#'     \item{\code{v439}}{ht \ a percentile (resp.)   - na}    
+#'     \item{\code{v440}}{ht \ a standard deviations  - na}    
+#'     \item{\code{v441}}{ht \ a percent ref. median  - na}    
+#'     \item{\code{v442}}{wt \ ht percent ref. median - na}    
+#'     \item{\code{v443}}{wt \ ht percent ref. median - na}    
+#'     \item{\code{v444}}{wt \ ht percent ref. median - na}    
 #'     \item{\code{v445}}{body mass index for respo - na}     
 #'     \item{\code{v446}}{rohrer's index for respon - na}     
 #'     \item{\code{v447}}{result of measurement of  - na}     
@@ -1014,11 +1014,11 @@
 #'     \item{\code{h12c.1}}{diarrhea: govt health pos - na}   
 #'     \item{\code{h12d.1}}{diarrhea: mobile clinic   - na}   
 #'     \item{\code{h12e.1}}{diarrhea: comm.health work- na}   
-#'     \item{\code{h12f.1}}{diarrhea:cs rhc\govt. clinic}    
+#'     \item{\code{h12f.1}}{diarrhea:cs rhc \ govt. clinic}    
 #'     \item{\code{h12g.1}}{diarrhea:cs family welfare wkr}   
 #'     \item{\code{h12h.1}}{diarrhea:cs lady health visitr}   
 #'     \item{\code{h12i.1}}{diarrhea: cs public secto - na}   
-#'     \item{\code{h12j.1}}{diarrhea: private hosp\clin.}    
+#'     \item{\code{h12j.1}}{diarrhea: private hosp \ clin.}    
 #'     \item{\code{h12k.1}}{diarrhea: private pharmacy}       
 #'     \item{\code{h12l.1}}{diarrhea: private doctor}         
 #'     \item{\code{h12m.1}}{diarrhea: private mobile  - na}   
@@ -1044,7 +1044,7 @@
 #'     \item{\code{h15b.1}}{given an injection}               
 #'     \item{\code{h15c.1}}{given an intravenous (iv)}        
 #'     \item{\code{h15d.1}}{given home remedy, herbal med.}   
-#'     \item{\code{h15e.1}}{given cs: unknown pill\syrup}    
+#'     \item{\code{h15e.1}}{given cs: unknown pill \ syrup}    
 #'     \item{\code{h15f.1}}{given cs rice water}              
 #'     \item{\code{h15g.1}}{given cs lassi}                   
 #'     \item{\code{h15h.1}}{given cs other fluid}             
@@ -1058,32 +1058,32 @@
 #'     \item{\code{h31.1}}{had cough in last two weeks}       
 #'     \item{\code{h31a.1}}{how long cough lasted}            
 #'     \item{\code{h31b.1}}{short, rapid breaths}             
-#'     \item{\code{h32a.1}}{fever\cough: government hosp.}   
-#'     \item{\code{h32b.1}}{fever\cough: govt health  - na}  
-#'     \item{\code{h32c.1}}{fever\cough: govt health  - na}  
-#'     \item{\code{h32d.1}}{fever\cough: mobile clini - na}  
-#'     \item{\code{h32e.1}}{fever\cough: comm.health w- na}  
-#'     \item{\code{h32f.1}}{fever\cough: cs rhc\govt clin}  
-#'     \item{\code{h32g.1}}{fever\cough:cs family welf wkr}  
-#'     \item{\code{h32h.1}}{fever\cough:cs lady health vst}  
-#'     \item{\code{h32i.1}}{fever\cough: cs public se - na}  
-#'     \item{\code{h32j.1}}{fever\cough: private hosp\clin} 
-#'     \item{\code{h32k.1}}{fever\cough: private pharmacy}   
-#'     \item{\code{h32l.1}}{fever\cough: private doctor}     
-#'     \item{\code{h32m.1}}{fever\cough: private mobi - na}  
-#'     \item{\code{h32n.1}}{fever\cough: comm.health  - na}  
-#'     \item{\code{h32o.1}}{fever\cough: cs med.priv  - na}  
-#'     \item{\code{h32p.1}}{fever\cough: cs med.priv  - na}  
-#'     \item{\code{h32q.1}}{fever\cough: cs med.priv  - na}  
-#'     \item{\code{h32r.1}}{fever\cough: cs med.priv  - na}  
-#'     \item{\code{h32s.1}}{fever\cough: shop}               
-#'     \item{\code{h32t.1}}{fever\cough: traditional  - na}  
-#'     \item{\code{h32u.1}}{fever\cough:cs homeopath}        
-#'     \item{\code{h32v.1}}{fever\cough:cs hakim}            
-#'     \item{\code{h32w.1}}{fever\cough:cs faith healer}     
-#'     \item{\code{h32x.1}}{fever\cough: other}              
-#'     \item{\code{h32y.1}}{fever\cough: no treatment}       
-#'     \item{\code{h32z.1}}{fever\cough: medical treatment}  
+#'     \item{\code{h32a.1}}{fever \ cough: government hosp.}   
+#'     \item{\code{h32b.1}}{fever \ cough: govt health  - na}  
+#'     \item{\code{h32c.1}}{fever \ cough: govt health  - na}  
+#'     \item{\code{h32d.1}}{fever \ cough: mobile clini - na}  
+#'     \item{\code{h32e.1}}{fever \ cough: comm.health w- na}  
+#'     \item{\code{h32f.1}}{fever \ cough: cs rhc \ govt clin}  
+#'     \item{\code{h32g.1}}{fever \ cough:cs family welf wkr}  
+#'     \item{\code{h32h.1}}{fever \ cough:cs lady health vst}  
+#'     \item{\code{h32i.1}}{fever \ cough: cs public se - na}  
+#'     \item{\code{h32j.1}}{fever \ cough: private hosp \ clin} 
+#'     \item{\code{h32k.1}}{fever \ cough: private pharmacy}   
+#'     \item{\code{h32l.1}}{fever \ cough: private doctor}     
+#'     \item{\code{h32m.1}}{fever \ cough: private mobi - na}  
+#'     \item{\code{h32n.1}}{fever \ cough: comm.health  - na}  
+#'     \item{\code{h32o.1}}{fever \ cough: cs med.priv  - na}  
+#'     \item{\code{h32p.1}}{fever \ cough: cs med.priv  - na}  
+#'     \item{\code{h32q.1}}{fever \ cough: cs med.priv  - na}  
+#'     \item{\code{h32r.1}}{fever \ cough: cs med.priv  - na}  
+#'     \item{\code{h32s.1}}{fever \ cough: shop}               
+#'     \item{\code{h32t.1}}{fever \ cough: traditional  - na}  
+#'     \item{\code{h32u.1}}{fever \ cough:cs homeopath}        
+#'     \item{\code{h32v.1}}{fever \ cough:cs hakim}            
+#'     \item{\code{h32w.1}}{fever \ cough:cs faith healer}     
+#'     \item{\code{h32x.1}}{fever \ cough: other}              
+#'     \item{\code{h32y.1}}{fever \ cough: no treatment}       
+#'     \item{\code{h32z.1}}{fever \ cough: medical treatment}  
 #'     \item{\code{h33.1}}{given antibiotics}                 
 #'     \item{\code{h33a.1}}{given antimalarials}              
 #'     \item{\code{h34.1}}{given cough syrup}                 
@@ -1141,11 +1141,11 @@
 #'     \item{\code{h12c.2}}{diarrhea: govt health pos - na}   
 #'     \item{\code{h12d.2}}{diarrhea: mobile clinic   - na}   
 #'     \item{\code{h12e.2}}{diarrhea: comm.health work- na}   
-#'     \item{\code{h12f.2}}{diarrhea:cs rhc\govt. clinic}    
+#'     \item{\code{h12f.2}}{diarrhea:cs rhc \ govt. clinic}    
 #'     \item{\code{h12g.2}}{diarrhea:cs family welfare wkr}   
 #'     \item{\code{h12h.2}}{diarrhea:cs lady health visitr}   
 #'     \item{\code{h12i.2}}{diarrhea: cs public secto - na}   
-#'     \item{\code{h12j.2}}{diarrhea: private hosp\clin.}    
+#'     \item{\code{h12j.2}}{diarrhea: private hosp \ clin.}    
 #'     \item{\code{h12k.2}}{diarrhea: private pharmacy}       
 #'     \item{\code{h12l.2}}{diarrhea: private doctor}         
 #'     \item{\code{h12m.2}}{diarrhea: private mobile  - na}   
@@ -1171,7 +1171,7 @@
 #'     \item{\code{h15b.2}}{given an injection}               
 #'     \item{\code{h15c.2}}{given an intravenous (iv)}        
 #'     \item{\code{h15d.2}}{given home remedy, herbal med.}   
-#'     \item{\code{h15e.2}}{given cs: unknown pill\syrup}    
+#'     \item{\code{h15e.2}}{given cs: unknown pill \ syrup}    
 #'     \item{\code{h15f.2}}{given cs rice water}              
 #'     \item{\code{h15g.2}}{given cs lassi}                   
 #'     \item{\code{h15h.2}}{given cs other fluid}             
@@ -1185,32 +1185,32 @@
 #'     \item{\code{h31.2}}{had cough in last two weeks}       
 #'     \item{\code{h31a.2}}{how long cough lasted}            
 #'     \item{\code{h31b.2}}{short, rapid breaths}             
-#'     \item{\code{h32a.2}}{fever\cough: government hosp.}   
-#'     \item{\code{h32b.2}}{fever\cough: govt health  - na}  
-#'     \item{\code{h32c.2}}{fever\cough: govt health  - na}  
-#'     \item{\code{h32d.2}}{fever\cough: mobile clini - na}  
-#'     \item{\code{h32e.2}}{fever\cough: comm.health w- na}  
-#'     \item{\code{h32f.2}}{fever\cough: cs rhc\govt clin}  
-#'     \item{\code{h32g.2}}{fever\cough:cs family welf wkr}  
-#'     \item{\code{h32h.2}}{fever\cough:cs lady health vst}  
-#'     \item{\code{h32i.2}}{fever\cough: cs public se - na}  
-#'     \item{\code{h32j.2}}{fever\cough: private hosp\clin} 
-#'     \item{\code{h32k.2}}{fever\cough: private pharmacy}   
-#'     \item{\code{h32l.2}}{fever\cough: private doctor}     
-#'     \item{\code{h32m.2}}{fever\cough: private mobi - na}  
-#'     \item{\code{h32n.2}}{fever\cough: comm.health  - na}  
-#'     \item{\code{h32o.2}}{fever\cough: cs med.priv  - na}  
-#'     \item{\code{h32p.2}}{fever\cough: cs med.priv  - na}  
-#'     \item{\code{h32q.2}}{fever\cough: cs med.priv  - na}  
-#'     \item{\code{h32r.2}}{fever\cough: cs med.priv  - na}  
-#'     \item{\code{h32s.2}}{fever\cough: shop}               
-#'     \item{\code{h32t.2}}{fever\cough: traditional  - na}  
-#'     \item{\code{h32u.2}}{fever\cough:cs homeopath}        
-#'     \item{\code{h32v.2}}{fever\cough:cs hakim}            
-#'     \item{\code{h32w.2}}{fever\cough:cs faith healer}     
-#'     \item{\code{h32x.2}}{fever\cough: other}              
-#'     \item{\code{h32y.2}}{fever\cough: no treatment}       
-#'     \item{\code{h32z.2}}{fever\cough: medical treatment}  
+#'     \item{\code{h32a.2}}{fever \ cough: government hosp.}   
+#'     \item{\code{h32b.2}}{fever \ cough: govt health  - na}  
+#'     \item{\code{h32c.2}}{fever \ cough: govt health  - na}  
+#'     \item{\code{h32d.2}}{fever \ cough: mobile clini - na}  
+#'     \item{\code{h32e.2}}{fever \ cough: comm.health w- na}  
+#'     \item{\code{h32f.2}}{fever \ cough: cs rhc \ govt clin}  
+#'     \item{\code{h32g.2}}{fever \ cough:cs family welf wkr}  
+#'     \item{\code{h32h.2}}{fever \ cough:cs lady health vst}  
+#'     \item{\code{h32i.2}}{fever \ cough: cs public se - na}  
+#'     \item{\code{h32j.2}}{fever \ cough: private hosp \ clin} 
+#'     \item{\code{h32k.2}}{fever \ cough: private pharmacy}   
+#'     \item{\code{h32l.2}}{fever \ cough: private doctor}     
+#'     \item{\code{h32m.2}}{fever \ cough: private mobi - na}  
+#'     \item{\code{h32n.2}}{fever \ cough: comm.health  - na}  
+#'     \item{\code{h32o.2}}{fever \ cough: cs med.priv  - na}  
+#'     \item{\code{h32p.2}}{fever \ cough: cs med.priv  - na}  
+#'     \item{\code{h32q.2}}{fever \ cough: cs med.priv  - na}  
+#'     \item{\code{h32r.2}}{fever \ cough: cs med.priv  - na}  
+#'     \item{\code{h32s.2}}{fever \ cough: shop}               
+#'     \item{\code{h32t.2}}{fever \ cough: traditional  - na}  
+#'     \item{\code{h32u.2}}{fever \ cough:cs homeopath}        
+#'     \item{\code{h32v.2}}{fever \ cough:cs hakim}            
+#'     \item{\code{h32w.2}}{fever \ cough:cs faith healer}     
+#'     \item{\code{h32x.2}}{fever \ cough: other}              
+#'     \item{\code{h32y.2}}{fever \ cough: no treatment}       
+#'     \item{\code{h32z.2}}{fever \ cough: medical treatment}  
 #'     \item{\code{h33.2}}{given antibiotics}                 
 #'     \item{\code{h33a.2}}{given antimalarials}              
 #'     \item{\code{h34.2}}{given cough syrup}                 
@@ -1268,11 +1268,11 @@
 #'     \item{\code{h12c.3}}{diarrhea: govt health pos - na}   
 #'     \item{\code{h12d.3}}{diarrhea: mobile clinic   - na}   
 #'     \item{\code{h12e.3}}{diarrhea: comm.health work- na}   
-#'     \item{\code{h12f.3}}{diarrhea:cs rhc\govt. clinic}    
+#'     \item{\code{h12f.3}}{diarrhea:cs rhc \ govt. clinic}    
 #'     \item{\code{h12g.3}}{diarrhea:cs family welfare wkr}   
 #'     \item{\code{h12h.3}}{diarrhea:cs lady health visitr}   
 #'     \item{\code{h12i.3}}{diarrhea: cs public secto - na}   
-#'     \item{\code{h12j.3}}{diarrhea: private hosp\clin.}    
+#'     \item{\code{h12j.3}}{diarrhea: private hosp \ clin.}    
 #'     \item{\code{h12k.3}}{diarrhea: private pharmacy}       
 #'     \item{\code{h12l.3}}{diarrhea: private doctor}         
 #'     \item{\code{h12m.3}}{diarrhea: private mobile  - na}   
@@ -1298,7 +1298,7 @@
 #'     \item{\code{h15b.3}}{given an injection}               
 #'     \item{\code{h15c.3}}{given an intravenous (iv)}        
 #'     \item{\code{h15d.3}}{given home remedy, herbal med.}   
-#'     \item{\code{h15e.3}}{given cs: unknown pill\syrup}    
+#'     \item{\code{h15e.3}}{given cs: unknown pill \ syrup}    
 #'     \item{\code{h15f.3}}{given cs rice water}              
 #'     \item{\code{h15g.3}}{given cs lassi}                   
 #'     \item{\code{h15h.3}}{given cs other fluid}             
@@ -1312,32 +1312,32 @@
 #'     \item{\code{h31.3}}{had cough in last two weeks}       
 #'     \item{\code{h31a.3}}{how long cough lasted}            
 #'     \item{\code{h31b.3}}{short, rapid breaths}             
-#'     \item{\code{h32a.3}}{fever\cough: government hosp.}   
-#'     \item{\code{h32b.3}}{fever\cough: govt health  - na}  
-#'     \item{\code{h32c.3}}{fever\cough: govt health  - na}  
-#'     \item{\code{h32d.3}}{fever\cough: mobile clini - na}  
-#'     \item{\code{h32e.3}}{fever\cough: comm.health w- na}  
-#'     \item{\code{h32f.3}}{fever\cough: cs rhc\govt clin}  
-#'     \item{\code{h32g.3}}{fever\cough:cs family welf wkr}  
-#'     \item{\code{h32h.3}}{fever\cough:cs lady health vst}  
-#'     \item{\code{h32i.3}}{fever\cough: cs public se - na}  
-#'     \item{\code{h32j.3}}{fever\cough: private hosp\clin} 
-#'     \item{\code{h32k.3}}{fever\cough: private pharmacy}   
-#'     \item{\code{h32l.3}}{fever\cough: private doctor}     
-#'     \item{\code{h32m.3}}{fever\cough: private mobi - na}  
-#'     \item{\code{h32n.3}}{fever\cough: comm.health  - na}  
-#'     \item{\code{h32o.3}}{fever\cough: cs med.priv  - na}  
-#'     \item{\code{h32p.3}}{fever\cough: cs med.priv  - na}  
-#'     \item{\code{h32q.3}}{fever\cough: cs med.priv  - na}  
-#'     \item{\code{h32r.3}}{fever\cough: cs med.priv  - na}  
-#'     \item{\code{h32s.3}}{fever\cough: shop}               
-#'     \item{\code{h32t.3}}{fever\cough: traditional  - na}  
-#'     \item{\code{h32u.3}}{fever\cough:cs homeopath}        
-#'     \item{\code{h32v.3}}{fever\cough:cs hakim}            
-#'     \item{\code{h32w.3}}{fever\cough:cs faith healer}     
-#'     \item{\code{h32x.3}}{fever\cough: other}              
-#'     \item{\code{h32y.3}}{fever\cough: no treatment}       
-#'     \item{\code{h32z.3}}{fever\cough: medical treatment}  
+#'     \item{\code{h32a.3}}{fever \ cough: government hosp.}   
+#'     \item{\code{h32b.3}}{fever \ cough: govt health  - na}  
+#'     \item{\code{h32c.3}}{fever \ cough: govt health  - na}  
+#'     \item{\code{h32d.3}}{fever \ cough: mobile clini - na}  
+#'     \item{\code{h32e.3}}{fever \ cough: comm.health w- na}  
+#'     \item{\code{h32f.3}}{fever \ cough: cs rhc \ govt clin}  
+#'     \item{\code{h32g.3}}{fever \ cough:cs family welf wkr}  
+#'     \item{\code{h32h.3}}{fever \ cough:cs lady health vst}  
+#'     \item{\code{h32i.3}}{fever \ cough: cs public se - na}  
+#'     \item{\code{h32j.3}}{fever \ cough: private hosp \ clin} 
+#'     \item{\code{h32k.3}}{fever \ cough: private pharmacy}   
+#'     \item{\code{h32l.3}}{fever \ cough: private doctor}     
+#'     \item{\code{h32m.3}}{fever \ cough: private mobi - na}  
+#'     \item{\code{h32n.3}}{fever \ cough: comm.health  - na}  
+#'     \item{\code{h32o.3}}{fever \ cough: cs med.priv  - na}  
+#'     \item{\code{h32p.3}}{fever \ cough: cs med.priv  - na}  
+#'     \item{\code{h32q.3}}{fever \ cough: cs med.priv  - na}  
+#'     \item{\code{h32r.3}}{fever \ cough: cs med.priv  - na}  
+#'     \item{\code{h32s.3}}{fever \ cough: shop}               
+#'     \item{\code{h32t.3}}{fever \ cough: traditional  - na}  
+#'     \item{\code{h32u.3}}{fever \ cough:cs homeopath}        
+#'     \item{\code{h32v.3}}{fever \ cough:cs hakim}            
+#'     \item{\code{h32w.3}}{fever \ cough:cs faith healer}     
+#'     \item{\code{h32x.3}}{fever \ cough: other}              
+#'     \item{\code{h32y.3}}{fever \ cough: no treatment}       
+#'     \item{\code{h32z.3}}{fever \ cough: medical treatment}  
 #'     \item{\code{h33.3}}{given antibiotics}                 
 #'     \item{\code{h33a.3}}{given antimalarials}              
 #'     \item{\code{h34.3}}{given cough syrup}                 
@@ -1395,11 +1395,11 @@
 #'     \item{\code{h12c.4}}{diarrhea: govt health pos - na}   
 #'     \item{\code{h12d.4}}{diarrhea: mobile clinic   - na}   
 #'     \item{\code{h12e.4}}{diarrhea: comm.health work- na}   
-#'     \item{\code{h12f.4}}{diarrhea:cs rhc\govt. clinic}    
+#'     \item{\code{h12f.4}}{diarrhea:cs rhc \ govt. clinic}    
 #'     \item{\code{h12g.4}}{diarrhea:cs family welfare wkr}   
 #'     \item{\code{h12h.4}}{diarrhea:cs lady health visitr}   
 #'     \item{\code{h12i.4}}{diarrhea: cs public secto - na}   
-#'     \item{\code{h12j.4}}{diarrhea: private hosp\clin.}    
+#'     \item{\code{h12j.4}}{diarrhea: private hosp \ clin.}    
 #'     \item{\code{h12k.4}}{diarrhea: private pharmacy}       
 #'     \item{\code{h12l.4}}{diarrhea: private doctor}         
 #'     \item{\code{h12m.4}}{diarrhea: private mobile  - na}   
@@ -1425,7 +1425,7 @@
 #'     \item{\code{h15b.4}}{given an injection}               
 #'     \item{\code{h15c.4}}{given an intravenous (iv)}        
 #'     \item{\code{h15d.4}}{given home remedy, herbal med.}   
-#'     \item{\code{h15e.4}}{given cs: unknown pill\syrup}    
+#'     \item{\code{h15e.4}}{given cs: unknown pill \ syrup}    
 #'     \item{\code{h15f.4}}{given cs rice water}              
 #'     \item{\code{h15g.4}}{given cs lassi}                   
 #'     \item{\code{h15h.4}}{given cs other fluid}             
@@ -1439,32 +1439,32 @@
 #'     \item{\code{h31.4}}{had cough in last two weeks}       
 #'     \item{\code{h31a.4}}{how long cough lasted}            
 #'     \item{\code{h31b.4}}{short, rapid breaths}             
-#'     \item{\code{h32a.4}}{fever\cough: government hosp.}   
-#'     \item{\code{h32b.4}}{fever\cough: govt health  - na}  
-#'     \item{\code{h32c.4}}{fever\cough: govt health  - na}  
-#'     \item{\code{h32d.4}}{fever\cough: mobile clini - na}  
-#'     \item{\code{h32e.4}}{fever\cough: comm.health w- na}  
-#'     \item{\code{h32f.4}}{fever\cough: cs rhc\govt clin}  
-#'     \item{\code{h32g.4}}{fever\cough:cs family welf wkr}  
-#'     \item{\code{h32h.4}}{fever\cough:cs lady health vst}  
-#'     \item{\code{h32i.4}}{fever\cough: cs public se - na}  
-#'     \item{\code{h32j.4}}{fever\cough: private hosp\clin} 
-#'     \item{\code{h32k.4}}{fever\cough: private pharmacy}   
-#'     \item{\code{h32l.4}}{fever\cough: private doctor}     
-#'     \item{\code{h32m.4}}{fever\cough: private mobi - na}  
-#'     \item{\code{h32n.4}}{fever\cough: comm.health  - na}  
-#'     \item{\code{h32o.4}}{fever\cough: cs med.priv  - na}  
-#'     \item{\code{h32p.4}}{fever\cough: cs med.priv  - na}  
-#'     \item{\code{h32q.4}}{fever\cough: cs med.priv  - na}  
-#'     \item{\code{h32r.4}}{fever\cough: cs med.priv  - na}  
-#'     \item{\code{h32s.4}}{fever\cough: shop}               
-#'     \item{\code{h32t.4}}{fever\cough: traditional  - na}  
-#'     \item{\code{h32u.4}}{fever\cough:cs homeopath}        
-#'     \item{\code{h32v.4}}{fever\cough:cs hakim}            
-#'     \item{\code{h32w.4}}{fever\cough:cs faith healer}     
-#'     \item{\code{h32x.4}}{fever\cough: other}              
-#'     \item{\code{h32y.4}}{fever\cough: no treatment}       
-#'     \item{\code{h32z.4}}{fever\cough: medical treatment}  
+#'     \item{\code{h32a.4}}{fever \ cough: government hosp.}   
+#'     \item{\code{h32b.4}}{fever \ cough: govt health  - na}  
+#'     \item{\code{h32c.4}}{fever \ cough: govt health  - na}  
+#'     \item{\code{h32d.4}}{fever \ cough: mobile clini - na}  
+#'     \item{\code{h32e.4}}{fever \ cough: comm.health w- na}  
+#'     \item{\code{h32f.4}}{fever \ cough: cs rhc \ govt clin}  
+#'     \item{\code{h32g.4}}{fever \ cough:cs family welf wkr}  
+#'     \item{\code{h32h.4}}{fever \ cough:cs lady health vst}  
+#'     \item{\code{h32i.4}}{fever \ cough: cs public se - na}  
+#'     \item{\code{h32j.4}}{fever \ cough: private hosp \ clin} 
+#'     \item{\code{h32k.4}}{fever \ cough: private pharmacy}   
+#'     \item{\code{h32l.4}}{fever \ cough: private doctor}     
+#'     \item{\code{h32m.4}}{fever \ cough: private mobi - na}  
+#'     \item{\code{h32n.4}}{fever \ cough: comm.health  - na}  
+#'     \item{\code{h32o.4}}{fever \ cough: cs med.priv  - na}  
+#'     \item{\code{h32p.4}}{fever \ cough: cs med.priv  - na}  
+#'     \item{\code{h32q.4}}{fever \ cough: cs med.priv  - na}  
+#'     \item{\code{h32r.4}}{fever \ cough: cs med.priv  - na}  
+#'     \item{\code{h32s.4}}{fever \ cough: shop}               
+#'     \item{\code{h32t.4}}{fever \ cough: traditional  - na}  
+#'     \item{\code{h32u.4}}{fever \ cough:cs homeopath}        
+#'     \item{\code{h32v.4}}{fever \ cough:cs hakim}            
+#'     \item{\code{h32w.4}}{fever \ cough:cs faith healer}     
+#'     \item{\code{h32x.4}}{fever \ cough: other}              
+#'     \item{\code{h32y.4}}{fever \ cough: no treatment}       
+#'     \item{\code{h32z.4}}{fever \ cough: medical treatment}  
 #'     \item{\code{h33.4}}{given antibiotics}                 
 #'     \item{\code{h33a.4}}{given antimalarials}              
 #'     \item{\code{h34.4}}{given cough syrup}                 
@@ -1522,11 +1522,11 @@
 #'     \item{\code{h12c.5}}{diarrhea: govt health pos - na}   
 #'     \item{\code{h12d.5}}{diarrhea: mobile clinic   - na}   
 #'     \item{\code{h12e.5}}{diarrhea: comm.health work- na}   
-#'     \item{\code{h12f.5}}{diarrhea:cs rhc\govt. clinic}    
+#'     \item{\code{h12f.5}}{diarrhea:cs rhc \ govt. clinic}    
 #'     \item{\code{h12g.5}}{diarrhea:cs family welfare wkr}   
 #'     \item{\code{h12h.5}}{diarrhea:cs lady health visitr}   
 #'     \item{\code{h12i.5}}{diarrhea: cs public secto - na}   
-#'     \item{\code{h12j.5}}{diarrhea: private hosp\clin.}    
+#'     \item{\code{h12j.5}}{diarrhea: private hosp \ clin.}    
 #'     \item{\code{h12k.5}}{diarrhea: private pharmacy}       
 #'     \item{\code{h12l.5}}{diarrhea: private doctor}         
 #'     \item{\code{h12m.5}}{diarrhea: private mobile  - na}   
@@ -1552,7 +1552,7 @@
 #'     \item{\code{h15b.5}}{given an injection}               
 #'     \item{\code{h15c.5}}{given an intravenous (iv)}        
 #'     \item{\code{h15d.5}}{given home remedy, herbal med.}   
-#'     \item{\code{h15e.5}}{given cs: unknown pill\syrup}    
+#'     \item{\code{h15e.5}}{given cs: unknown pill \ syrup}    
 #'     \item{\code{h15f.5}}{given cs rice water}              
 #'     \item{\code{h15g.5}}{given cs lassi}                   
 #'     \item{\code{h15h.5}}{given cs other fluid}             
@@ -1566,32 +1566,32 @@
 #'     \item{\code{h31.5}}{had cough in last two weeks}       
 #'     \item{\code{h31a.5}}{how long cough lasted}            
 #'     \item{\code{h31b.5}}{short, rapid breaths}             
-#'     \item{\code{h32a.5}}{fever\cough: government hosp.}   
-#'     \item{\code{h32b.5}}{fever\cough: govt health  - na}  
-#'     \item{\code{h32c.5}}{fever\cough: govt health  - na}  
-#'     \item{\code{h32d.5}}{fever\cough: mobile clini - na}  
-#'     \item{\code{h32e.5}}{fever\cough: comm.health w- na}  
-#'     \item{\code{h32f.5}}{fever\cough: cs rhc\govt clin}  
-#'     \item{\code{h32g.5}}{fever\cough:cs family welf wkr}  
-#'     \item{\code{h32h.5}}{fever\cough:cs lady health vst}  
-#'     \item{\code{h32i.5}}{fever\cough: cs public se - na}  
-#'     \item{\code{h32j.5}}{fever\cough: private hosp\clin} 
-#'     \item{\code{h32k.5}}{fever\cough: private pharmacy}   
-#'     \item{\code{h32l.5}}{fever\cough: private doctor}     
-#'     \item{\code{h32m.5}}{fever\cough: private mobi - na}  
-#'     \item{\code{h32n.5}}{fever\cough: comm.health  - na}  
-#'     \item{\code{h32o.5}}{fever\cough: cs med.priv  - na}  
-#'     \item{\code{h32p.5}}{fever\cough: cs med.priv  - na}  
-#'     \item{\code{h32q.5}}{fever\cough: cs med.priv  - na}  
-#'     \item{\code{h32r.5}}{fever\cough: cs med.priv  - na}  
-#'     \item{\code{h32s.5}}{fever\cough: shop}               
-#'     \item{\code{h32t.5}}{fever\cough: traditional  - na}  
-#'     \item{\code{h32u.5}}{fever\cough:cs homeopath}        
-#'     \item{\code{h32v.5}}{fever\cough:cs hakim}            
-#'     \item{\code{h32w.5}}{fever\cough:cs faith healer}     
-#'     \item{\code{h32x.5}}{fever\cough: other}              
-#'     \item{\code{h32y.5}}{fever\cough: no treatment}       
-#'     \item{\code{h32z.5}}{fever\cough: medical treatment}  
+#'     \item{\code{h32a.5}}{fever \ cough: government hosp.}   
+#'     \item{\code{h32b.5}}{fever \ cough: govt health  - na}  
+#'     \item{\code{h32c.5}}{fever \ cough: govt health  - na}  
+#'     \item{\code{h32d.5}}{fever \ cough: mobile clini - na}  
+#'     \item{\code{h32e.5}}{fever \ cough: comm.health w- na}  
+#'     \item{\code{h32f.5}}{fever \ cough: cs rhc \ govt clin}  
+#'     \item{\code{h32g.5}}{fever \ cough:cs family welf wkr}  
+#'     \item{\code{h32h.5}}{fever \ cough:cs lady health vst}  
+#'     \item{\code{h32i.5}}{fever \ cough: cs public se - na}  
+#'     \item{\code{h32j.5}}{fever \ cough: private hosp \ clin} 
+#'     \item{\code{h32k.5}}{fever \ cough: private pharmacy}   
+#'     \item{\code{h32l.5}}{fever \ cough: private doctor}     
+#'     \item{\code{h32m.5}}{fever \ cough: private mobi - na}  
+#'     \item{\code{h32n.5}}{fever \ cough: comm.health  - na}  
+#'     \item{\code{h32o.5}}{fever \ cough: cs med.priv  - na}  
+#'     \item{\code{h32p.5}}{fever \ cough: cs med.priv  - na}  
+#'     \item{\code{h32q.5}}{fever \ cough: cs med.priv  - na}  
+#'     \item{\code{h32r.5}}{fever \ cough: cs med.priv  - na}  
+#'     \item{\code{h32s.5}}{fever \ cough: shop}               
+#'     \item{\code{h32t.5}}{fever \ cough: traditional  - na}  
+#'     \item{\code{h32u.5}}{fever \ cough:cs homeopath}        
+#'     \item{\code{h32v.5}}{fever \ cough:cs hakim}            
+#'     \item{\code{h32w.5}}{fever \ cough:cs faith healer}     
+#'     \item{\code{h32x.5}}{fever \ cough: other}              
+#'     \item{\code{h32y.5}}{fever \ cough: no treatment}       
+#'     \item{\code{h32z.5}}{fever \ cough: medical treatment}  
 #'     \item{\code{h33.5}}{given antibiotics}                 
 #'     \item{\code{h33a.5}}{given antimalarials}              
 #'     \item{\code{h34.5}}{given cough syrup}                 
@@ -1649,11 +1649,11 @@
 #'     \item{\code{h12c.6}}{diarrhea: govt health pos - na}   
 #'     \item{\code{h12d.6}}{diarrhea: mobile clinic   - na}   
 #'     \item{\code{h12e.6}}{diarrhea: comm.health work- na}   
-#'     \item{\code{h12f.6}}{diarrhea:cs rhc\govt. clinic}    
+#'     \item{\code{h12f.6}}{diarrhea:cs rhc \ govt. clinic}    
 #'     \item{\code{h12g.6}}{diarrhea:cs family welfare wkr}   
 #'     \item{\code{h12h.6}}{diarrhea:cs lady health visitr}   
 #'     \item{\code{h12i.6}}{diarrhea: cs public secto - na}   
-#'     \item{\code{h12j.6}}{diarrhea: private hosp\clin.}    
+#'     \item{\code{h12j.6}}{diarrhea: private hosp \ clin.}    
 #'     \item{\code{h12k.6}}{diarrhea: private pharmacy}       
 #'     \item{\code{h12l.6}}{diarrhea: private doctor}         
 #'     \item{\code{h12m.6}}{diarrhea: private mobile  - na}   
@@ -1679,7 +1679,7 @@
 #'     \item{\code{h15b.6}}{given an injection}               
 #'     \item{\code{h15c.6}}{given an intravenous (iv)}        
 #'     \item{\code{h15d.6}}{given home remedy, herbal med.}   
-#'     \item{\code{h15e.6}}{given cs: unknown pill\syrup}    
+#'     \item{\code{h15e.6}}{given cs: unknown pill \ syrup}    
 #'     \item{\code{h15f.6}}{given cs rice water}              
 #'     \item{\code{h15g.6}}{given cs lassi}                   
 #'     \item{\code{h15h.6}}{given cs other fluid}             
@@ -1693,32 +1693,32 @@
 #'     \item{\code{h31.6}}{had cough in last two weeks}       
 #'     \item{\code{h31a.6}}{how long cough lasted}            
 #'     \item{\code{h31b.6}}{short, rapid breaths}             
-#'     \item{\code{h32a.6}}{fever\cough: government hosp.}   
-#'     \item{\code{h32b.6}}{fever\cough: govt health  - na}  
-#'     \item{\code{h32c.6}}{fever\cough: govt health  - na}  
-#'     \item{\code{h32d.6}}{fever\cough: mobile clini - na}  
-#'     \item{\code{h32e.6}}{fever\cough: comm.health w- na}  
-#'     \item{\code{h32f.6}}{fever\cough: cs rhc\govt clin}  
-#'     \item{\code{h32g.6}}{fever\cough:cs family welf wkr}  
-#'     \item{\code{h32h.6}}{fever\cough:cs lady health vst}  
-#'     \item{\code{h32i.6}}{fever\cough: cs public se - na}  
-#'     \item{\code{h32j.6}}{fever\cough: private hosp\clin} 
-#'     \item{\code{h32k.6}}{fever\cough: private pharmacy}   
-#'     \item{\code{h32l.6}}{fever\cough: private doctor}     
-#'     \item{\code{h32m.6}}{fever\cough: private mobi - na}  
-#'     \item{\code{h32n.6}}{fever\cough: comm.health  - na}  
-#'     \item{\code{h32o.6}}{fever\cough: cs med.priv  - na}  
-#'     \item{\code{h32p.6}}{fever\cough: cs med.priv  - na}  
-#'     \item{\code{h32q.6}}{fever\cough: cs med.priv  - na}  
-#'     \item{\code{h32r.6}}{fever\cough: cs med.priv  - na}  
-#'     \item{\code{h32s.6}}{fever\cough: shop}               
-#'     \item{\code{h32t.6}}{fever\cough: traditional  - na}  
-#'     \item{\code{h32u.6}}{fever\cough:cs homeopath}        
-#'     \item{\code{h32v.6}}{fever\cough:cs hakim}            
-#'     \item{\code{h32w.6}}{fever\cough:cs faith healer}     
-#'     \item{\code{h32x.6}}{fever\cough: other}              
-#'     \item{\code{h32y.6}}{fever\cough: no treatment}       
-#'     \item{\code{h32z.6}}{fever\cough: medical treatment}  
+#'     \item{\code{h32a.6}}{fever \ cough: government hosp.}   
+#'     \item{\code{h32b.6}}{fever \ cough: govt health  - na}  
+#'     \item{\code{h32c.6}}{fever \ cough: govt health  - na}  
+#'     \item{\code{h32d.6}}{fever \ cough: mobile clini - na}  
+#'     \item{\code{h32e.6}}{fever \ cough: comm.health w- na}  
+#'     \item{\code{h32f.6}}{fever \ cough: cs rhc \ govt clin}  
+#'     \item{\code{h32g.6}}{fever \ cough:cs family welf wkr}  
+#'     \item{\code{h32h.6}}{fever \ cough:cs lady health vst}  
+#'     \item{\code{h32i.6}}{fever \ cough: cs public se - na}  
+#'     \item{\code{h32j.6}}{fever \ cough: private hosp \ clin} 
+#'     \item{\code{h32k.6}}{fever \ cough: private pharmacy}   
+#'     \item{\code{h32l.6}}{fever \ cough: private doctor}     
+#'     \item{\code{h32m.6}}{fever \ cough: private mobi - na}  
+#'     \item{\code{h32n.6}}{fever \ cough: comm.health  - na}  
+#'     \item{\code{h32o.6}}{fever \ cough: cs med.priv  - na}  
+#'     \item{\code{h32p.6}}{fever \ cough: cs med.priv  - na}  
+#'     \item{\code{h32q.6}}{fever \ cough: cs med.priv  - na}  
+#'     \item{\code{h32r.6}}{fever \ cough: cs med.priv  - na}  
+#'     \item{\code{h32s.6}}{fever \ cough: shop}               
+#'     \item{\code{h32t.6}}{fever \ cough: traditional  - na}  
+#'     \item{\code{h32u.6}}{fever \ cough:cs homeopath}        
+#'     \item{\code{h32v.6}}{fever \ cough:cs hakim}            
+#'     \item{\code{h32w.6}}{fever \ cough:cs faith healer}     
+#'     \item{\code{h32x.6}}{fever \ cough: other}              
+#'     \item{\code{h32y.6}}{fever \ cough: no treatment}       
+#'     \item{\code{h32z.6}}{fever \ cough: medical treatment}  
 #'     \item{\code{h33.6}}{given antibiotics}                 
 #'     \item{\code{h33a.6}}{given antimalarials}              
 #'     \item{\code{h34.6}}{given cough syrup}                 
@@ -1737,15 +1737,15 @@
 #'     \item{\code{hw1.1}}{age in months}                     
 #'     \item{\code{hw2.1}}{weight in kilograms (1 dec.)}      
 #'     \item{\code{hw3.1}}{height in centimeters (1 dec.)}    
-#'     \item{\code{hw4.1}}{ht\a percentile}                  
-#'     \item{\code{hw5.1}}{ht\a standard deviations}         
-#'     \item{\code{hw6.1}}{ht\a percent of ref. median}      
-#'     \item{\code{hw7.1}}{wt\a percentile}                  
-#'     \item{\code{hw8.1}}{wt\a standard deviations}         
-#'     \item{\code{hw9.1}}{wt\a percent of ref. median}      
-#'     \item{\code{hw10.1}}{wt\ht percentile}                
-#'     \item{\code{hw11.1}}{wt\ht standard deviations}       
-#'     \item{\code{hw12.1}}{wt\ht percent of ref. median}    
+#'     \item{\code{hw4.1}}{ht \ a percentile}                  
+#'     \item{\code{hw5.1}}{ht \ a standard deviations}         
+#'     \item{\code{hw6.1}}{ht \ a percent of ref. median}      
+#'     \item{\code{hw7.1}}{wt \ a percentile}                  
+#'     \item{\code{hw8.1}}{wt \ a standard deviations}         
+#'     \item{\code{hw9.1}}{wt \ a percent of ref. median}      
+#'     \item{\code{hw10.1}}{wt \ ht percentile}                
+#'     \item{\code{hw11.1}}{wt \ ht standard deviations}       
+#'     \item{\code{hw12.1}}{wt \ ht percent of ref. median}    
 #'     \item{\code{hw13.1}}{reason not measured}              
 #'     \item{\code{hw14.1}}{bcg scar on arm or shoulder}      
 #'     \item{\code{hw15.1}}{height: lying or standing}        
@@ -1754,25 +1754,25 @@
 #'     \item{\code{hw18.1}}{date measured (month)}            
 #'     \item{\code{hw19.1}}{date measured (year)}             
 #'     \item{\code{hw20.1}}{arm circumference (cms - 1d)}     
-#'     \item{\code{hw21.1}}{arm circ\a percentile}           
-#'     \item{\code{hw22.1}}{arm circ\a standard deviations}  
-#'     \item{\code{hw23.1}}{arm c\a percent of ref. median}  
-#'     \item{\code{hw24.1}}{arm circ\ht percentile}          
-#'     \item{\code{hw25.1}}{arm cir\ht standard deviations}  
-#'     \item{\code{hw26.1}}{arm cir\ht percent ref. median}  
+#'     \item{\code{hw21.1}}{arm circ \ a percentile}           
+#'     \item{\code{hw22.1}}{arm circ \ a standard deviations}  
+#'     \item{\code{hw23.1}}{arm c \ a percent of ref. median}  
+#'     \item{\code{hw24.1}}{arm circ \ ht percentile}          
+#'     \item{\code{hw25.1}}{arm cir \ ht standard deviations}  
+#'     \item{\code{hw26.1}}{arm cir \ ht percent ref. median}  
 #'     \item{\code{hwidx.2}}{index to birth history}          
 #'     \item{\code{hw1.2}}{age in months}                     
 #'     \item{\code{hw2.2}}{weight in kilograms (1 dec.)}      
 #'     \item{\code{hw3.2}}{height in centimeters (1 dec.)}    
-#'     \item{\code{hw4.2}}{ht\a percentile}                  
-#'     \item{\code{hw5.2}}{ht\a standard deviations}         
-#'     \item{\code{hw6.2}}{ht\a percent of ref. median}      
-#'     \item{\code{hw7.2}}{wt\a percentile}                  
-#'     \item{\code{hw8.2}}{wt\a standard deviations}         
-#'     \item{\code{hw9.2}}{wt\a percent of ref. median}      
-#'     \item{\code{hw10.2}}{wt\ht percentile}                
-#'     \item{\code{hw11.2}}{wt\ht standard deviations}       
-#'     \item{\code{hw12.2}}{wt\ht percent of ref. median}    
+#'     \item{\code{hw4.2}}{ht \ a percentile}                  
+#'     \item{\code{hw5.2}}{ht \ a standard deviations}         
+#'     \item{\code{hw6.2}}{ht \ a percent of ref. median}      
+#'     \item{\code{hw7.2}}{wt \ a percentile}                  
+#'     \item{\code{hw8.2}}{wt \ a standard deviations}         
+#'     \item{\code{hw9.2}}{wt \ a percent of ref. median}      
+#'     \item{\code{hw10.2}}{wt \ ht percentile}                
+#'     \item{\code{hw11.2}}{wt \ ht standard deviations}       
+#'     \item{\code{hw12.2}}{wt \ ht percent of ref. median}    
 #'     \item{\code{hw13.2}}{reason not measured}              
 #'     \item{\code{hw14.2}}{bcg scar on arm or shoulder}      
 #'     \item{\code{hw15.2}}{height: lying or standing}        
@@ -1781,25 +1781,25 @@
 #'     \item{\code{hw18.2}}{date measured (month)}            
 #'     \item{\code{hw19.2}}{date measured (year)}             
 #'     \item{\code{hw20.2}}{arm circumference (cms - 1d)}     
-#'     \item{\code{hw21.2}}{arm circ\a percentile}           
-#'     \item{\code{hw22.2}}{arm circ\a standard deviations}  
-#'     \item{\code{hw23.2}}{arm c\a percent of ref. median}  
-#'     \item{\code{hw24.2}}{arm circ\ht percentile}          
-#'     \item{\code{hw25.2}}{arm cir\ht standard deviations}  
-#'     \item{\code{hw26.2}}{arm cir\ht percent ref. median}  
+#'     \item{\code{hw21.2}}{arm circ \ a percentile}           
+#'     \item{\code{hw22.2}}{arm circ \ a standard deviations}  
+#'     \item{\code{hw23.2}}{arm c \ a percent of ref. median}  
+#'     \item{\code{hw24.2}}{arm circ \ ht percentile}          
+#'     \item{\code{hw25.2}}{arm cir \ ht standard deviations}  
+#'     \item{\code{hw26.2}}{arm cir \ ht percent ref. median}  
 #'     \item{\code{hwidx.3}}{index to birth history}          
 #'     \item{\code{hw1.3}}{age in months}                     
 #'     \item{\code{hw2.3}}{weight in kilograms (1 dec.)}      
 #'     \item{\code{hw3.3}}{height in centimeters (1 dec.)}    
-#'     \item{\code{hw4.3}}{ht\a percentile}                  
-#'     \item{\code{hw5.3}}{ht\a standard deviations}         
-#'     \item{\code{hw6.3}}{ht\a percent of ref. median}      
-#'     \item{\code{hw7.3}}{wt\a percentile}                  
-#'     \item{\code{hw8.3}}{wt\a standard deviations}         
-#'     \item{\code{hw9.3}}{wt\a percent of ref. median}      
-#'     \item{\code{hw10.3}}{wt\ht percentile}                
-#'     \item{\code{hw11.3}}{wt\ht standard deviations}       
-#'     \item{\code{hw12.3}}{wt\ht percent of ref. median}    
+#'     \item{\code{hw4.3}}{ht \ a percentile}                  
+#'     \item{\code{hw5.3}}{ht \ a standard deviations}         
+#'     \item{\code{hw6.3}}{ht \ a percent of ref. median}      
+#'     \item{\code{hw7.3}}{wt \ a percentile}                  
+#'     \item{\code{hw8.3}}{wt \ a standard deviations}         
+#'     \item{\code{hw9.3}}{wt \ a percent of ref. median}      
+#'     \item{\code{hw10.3}}{wt \ ht percentile}                
+#'     \item{\code{hw11.3}}{wt \ ht standard deviations}       
+#'     \item{\code{hw12.3}}{wt \ ht percent of ref. median}    
 #'     \item{\code{hw13.3}}{reason not measured}              
 #'     \item{\code{hw14.3}}{bcg scar on arm or shoulder}      
 #'     \item{\code{hw15.3}}{height: lying or standing}        
@@ -1808,25 +1808,25 @@
 #'     \item{\code{hw18.3}}{date measured (month)}            
 #'     \item{\code{hw19.3}}{date measured (year)}             
 #'     \item{\code{hw20.3}}{arm circumference (cms - 1d)}     
-#'     \item{\code{hw21.3}}{arm circ\a percentile}           
-#'     \item{\code{hw22.3}}{arm circ\a standard deviations}  
-#'     \item{\code{hw23.3}}{arm c\a percent of ref. median}  
-#'     \item{\code{hw24.3}}{arm circ\ht percentile}          
-#'     \item{\code{hw25.3}}{arm cir\ht standard deviations}  
-#'     \item{\code{hw26.3}}{arm cir\ht percent ref. median}  
+#'     \item{\code{hw21.3}}{arm circ \ a percentile}           
+#'     \item{\code{hw22.3}}{arm circ \ a standard deviations}  
+#'     \item{\code{hw23.3}}{arm c \ a percent of ref. median}  
+#'     \item{\code{hw24.3}}{arm circ \ ht percentile}          
+#'     \item{\code{hw25.3}}{arm cir \ ht standard deviations}  
+#'     \item{\code{hw26.3}}{arm cir \ ht percent ref. median}  
 #'     \item{\code{hwidx.4}}{index to birth history}          
 #'     \item{\code{hw1.4}}{age in months}                     
 #'     \item{\code{hw2.4}}{weight in kilograms (1 dec.)}      
 #'     \item{\code{hw3.4}}{height in centimeters (1 dec.)}    
-#'     \item{\code{hw4.4}}{ht\a percentile}                  
-#'     \item{\code{hw5.4}}{ht\a standard deviations}         
-#'     \item{\code{hw6.4}}{ht\a percent of ref. median}      
-#'     \item{\code{hw7.4}}{wt\a percentile}                  
-#'     \item{\code{hw8.4}}{wt\a standard deviations}         
-#'     \item{\code{hw9.4}}{wt\a percent of ref. median}      
-#'     \item{\code{hw10.4}}{wt\ht percentile}                
-#'     \item{\code{hw11.4}}{wt\ht standard deviations}       
-#'     \item{\code{hw12.4}}{wt\ht percent of ref. median}    
+#'     \item{\code{hw4.4}}{ht \ a percentile}                  
+#'     \item{\code{hw5.4}}{ht \ a standard deviations}         
+#'     \item{\code{hw6.4}}{ht \ a percent of ref. median}      
+#'     \item{\code{hw7.4}}{wt \ a percentile}                  
+#'     \item{\code{hw8.4}}{wt \ a standard deviations}         
+#'     \item{\code{hw9.4}}{wt \ a percent of ref. median}      
+#'     \item{\code{hw10.4}}{wt \ ht percentile}                
+#'     \item{\code{hw11.4}}{wt \ ht standard deviations}       
+#'     \item{\code{hw12.4}}{wt \ ht percent of ref. median}    
 #'     \item{\code{hw13.4}}{reason not measured}              
 #'     \item{\code{hw14.4}}{bcg scar on arm or shoulder}      
 #'     \item{\code{hw15.4}}{height: lying or standing}        
@@ -1835,25 +1835,25 @@
 #'     \item{\code{hw18.4}}{date measured (month)}            
 #'     \item{\code{hw19.4}}{date measured (year)}             
 #'     \item{\code{hw20.4}}{arm circumference (cms - 1d)}     
-#'     \item{\code{hw21.4}}{arm circ\a percentile}           
-#'     \item{\code{hw22.4}}{arm circ\a standard deviations}  
-#'     \item{\code{hw23.4}}{arm c\a percent of ref. median}  
-#'     \item{\code{hw24.4}}{arm circ\ht percentile}          
-#'     \item{\code{hw25.4}}{arm cir\ht standard deviations}  
-#'     \item{\code{hw26.4}}{arm cir\ht percent ref. median}  
+#'     \item{\code{hw21.4}}{arm circ \ a percentile}           
+#'     \item{\code{hw22.4}}{arm circ \ a standard deviations}  
+#'     \item{\code{hw23.4}}{arm c \ a percent of ref. median}  
+#'     \item{\code{hw24.4}}{arm circ \ ht percentile}          
+#'     \item{\code{hw25.4}}{arm cir \ ht standard deviations}  
+#'     \item{\code{hw26.4}}{arm cir \ ht percent ref. median}  
 #'     \item{\code{hwidx.5}}{index to birth history}          
 #'     \item{\code{hw1.5}}{age in months}                     
 #'     \item{\code{hw2.5}}{weight in kilograms (1 dec.)}      
 #'     \item{\code{hw3.5}}{height in centimeters (1 dec.)}    
-#'     \item{\code{hw4.5}}{ht\a percentile}                  
-#'     \item{\code{hw5.5}}{ht\a standard deviations}         
-#'     \item{\code{hw6.5}}{ht\a percent of ref. median}      
-#'     \item{\code{hw7.5}}{wt\a percentile}                  
-#'     \item{\code{hw8.5}}{wt\a standard deviations}         
-#'     \item{\code{hw9.5}}{wt\a percent of ref. median}      
-#'     \item{\code{hw10.5}}{wt\ht percentile}                
-#'     \item{\code{hw11.5}}{wt\ht standard deviations}       
-#'     \item{\code{hw12.5}}{wt\ht percent of ref. median}    
+#'     \item{\code{hw4.5}}{ht \ a percentile}                  
+#'     \item{\code{hw5.5}}{ht \ a standard deviations}         
+#'     \item{\code{hw6.5}}{ht \ a percent of ref. median}      
+#'     \item{\code{hw7.5}}{wt \ a percentile}                  
+#'     \item{\code{hw8.5}}{wt \ a standard deviations}         
+#'     \item{\code{hw9.5}}{wt \ a percent of ref. median}      
+#'     \item{\code{hw10.5}}{wt \ ht percentile}                
+#'     \item{\code{hw11.5}}{wt \ ht standard deviations}       
+#'     \item{\code{hw12.5}}{wt \ ht percent of ref. median}    
 #'     \item{\code{hw13.5}}{reason not measured}              
 #'     \item{\code{hw14.5}}{bcg scar on arm or shoulder}      
 #'     \item{\code{hw15.5}}{height: lying or standing}        
@@ -1862,25 +1862,25 @@
 #'     \item{\code{hw18.5}}{date measured (month)}            
 #'     \item{\code{hw19.5}}{date measured (year)}             
 #'     \item{\code{hw20.5}}{arm circumference (cms - 1d)}     
-#'     \item{\code{hw21.5}}{arm circ\a percentile}           
-#'     \item{\code{hw22.5}}{arm circ\a standard deviations}  
-#'     \item{\code{hw23.5}}{arm c\a percent of ref. median}  
-#'     \item{\code{hw24.5}}{arm circ\ht percentile}          
-#'     \item{\code{hw25.5}}{arm cir\ht standard deviations}  
-#'     \item{\code{hw26.5}}{arm cir\ht percent ref. median}  
+#'     \item{\code{hw21.5}}{arm circ \ a percentile}           
+#'     \item{\code{hw22.5}}{arm circ \ a standard deviations}  
+#'     \item{\code{hw23.5}}{arm c \ a percent of ref. median}  
+#'     \item{\code{hw24.5}}{arm circ \ ht percentile}          
+#'     \item{\code{hw25.5}}{arm cir \ ht standard deviations}  
+#'     \item{\code{hw26.5}}{arm cir \ ht percent ref. median}  
 #'     \item{\code{hwidx.6}}{index to birth history}          
 #'     \item{\code{hw1.6}}{age in months}                     
 #'     \item{\code{hw2.6}}{weight in kilograms (1 dec.)}      
 #'     \item{\code{hw3.6}}{height in centimeters (1 dec.)}    
-#'     \item{\code{hw4.6}}{ht\a percentile}                  
-#'     \item{\code{hw5.6}}{ht\a standard deviations}         
-#'     \item{\code{hw6.6}}{ht\a percent of ref. median}      
-#'     \item{\code{hw7.6}}{wt\a percentile}                  
-#'     \item{\code{hw8.6}}{wt\a standard deviations}         
-#'     \item{\code{hw9.6}}{wt\a percent of ref. median}      
-#'     \item{\code{hw10.6}}{wt\ht percentile}                
-#'     \item{\code{hw11.6}}{wt\ht standard deviations}       
-#'     \item{\code{hw12.6}}{wt\ht percent of ref. median}    
+#'     \item{\code{hw4.6}}{ht \ a percentile}                  
+#'     \item{\code{hw5.6}}{ht \ a standard deviations}         
+#'     \item{\code{hw6.6}}{ht \ a percent of ref. median}      
+#'     \item{\code{hw7.6}}{wt \ a percentile}                  
+#'     \item{\code{hw8.6}}{wt \ a standard deviations}         
+#'     \item{\code{hw9.6}}{wt \ a percent of ref. median}      
+#'     \item{\code{hw10.6}}{wt \ ht percentile}                
+#'     \item{\code{hw11.6}}{wt \ ht standard deviations}       
+#'     \item{\code{hw12.6}}{wt \ ht percent of ref. median}    
 #'     \item{\code{hw13.6}}{reason not measured}              
 #'     \item{\code{hw14.6}}{bcg scar on arm or shoulder}      
 #'     \item{\code{hw15.6}}{height: lying or standing}        
@@ -1889,14 +1889,14 @@
 #'     \item{\code{hw18.6}}{date measured (month)}            
 #'     \item{\code{hw19.6}}{date measured (year)}             
 #'     \item{\code{hw20.6}}{arm circumference (cms - 1d)}     
-#'     \item{\code{hw21.6}}{arm circ\a percentile}           
-#'     \item{\code{hw22.6}}{arm circ\a standard deviations}  
-#'     \item{\code{hw23.6}}{arm c\a percent of ref. median}  
-#'     \item{\code{hw24.6}}{arm circ\ht percentile}          
-#'     \item{\code{hw25.6}}{arm cir\ht standard deviations}  
-#'     \item{\code{hw26.6}}{arm cir\ht percent ref. median}  
+#'     \item{\code{hw21.6}}{arm circ \ a percentile}           
+#'     \item{\code{hw22.6}}{arm circ \ a standard deviations}  
+#'     \item{\code{hw23.6}}{arm c \ a percent of ref. median}  
+#'     \item{\code{hw24.6}}{arm circ \ ht percentile}          
+#'     \item{\code{hw25.6}}{arm cir \ ht standard deviations}  
+#'     \item{\code{hw26.6}}{arm cir \ ht percent ref. median}  
 #'     \item{\code{v501}}{current marital status}             
-#'     \item{\code{v502}}{currently\formerly\never marr.}   
+#'     \item{\code{v502}}{currently \ formerly \ never marr.}   
 #'     \item{\code{v503}}{number of unions}                   
 #'     \item{\code{v504}}{husband lives in house}             
 #'     \item{\code{v505}}{number of other wives}              
@@ -2009,7 +2009,7 @@
 #'     \item{\code{s327a}}{shown condom package}              
 #'     \item{\code{s327b}}{brand of condoms shown}            
 #'     \item{\code{s329}}{cost of condom}                     
-#'     \item{\code{s330}}{cost of iud\ster\injections}      
+#'     \item{\code{s330}}{cost of iud \ ster \ injections}      
 #'     \item{\code{s339}}{if own choice, desire to use}       
 #'     \item{\code{s349}}{message effective}                  
 #'     \item{\code{s409}}{advised to eat more during prg}     
@@ -2031,15 +2031,15 @@
 #'     \item{\code{s431n}}{fed nothing before breast}         
 #'     \item{\code{s439a}}{times given plain water}           
 #'     \item{\code{s439b}}{times given ghutti}                
-#'     \item{\code{s439c}}{times given sugar\honey water}    
+#'     \item{\code{s439c}}{times given sugar \ honey water}    
 #'     \item{\code{s439d}}{times given juice}                 
 #'     \item{\code{s439e}}{times given herbal tea}            
 #'     \item{\code{s439f}}{times given gripe water}           
 #'     \item{\code{s439g}}{times given baby formula}          
 #'     \item{\code{s439h}}{times given fresh milk}            
-#'     \item{\code{s439i}}{times given tinned\powd milk}     
+#'     \item{\code{s439i}}{times given tinned \ powd milk}     
 #'     \item{\code{s439j}}{times given other liquids}         
-#'     \item{\code{s439k}}{times given solid\mushy foods}    
+#'     \item{\code{s439k}}{times given solid \ mushy foods}    
 #'     \item{\code{s442}}{ever drink from nipple}             
 #'     \item{\code{s443}}{age for nipple regular basis}       
 #'     \item{\code{s495}}{amount of liquid for ors}           
@@ -2075,13 +2075,13 @@
 #'     \item{\code{s723a}}{began work - financial need}       
 #'     \item{\code{s723b}}{began work - supplem family in}    
 #'     \item{\code{s723c}}{began work - personal fulfillm}    
-#'     \item{\code{s723d}}{began work - husb sick\dead}      
-#'     \item{\code{s723e}}{began work - divorce\separatio}   
+#'     \item{\code{s723d}}{began work - husb sick \ dead}      
+#'     \item{\code{s723e}}{began work - divorce \ separatio}   
 #'     \item{\code{s723f}}{began work - other reason}         
 #'     \item{\code{idx94.1}}{index to birth history}          
 #'     \item{\code{s426.1}}{duration of abstinence}           
 #'     \item{\code{s428.1}}{who suggested no breastfeeding}   
-#'     \item{\code{s448.1}}{age solid\mushy food daily}      
+#'     \item{\code{s448.1}}{age solid \ mushy food daily}      
 #'     \item{\code{sp0d.1}}{polio 0 day}                      
 #'     \item{\code{sp0m.1}}{polio 0 month}                    
 #'     \item{\code{sp0y.1}}{polio 0 year}                     
@@ -2109,7 +2109,7 @@
 #'     \item{\code{idx94.2}}{index to birth history}          
 #'     \item{\code{s426.2}}{duration of abstinence}           
 #'     \item{\code{s428.2}}{who suggested no breastfeeding}   
-#'     \item{\code{s448.2}}{age solid\mushy food daily}      
+#'     \item{\code{s448.2}}{age solid \ mushy food daily}      
 #'     \item{\code{sp0d.2}}{polio 0 day}                      
 #'     \item{\code{sp0m.2}}{polio 0 month}                    
 #'     \item{\code{sp0y.2}}{polio 0 year}                     
@@ -2137,7 +2137,7 @@
 #'     \item{\code{idx94.3}}{index to birth history}          
 #'     \item{\code{s426.3}}{duration of abstinence}           
 #'     \item{\code{s428.3}}{who suggested no breastfeeding}   
-#'     \item{\code{s448.3}}{age solid\mushy food daily}      
+#'     \item{\code{s448.3}}{age solid \ mushy food daily}      
 #'     \item{\code{sp0d.3}}{polio 0 day}                      
 #'     \item{\code{sp0m.3}}{polio 0 month}                    
 #'     \item{\code{sp0y.3}}{polio 0 year}                     
@@ -2165,7 +2165,7 @@
 #'     \item{\code{idx94.4}}{index to birth history}          
 #'     \item{\code{s426.4}}{duration of abstinence}           
 #'     \item{\code{s428.4}}{who suggested no breastfeeding}   
-#'     \item{\code{s448.4}}{age solid\mushy food daily}      
+#'     \item{\code{s448.4}}{age solid \ mushy food daily}      
 #'     \item{\code{sp0d.4}}{polio 0 day}                      
 #'     \item{\code{sp0m.4}}{polio 0 month}                    
 #'     \item{\code{sp0y.4}}{polio 0 year}                     
@@ -2193,7 +2193,7 @@
 #'     \item{\code{idx94.5}}{index to birth history}          
 #'     \item{\code{s426.5}}{duration of abstinence}           
 #'     \item{\code{s428.5}}{who suggested no breastfeeding}   
-#'     \item{\code{s448.5}}{age solid\mushy food daily}      
+#'     \item{\code{s448.5}}{age solid \ mushy food daily}      
 #'     \item{\code{sp0d.5}}{polio 0 day}                      
 #'     \item{\code{sp0m.5}}{polio 0 month}                    
 #'     \item{\code{sp0y.5}}{polio 0 year}                     
@@ -2221,7 +2221,7 @@
 #'     \item{\code{idx94.6}}{index to birth history}          
 #'     \item{\code{s426.6}}{duration of abstinence}           
 #'     \item{\code{s428.6}}{who suggested no breastfeeding}   
-#'     \item{\code{s448.6}}{age solid\mushy food daily}      
+#'     \item{\code{s448.6}}{age solid \ mushy food daily}      
 #'     \item{\code{sp0d.6}}{polio 0 day}                      
 #'     \item{\code{sp0m.6}}{polio 0 month}                    
 #'     \item{\code{sp0y.6}}{polio 0 year}                     
@@ -2248,11 +2248,11 @@
 #'     \item{\code{s810y.6}}{date child measured (year)}      
 #'     \item{\code{smregion}}{region of residence}            
 #'     \item{\code{smtype}}{type of place of residence}       
-#'     \item{\code{smclust}}{cluster added to reg\type\dist}
+#'     \item{\code{smclust}}{cluster added to reg \ type \ dist}
 #'     \item{\code{smdist}}{district}                         
 #'     \item{\code{smhno}}{household number}                  
 #'     \item{\code{smline}}{husband's line number}            
-#'     \item{\code{smlocal}}{city\town\countryside}         
+#'     \item{\code{smlocal}}{city \ town \ countryside}         
 #'     \item{\code{smselect}}{first wife or not}              
 #'     \item{\code{smwife1}}{wife 1 line number}              
 #'     \item{\code{smwife2}}{wife 2 line number}              
@@ -2347,7 +2347,7 @@
 #'     \item{\code{sm218}}{cost of condom}                    
 #'     \item{\code{sm219}}{source of current method}          
 #'     \item{\code{sm220}}{time to get to source}             
-#'     \item{\code{sm221}}{easy\difficult to go to source}   
+#'     \item{\code{sm221}}{easy \ difficult to go to source}   
 #'     \item{\code{sm223m}}{month of sterilization}           
 #'     \item{\code{sm223y}}{year of sterilization}            
 #'     \item{\code{sm223c}}{cmc sterilization}                
@@ -2362,7 +2362,7 @@
 #'     \item{\code{sm231}}{know source for fp}                
 #'     \item{\code{sm232}}{source for family planning}        
 #'     \item{\code{sm233}}{time from home to place}           
-#'     \item{\code{sm234}}{easy\difficult to get to place}   
+#'     \item{\code{sm234}}{easy \ difficult to get to place}   
 #'     \item{\code{sm235a}}{heard about fp on radio}          
 #'     \item{\code{sm235b}}{heard about fp on television}     
 #'     \item{\code{sm237}}{message effective}                 
@@ -2377,7 +2377,7 @@
 #'     \item{\code{sm305f}}{husband's marriage flag}          
 #'     \item{\code{sm306a}}{presence of children}             
 #'     \item{\code{sm306b}}{presence of wife}                 
-#'     \item{\code{sm306c}}{presence of father\brother}      
+#'     \item{\code{sm306c}}{presence of father \ brother}      
 #'     \item{\code{sm306d}}{presence of other males}          
 #'     \item{\code{sm306e}}{presence of other females}        
 #'     \item{\code{sm401a}}{number of own sons}               
@@ -2425,7 +2425,7 @@
 #'     \item{\code{v014}}{completeness of information}        
 #'     \item{\code{v015}}{result of individual interview}     
 #'     \item{\code{v016}}{day of interview}                   
-#'     \item{\code{v017}}{cmc start of calendar\health}      
+#'     \item{\code{v017}}{cmc start of calendar \ health}      
 #'     \item{\code{v018}}{row of month of interview}          
 #'     \item{\code{v019}}{length of calendar}                 
 #'     \item{\code{v020}}{ever-married sample}                
@@ -2487,7 +2487,7 @@
 #'     \item{\code{v151}}{sex of household head}              
 #'     \item{\code{v152}}{age of household head}              
 #'     \item{\code{awfactt}}{all woman factor - total}        
-#'     \item{\code{awfactu}}{all woman factor - urban\rural} 
+#'     \item{\code{awfactu}}{all woman factor - urban \ rural} 
 #'     \item{\code{awfactr}}{all woman factor - regional}     
 #'     \item{\code{awfacte}}{all woman factor - educati- na}  
 #'     \item{\code{bidx.01}}{birth column number}             
@@ -2940,8 +2940,8 @@
 #'     \item{\code{v370}}{source of first method    - na}     
 #'     \item{\code{v371}}{source of first method    - na}     
 #'     \item{\code{v372}}{shown pill package}                 
-#'     \item{\code{v373}}{doctor\nurse for first pil- na}    
-#'     \item{\code{v374}}{doctor\nurse for last pills}       
+#'     \item{\code{v373}}{doctor \ nurse for first pil- na}    
+#'     \item{\code{v374}}{doctor \ nurse for last pills}       
 #'     \item{\code{v375}}{reason for current method - na}     
 #'     \item{\code{v376}}{main reason not to use a meth.}     
 #'     \item{\code{v377}}{source for future method}           
@@ -2950,7 +2950,7 @@
 #'     \item{\code{v380}}{source known for any method}        
 #'     \item{\code{v381}}{time to get to source}              
 #'     \item{\code{v382}}{time to get to source(grouped)}     
-#'     \item{\code{v383}}{easy\difficult to get to place}    
+#'     \item{\code{v383}}{easy \ difficult to get to place}    
 #'     \item{\code{v384}}{heard about fp on television}       
 #'     \item{\code{v385}}{contraceptive use before  - na}     
 #'     \item{\code{v386}}{month started method pre  - na}     
@@ -2963,7 +2963,7 @@
 #'     \item{\code{midx.1}}{index to birth history}           
 #'     \item{\code{m1.1}}{tetanus injections bef. birth}      
 #'     \item{\code{m2a.1}}{prenatal: doctor}                  
-#'     \item{\code{m2b.1}}{prenatal: nurse\midwife}          
+#'     \item{\code{m2b.1}}{prenatal: nurse \ midwife}          
 #'     \item{\code{m2c.1}}{prenatal: auxiliary midwi - na}    
 #'     \item{\code{m2d.1}}{prenatal:cs lady health visitr}    
 #'     \item{\code{m2e.1}}{prenatal:cs fam welfare worker}    
@@ -2977,7 +2977,7 @@
 #'     \item{\code{m2m.1}}{prenatal: cs other        - na}    
 #'     \item{\code{m2n.1}}{prenatal: no one}                  
 #'     \item{\code{m3a.1}}{assistance: doctor}                
-#'     \item{\code{m3b.1}}{assistance: nurse\midwife}        
+#'     \item{\code{m3b.1}}{assistance: nurse \ midwife}        
 #'     \item{\code{m3c.1}}{assistance: auxiliary mid - na}    
 #'     \item{\code{m3d.1}}{assistance:cs lady health vist}    
 #'     \item{\code{m3e.1}}{assistance:cs family health wk}    
@@ -3019,7 +3019,7 @@
 #'     \item{\code{midx.2}}{index to birth history}           
 #'     \item{\code{m1.2}}{tetanus injections bef. birth}      
 #'     \item{\code{m2a.2}}{prenatal: doctor}                  
-#'     \item{\code{m2b.2}}{prenatal: nurse\midwife}          
+#'     \item{\code{m2b.2}}{prenatal: nurse \ midwife}          
 #'     \item{\code{m2c.2}}{prenatal: auxiliary midwi - na}    
 #'     \item{\code{m2d.2}}{prenatal:cs lady health visitr}    
 #'     \item{\code{m2e.2}}{prenatal:cs fam welfare worker}    
@@ -3033,7 +3033,7 @@
 #'     \item{\code{m2m.2}}{prenatal: cs other        - na}    
 #'     \item{\code{m2n.2}}{prenatal: no one}                  
 #'     \item{\code{m3a.2}}{assistance: doctor}                
-#'     \item{\code{m3b.2}}{assistance: nurse\midwife}        
+#'     \item{\code{m3b.2}}{assistance: nurse \ midwife}        
 #'     \item{\code{m3c.2}}{assistance: auxiliary mid - na}    
 #'     \item{\code{m3d.2}}{assistance:cs lady health vist}    
 #'     \item{\code{m3e.2}}{assistance:cs family health wk}    
@@ -3075,7 +3075,7 @@
 #'     \item{\code{midx.3}}{index to birth history}           
 #'     \item{\code{m1.3}}{tetanus injections bef. birth}      
 #'     \item{\code{m2a.3}}{prenatal: doctor}                  
-#'     \item{\code{m2b.3}}{prenatal: nurse\midwife}          
+#'     \item{\code{m2b.3}}{prenatal: nurse \ midwife}          
 #'     \item{\code{m2c.3}}{prenatal: auxiliary midwi - na}    
 #'     \item{\code{m2d.3}}{prenatal:cs lady health visitr}    
 #'     \item{\code{m2e.3}}{prenatal:cs fam welfare worker}    
@@ -3089,7 +3089,7 @@
 #'     \item{\code{m2m.3}}{prenatal: cs other        - na}    
 #'     \item{\code{m2n.3}}{prenatal: no one}                  
 #'     \item{\code{m3a.3}}{assistance: doctor}                
-#'     \item{\code{m3b.3}}{assistance: nurse\midwife}        
+#'     \item{\code{m3b.3}}{assistance: nurse \ midwife}        
 #'     \item{\code{m3c.3}}{assistance: auxiliary mid - na}    
 #'     \item{\code{m3d.3}}{assistance:cs lady health vist}    
 #'     \item{\code{m3e.3}}{assistance:cs family health wk}    
@@ -3131,7 +3131,7 @@
 #'     \item{\code{midx.4}}{index to birth history}           
 #'     \item{\code{m1.4}}{tetanus injections bef. birth}      
 #'     \item{\code{m2a.4}}{prenatal: doctor}                  
-#'     \item{\code{m2b.4}}{prenatal: nurse\midwife}          
+#'     \item{\code{m2b.4}}{prenatal: nurse \ midwife}          
 #'     \item{\code{m2c.4}}{prenatal: auxiliary midwi - na}    
 #'     \item{\code{m2d.4}}{prenatal:cs lady health visitr}    
 #'     \item{\code{m2e.4}}{prenatal:cs fam welfare worker}    
@@ -3145,7 +3145,7 @@
 #'     \item{\code{m2m.4}}{prenatal: cs other        - na}    
 #'     \item{\code{m2n.4}}{prenatal: no one}                  
 #'     \item{\code{m3a.4}}{assistance: doctor}                
-#'     \item{\code{m3b.4}}{assistance: nurse\midwife}        
+#'     \item{\code{m3b.4}}{assistance: nurse \ midwife}        
 #'     \item{\code{m3c.4}}{assistance: auxiliary mid - na}    
 #'     \item{\code{m3d.4}}{assistance:cs lady health vist}    
 #'     \item{\code{m3e.4}}{assistance:cs family health wk}    
@@ -3187,7 +3187,7 @@
 #'     \item{\code{midx.5}}{index to birth history}           
 #'     \item{\code{m1.5}}{tetanus injections bef. birth}      
 #'     \item{\code{m2a.5}}{prenatal: doctor}                  
-#'     \item{\code{m2b.5}}{prenatal: nurse\midwife}          
+#'     \item{\code{m2b.5}}{prenatal: nurse \ midwife}          
 #'     \item{\code{m2c.5}}{prenatal: auxiliary midwi - na}    
 #'     \item{\code{m2d.5}}{prenatal:cs lady health visitr}    
 #'     \item{\code{m2e.5}}{prenatal:cs fam welfare worker}    
@@ -3201,7 +3201,7 @@
 #'     \item{\code{m2m.5}}{prenatal: cs other        - na}    
 #'     \item{\code{m2n.5}}{prenatal: no one}                  
 #'     \item{\code{m3a.5}}{assistance: doctor}                
-#'     \item{\code{m3b.5}}{assistance: nurse\midwife}        
+#'     \item{\code{m3b.5}}{assistance: nurse \ midwife}        
 #'     \item{\code{m3c.5}}{assistance: auxiliary mid - na}    
 #'     \item{\code{m3d.5}}{assistance:cs lady health vist}    
 #'     \item{\code{m3e.5}}{assistance:cs family health wk}    
@@ -3243,7 +3243,7 @@
 #'     \item{\code{midx.6}}{index to birth history}           
 #'     \item{\code{m1.6}}{tetanus injections bef. birth}      
 #'     \item{\code{m2a.6}}{prenatal: doctor}                  
-#'     \item{\code{m2b.6}}{prenatal: nurse\midwife}          
+#'     \item{\code{m2b.6}}{prenatal: nurse \ midwife}          
 #'     \item{\code{m2c.6}}{prenatal: auxiliary midwi - na}    
 #'     \item{\code{m2d.6}}{prenatal:cs lady health visitr}    
 #'     \item{\code{m2e.6}}{prenatal:cs fam welfare worker}    
@@ -3257,7 +3257,7 @@
 #'     \item{\code{m2m.6}}{prenatal: cs other        - na}    
 #'     \item{\code{m2n.6}}{prenatal: no one}                  
 #'     \item{\code{m3a.6}}{assistance: doctor}                
-#'     \item{\code{m3b.6}}{assistance: nurse\midwife}        
+#'     \item{\code{m3b.6}}{assistance: nurse \ midwife}        
 #'     \item{\code{m3c.6}}{assistance: auxiliary mid - na}    
 #'     \item{\code{m3d.6}}{assistance:cs lady health vist}    
 #'     \item{\code{m3e.6}}{assistance:cs family health wk}    
@@ -3306,7 +3306,7 @@
 #'     \item{\code{v409a}}{gave child sugar water}            
 #'     \item{\code{v410}}{gave child juice}                   
 #'     \item{\code{v410a}}{gave child herbal tea}             
-#'     \item{\code{v411}}{gave child powder\tinned milk}     
+#'     \item{\code{v411}}{gave child powder \ tinned milk}     
 #'     \item{\code{v411a}}{gave child baby formula}           
 #'     \item{\code{v412}}{gave child fresh milk}              
 #'     \item{\code{v413a}}{country specific: ghutti}          
@@ -3323,7 +3323,7 @@
 #'     \item{\code{v416}}{heard of oral rehydration}          
 #'     \item{\code{v417}}{entries in maternity table}         
 #'     \item{\code{v418}}{entries in health table}            
-#'     \item{\code{v419}}{entries in height\weight table}    
+#'     \item{\code{v419}}{entries in height \ weight table}    
 #'     \item{\code{v420}}{measurer's code          -  na}     
 #'     \item{\code{v421}}{assistant measurer's code - na}     
 #'     \item{\code{v422}}{ever prepared ors solution}         
@@ -3333,11 +3333,11 @@
 #'     \item{\code{v424c}}{ors source: govt health p - na}    
 #'     \item{\code{v424d}}{ors source: mobile clinic - na}    
 #'     \item{\code{v424e}}{ors source: comm.health w - na}    
-#'     \item{\code{v424f}}{ors source:cs rhc\govt clinin}    
+#'     \item{\code{v424f}}{ors source:cs rhc \ govt clinin}    
 #'     \item{\code{v424g}}{ors source:cs fam welfare wrkr}    
 #'     \item{\code{v424h}}{ors source:cs lady health wrkr}    
 #'     \item{\code{v424i}}{ors source:cs pub. mobile team}    
-#'     \item{\code{v424j}}{ors source: private hosp\clin.}   
+#'     \item{\code{v424j}}{ors source: private hosp \ clin.}   
 #'     \item{\code{v424k}}{ors source: private pharmacy}      
 #'     \item{\code{v424l}}{ors source: private doctor}        
 #'     \item{\code{v424m}}{ors source: private mobil - na}    
@@ -3367,12 +3367,12 @@
 #'     \item{\code{v436}}{arm circumference (cms-1d - na}     
 #'     \item{\code{v437}}{respondent's weight (kilo - na}     
 #'     \item{\code{v438}}{respondent's height (cms- - na}     
-#'     \item{\code{v439}}{ht\a percentile (resp.)   - na}    
-#'     \item{\code{v440}}{ht\a standard deviations  - na}    
-#'     \item{\code{v441}}{ht\a percent ref. median  - na}    
-#'     \item{\code{v442}}{wt\ht percent ref. median - na}    
-#'     \item{\code{v443}}{wt\ht percent ref. median - na}    
-#'     \item{\code{v444}}{wt\ht percent ref. median - na}    
+#'     \item{\code{v439}}{ht \ a percentile (resp.)   - na}    
+#'     \item{\code{v440}}{ht \ a standard deviations  - na}    
+#'     \item{\code{v441}}{ht \ a percent ref. median  - na}    
+#'     \item{\code{v442}}{wt \ ht percent ref. median - na}    
+#'     \item{\code{v443}}{wt \ ht percent ref. median - na}    
+#'     \item{\code{v444}}{wt \ ht percent ref. median - na}    
 #'     \item{\code{v445}}{body mass index for respo - na}     
 #'     \item{\code{v446}}{rohrer's index for respon - na}     
 #'     \item{\code{v447}}{result of measurement of  - na}     
@@ -3419,11 +3419,11 @@
 #'     \item{\code{h12c.1}}{diarrhea: govt health pos - na}   
 #'     \item{\code{h12d.1}}{diarrhea: mobile clinic   - na}   
 #'     \item{\code{h12e.1}}{diarrhea: comm.health work- na}   
-#'     \item{\code{h12f.1}}{diarrhea:cs rhc\govt. clinic}    
+#'     \item{\code{h12f.1}}{diarrhea:cs rhc \ govt. clinic}    
 #'     \item{\code{h12g.1}}{diarrhea:cs family welfare wkr}   
 #'     \item{\code{h12h.1}}{diarrhea:cs lady health visitr}   
 #'     \item{\code{h12i.1}}{diarrhea: cs public secto - na}   
-#'     \item{\code{h12j.1}}{diarrhea: private hosp\clin.}    
+#'     \item{\code{h12j.1}}{diarrhea: private hosp \ clin.}    
 #'     \item{\code{h12k.1}}{diarrhea: private pharmacy}       
 #'     \item{\code{h12l.1}}{diarrhea: private doctor}         
 #'     \item{\code{h12m.1}}{diarrhea: private mobile  - na}   
@@ -3449,7 +3449,7 @@
 #'     \item{\code{h15b.1}}{given an injection}               
 #'     \item{\code{h15c.1}}{given an intravenous (iv)}        
 #'     \item{\code{h15d.1}}{given home remedy, herbal med.}   
-#'     \item{\code{h15e.1}}{given cs: unknown pill\syrup}    
+#'     \item{\code{h15e.1}}{given cs: unknown pill \ syrup}    
 #'     \item{\code{h15f.1}}{given cs rice water}              
 #'     \item{\code{h15g.1}}{given cs lassi}                   
 #'     \item{\code{h15h.1}}{given cs other fluid}             
@@ -3463,32 +3463,32 @@
 #'     \item{\code{h31.1}}{had cough in last two weeks}       
 #'     \item{\code{h31a.1}}{how long cough lasted}            
 #'     \item{\code{h31b.1}}{short, rapid breaths}             
-#'     \item{\code{h32a.1}}{fever\cough: government hosp.}   
-#'     \item{\code{h32b.1}}{fever\cough: govt health  - na}  
-#'     \item{\code{h32c.1}}{fever\cough: govt health  - na}  
-#'     \item{\code{h32d.1}}{fever\cough: mobile clini - na}  
-#'     \item{\code{h32e.1}}{fever\cough: comm.health w- na}  
-#'     \item{\code{h32f.1}}{fever\cough: cs rhc\govt clin}  
-#'     \item{\code{h32g.1}}{fever\cough:cs family welf wkr}  
-#'     \item{\code{h32h.1}}{fever\cough:cs lady health vst}  
-#'     \item{\code{h32i.1}}{fever\cough: cs public se - na}  
-#'     \item{\code{h32j.1}}{fever\cough: private hosp\clin} 
-#'     \item{\code{h32k.1}}{fever\cough: private pharmacy}   
-#'     \item{\code{h32l.1}}{fever\cough: private doctor}     
-#'     \item{\code{h32m.1}}{fever\cough: private mobi - na}  
-#'     \item{\code{h32n.1}}{fever\cough: comm.health  - na}  
-#'     \item{\code{h32o.1}}{fever\cough: cs med.priv  - na}  
-#'     \item{\code{h32p.1}}{fever\cough: cs med.priv  - na}  
-#'     \item{\code{h32q.1}}{fever\cough: cs med.priv  - na}  
-#'     \item{\code{h32r.1}}{fever\cough: cs med.priv  - na}  
-#'     \item{\code{h32s.1}}{fever\cough: shop}               
-#'     \item{\code{h32t.1}}{fever\cough: traditional  - na}  
-#'     \item{\code{h32u.1}}{fever\cough:cs homeopath}        
-#'     \item{\code{h32v.1}}{fever\cough:cs hakim}            
-#'     \item{\code{h32w.1}}{fever\cough:cs faith healer}     
-#'     \item{\code{h32x.1}}{fever\cough: other}              
-#'     \item{\code{h32y.1}}{fever\cough: no treatment}       
-#'     \item{\code{h32z.1}}{fever\cough: medical treatment}  
+#'     \item{\code{h32a.1}}{fever \ cough: government hosp.}   
+#'     \item{\code{h32b.1}}{fever \ cough: govt health  - na}  
+#'     \item{\code{h32c.1}}{fever \ cough: govt health  - na}  
+#'     \item{\code{h32d.1}}{fever \ cough: mobile clini - na}  
+#'     \item{\code{h32e.1}}{fever \ cough: comm.health w- na}  
+#'     \item{\code{h32f.1}}{fever \ cough: cs rhc \ govt clin}  
+#'     \item{\code{h32g.1}}{fever \ cough:cs family welf wkr}  
+#'     \item{\code{h32h.1}}{fever \ cough:cs lady health vst}  
+#'     \item{\code{h32i.1}}{fever \ cough: cs public se - na}  
+#'     \item{\code{h32j.1}}{fever \ cough: private hosp \ clin} 
+#'     \item{\code{h32k.1}}{fever \ cough: private pharmacy}   
+#'     \item{\code{h32l.1}}{fever \ cough: private doctor}     
+#'     \item{\code{h32m.1}}{fever \ cough: private mobi - na}  
+#'     \item{\code{h32n.1}}{fever \ cough: comm.health  - na}  
+#'     \item{\code{h32o.1}}{fever \ cough: cs med.priv  - na}  
+#'     \item{\code{h32p.1}}{fever \ cough: cs med.priv  - na}  
+#'     \item{\code{h32q.1}}{fever \ cough: cs med.priv  - na}  
+#'     \item{\code{h32r.1}}{fever \ cough: cs med.priv  - na}  
+#'     \item{\code{h32s.1}}{fever \ cough: shop}               
+#'     \item{\code{h32t.1}}{fever \ cough: traditional  - na}  
+#'     \item{\code{h32u.1}}{fever \ cough:cs homeopath}        
+#'     \item{\code{h32v.1}}{fever \ cough:cs hakim}            
+#'     \item{\code{h32w.1}}{fever \ cough:cs faith healer}     
+#'     \item{\code{h32x.1}}{fever \ cough: other}              
+#'     \item{\code{h32y.1}}{fever \ cough: no treatment}       
+#'     \item{\code{h32z.1}}{fever \ cough: medical treatment}  
 #'     \item{\code{h33.1}}{given antibiotics}                 
 #'     \item{\code{h33a.1}}{given antimalarials}              
 #'     \item{\code{h34.1}}{given cough syrup}                 
@@ -3546,11 +3546,11 @@
 #'     \item{\code{h12c.2}}{diarrhea: govt health pos - na}   
 #'     \item{\code{h12d.2}}{diarrhea: mobile clinic   - na}   
 #'     \item{\code{h12e.2}}{diarrhea: comm.health work- na}   
-#'     \item{\code{h12f.2}}{diarrhea:cs rhc\govt. clinic}    
+#'     \item{\code{h12f.2}}{diarrhea:cs rhc \ govt. clinic}    
 #'     \item{\code{h12g.2}}{diarrhea:cs family welfare wkr}   
 #'     \item{\code{h12h.2}}{diarrhea:cs lady health visitr}   
 #'     \item{\code{h12i.2}}{diarrhea: cs public secto - na}   
-#'     \item{\code{h12j.2}}{diarrhea: private hosp\clin.}    
+#'     \item{\code{h12j.2}}{diarrhea: private hosp \ clin.}    
 #'     \item{\code{h12k.2}}{diarrhea: private pharmacy}       
 #'     \item{\code{h12l.2}}{diarrhea: private doctor}         
 #'     \item{\code{h12m.2}}{diarrhea: private mobile  - na}   
@@ -3576,7 +3576,7 @@
 #'     \item{\code{h15b.2}}{given an injection}               
 #'     \item{\code{h15c.2}}{given an intravenous (iv)}        
 #'     \item{\code{h15d.2}}{given home remedy, herbal med.}   
-#'     \item{\code{h15e.2}}{given cs: unknown pill\syrup}    
+#'     \item{\code{h15e.2}}{given cs: unknown pill \ syrup}    
 #'     \item{\code{h15f.2}}{given cs rice water}              
 #'     \item{\code{h15g.2}}{given cs lassi}                   
 #'     \item{\code{h15h.2}}{given cs other fluid}             
@@ -3590,32 +3590,32 @@
 #'     \item{\code{h31.2}}{had cough in last two weeks}       
 #'     \item{\code{h31a.2}}{how long cough lasted}            
 #'     \item{\code{h31b.2}}{short, rapid breaths}             
-#'     \item{\code{h32a.2}}{fever\cough: government hosp.}   
-#'     \item{\code{h32b.2}}{fever\cough: govt health  - na}  
-#'     \item{\code{h32c.2}}{fever\cough: govt health  - na}  
-#'     \item{\code{h32d.2}}{fever\cough: mobile clini - na}  
-#'     \item{\code{h32e.2}}{fever\cough: comm.health w- na}  
-#'     \item{\code{h32f.2}}{fever\cough: cs rhc\govt clin}  
-#'     \item{\code{h32g.2}}{fever\cough:cs family welf wkr}  
-#'     \item{\code{h32h.2}}{fever\cough:cs lady health vst}  
-#'     \item{\code{h32i.2}}{fever\cough: cs public se - na}  
-#'     \item{\code{h32j.2}}{fever\cough: private hosp\clin} 
-#'     \item{\code{h32k.2}}{fever\cough: private pharmacy}   
-#'     \item{\code{h32l.2}}{fever\cough: private doctor}     
-#'     \item{\code{h32m.2}}{fever\cough: private mobi - na}  
-#'     \item{\code{h32n.2}}{fever\cough: comm.health  - na}  
-#'     \item{\code{h32o.2}}{fever\cough: cs med.priv  - na}  
-#'     \item{\code{h32p.2}}{fever\cough: cs med.priv  - na}  
-#'     \item{\code{h32q.2}}{fever\cough: cs med.priv  - na}  
-#'     \item{\code{h32r.2}}{fever\cough: cs med.priv  - na}  
-#'     \item{\code{h32s.2}}{fever\cough: shop}               
-#'     \item{\code{h32t.2}}{fever\cough: traditional  - na}  
-#'     \item{\code{h32u.2}}{fever\cough:cs homeopath}        
-#'     \item{\code{h32v.2}}{fever\cough:cs hakim}            
-#'     \item{\code{h32w.2}}{fever\cough:cs faith healer}     
-#'     \item{\code{h32x.2}}{fever\cough: other}              
-#'     \item{\code{h32y.2}}{fever\cough: no treatment}       
-#'     \item{\code{h32z.2}}{fever\cough: medical treatment}  
+#'     \item{\code{h32a.2}}{fever \ cough: government hosp.}   
+#'     \item{\code{h32b.2}}{fever \ cough: govt health  - na}  
+#'     \item{\code{h32c.2}}{fever \ cough: govt health  - na}  
+#'     \item{\code{h32d.2}}{fever \ cough: mobile clini - na}  
+#'     \item{\code{h32e.2}}{fever \ cough: comm.health w- na}  
+#'     \item{\code{h32f.2}}{fever \ cough: cs rhc \ govt clin}  
+#'     \item{\code{h32g.2}}{fever \ cough:cs family welf wkr}  
+#'     \item{\code{h32h.2}}{fever \ cough:cs lady health vst}  
+#'     \item{\code{h32i.2}}{fever \ cough: cs public se - na}  
+#'     \item{\code{h32j.2}}{fever \ cough: private hosp \ clin} 
+#'     \item{\code{h32k.2}}{fever \ cough: private pharmacy}   
+#'     \item{\code{h32l.2}}{fever \ cough: private doctor}     
+#'     \item{\code{h32m.2}}{fever \ cough: private mobi - na}  
+#'     \item{\code{h32n.2}}{fever \ cough: comm.health  - na}  
+#'     \item{\code{h32o.2}}{fever \ cough: cs med.priv  - na}  
+#'     \item{\code{h32p.2}}{fever \ cough: cs med.priv  - na}  
+#'     \item{\code{h32q.2}}{fever \ cough: cs med.priv  - na}  
+#'     \item{\code{h32r.2}}{fever \ cough: cs med.priv  - na}  
+#'     \item{\code{h32s.2}}{fever \ cough: shop}               
+#'     \item{\code{h32t.2}}{fever \ cough: traditional  - na}  
+#'     \item{\code{h32u.2}}{fever \ cough:cs homeopath}        
+#'     \item{\code{h32v.2}}{fever \ cough:cs hakim}            
+#'     \item{\code{h32w.2}}{fever \ cough:cs faith healer}     
+#'     \item{\code{h32x.2}}{fever \ cough: other}              
+#'     \item{\code{h32y.2}}{fever \ cough: no treatment}       
+#'     \item{\code{h32z.2}}{fever \ cough: medical treatment}  
 #'     \item{\code{h33.2}}{given antibiotics}                 
 #'     \item{\code{h33a.2}}{given antimalarials}              
 #'     \item{\code{h34.2}}{given cough syrup}                 
@@ -3673,11 +3673,11 @@
 #'     \item{\code{h12c.3}}{diarrhea: govt health pos - na}   
 #'     \item{\code{h12d.3}}{diarrhea: mobile clinic   - na}   
 #'     \item{\code{h12e.3}}{diarrhea: comm.health work- na}   
-#'     \item{\code{h12f.3}}{diarrhea:cs rhc\govt. clinic}    
+#'     \item{\code{h12f.3}}{diarrhea:cs rhc \ govt. clinic}    
 #'     \item{\code{h12g.3}}{diarrhea:cs family welfare wkr}   
 #'     \item{\code{h12h.3}}{diarrhea:cs lady health visitr}   
 #'     \item{\code{h12i.3}}{diarrhea: cs public secto - na}   
-#'     \item{\code{h12j.3}}{diarrhea: private hosp\clin.}    
+#'     \item{\code{h12j.3}}{diarrhea: private hosp \ clin.}    
 #'     \item{\code{h12k.3}}{diarrhea: private pharmacy}       
 #'     \item{\code{h12l.3}}{diarrhea: private doctor}         
 #'     \item{\code{h12m.3}}{diarrhea: private mobile  - na}   
@@ -3703,7 +3703,7 @@
 #'     \item{\code{h15b.3}}{given an injection}               
 #'     \item{\code{h15c.3}}{given an intravenous (iv)}        
 #'     \item{\code{h15d.3}}{given home remedy, herbal med.}   
-#'     \item{\code{h15e.3}}{given cs: unknown pill\syrup}    
+#'     \item{\code{h15e.3}}{given cs: unknown pill \ syrup}    
 #'     \item{\code{h15f.3}}{given cs rice water}              
 #'     \item{\code{h15g.3}}{given cs lassi}                   
 #'     \item{\code{h15h.3}}{given cs other fluid}             
@@ -3717,32 +3717,32 @@
 #'     \item{\code{h31.3}}{had cough in last two weeks}       
 #'     \item{\code{h31a.3}}{how long cough lasted}            
 #'     \item{\code{h31b.3}}{short, rapid breaths}             
-#'     \item{\code{h32a.3}}{fever\cough: government hosp.}   
-#'     \item{\code{h32b.3}}{fever\cough: govt health  - na}  
-#'     \item{\code{h32c.3}}{fever\cough: govt health  - na}  
-#'     \item{\code{h32d.3}}{fever\cough: mobile clini - na}  
-#'     \item{\code{h32e.3}}{fever\cough: comm.health w- na}  
-#'     \item{\code{h32f.3}}{fever\cough: cs rhc\govt clin}  
-#'     \item{\code{h32g.3}}{fever\cough:cs family welf wkr}  
-#'     \item{\code{h32h.3}}{fever\cough:cs lady health vst}  
-#'     \item{\code{h32i.3}}{fever\cough: cs public se - na}  
-#'     \item{\code{h32j.3}}{fever\cough: private hosp\clin} 
-#'     \item{\code{h32k.3}}{fever\cough: private pharmacy}   
-#'     \item{\code{h32l.3}}{fever\cough: private doctor}     
-#'     \item{\code{h32m.3}}{fever\cough: private mobi - na}  
-#'     \item{\code{h32n.3}}{fever\cough: comm.health  - na}  
-#'     \item{\code{h32o.3}}{fever\cough: cs med.priv  - na}  
-#'     \item{\code{h32p.3}}{fever\cough: cs med.priv  - na}  
-#'     \item{\code{h32q.3}}{fever\cough: cs med.priv  - na}  
-#'     \item{\code{h32r.3}}{fever\cough: cs med.priv  - na}  
-#'     \item{\code{h32s.3}}{fever\cough: shop}               
-#'     \item{\code{h32t.3}}{fever\cough: traditional  - na}  
-#'     \item{\code{h32u.3}}{fever\cough:cs homeopath}        
-#'     \item{\code{h32v.3}}{fever\cough:cs hakim}            
-#'     \item{\code{h32w.3}}{fever\cough:cs faith healer}     
-#'     \item{\code{h32x.3}}{fever\cough: other}              
-#'     \item{\code{h32y.3}}{fever\cough: no treatment}       
-#'     \item{\code{h32z.3}}{fever\cough: medical treatment}  
+#'     \item{\code{h32a.3}}{fever \ cough: government hosp.}   
+#'     \item{\code{h32b.3}}{fever \ cough: govt health  - na}  
+#'     \item{\code{h32c.3}}{fever \ cough: govt health  - na}  
+#'     \item{\code{h32d.3}}{fever \ cough: mobile clini - na}  
+#'     \item{\code{h32e.3}}{fever \ cough: comm.health w- na}  
+#'     \item{\code{h32f.3}}{fever \ cough: cs rhc \ govt clin}  
+#'     \item{\code{h32g.3}}{fever \ cough:cs family welf wkr}  
+#'     \item{\code{h32h.3}}{fever \ cough:cs lady health vst}  
+#'     \item{\code{h32i.3}}{fever \ cough: cs public se - na}  
+#'     \item{\code{h32j.3}}{fever \ cough: private hosp \ clin} 
+#'     \item{\code{h32k.3}}{fever \ cough: private pharmacy}   
+#'     \item{\code{h32l.3}}{fever \ cough: private doctor}     
+#'     \item{\code{h32m.3}}{fever \ cough: private mobi - na}  
+#'     \item{\code{h32n.3}}{fever \ cough: comm.health  - na}  
+#'     \item{\code{h32o.3}}{fever \ cough: cs med.priv  - na}  
+#'     \item{\code{h32p.3}}{fever \ cough: cs med.priv  - na}  
+#'     \item{\code{h32q.3}}{fever \ cough: cs med.priv  - na}  
+#'     \item{\code{h32r.3}}{fever \ cough: cs med.priv  - na}  
+#'     \item{\code{h32s.3}}{fever \ cough: shop}               
+#'     \item{\code{h32t.3}}{fever \ cough: traditional  - na}  
+#'     \item{\code{h32u.3}}{fever \ cough:cs homeopath}        
+#'     \item{\code{h32v.3}}{fever \ cough:cs hakim}            
+#'     \item{\code{h32w.3}}{fever \ cough:cs faith healer}     
+#'     \item{\code{h32x.3}}{fever \ cough: other}              
+#'     \item{\code{h32y.3}}{fever \ cough: no treatment}       
+#'     \item{\code{h32z.3}}{fever \ cough: medical treatment}  
 #'     \item{\code{h33.3}}{given antibiotics}                 
 #'     \item{\code{h33a.3}}{given antimalarials}              
 #'     \item{\code{h34.3}}{given cough syrup}                 
@@ -3800,11 +3800,11 @@
 #'     \item{\code{h12c.4}}{diarrhea: govt health pos - na}   
 #'     \item{\code{h12d.4}}{diarrhea: mobile clinic   - na}   
 #'     \item{\code{h12e.4}}{diarrhea: comm.health work- na}   
-#'     \item{\code{h12f.4}}{diarrhea:cs rhc\govt. clinic}    
+#'     \item{\code{h12f.4}}{diarrhea:cs rhc \ govt. clinic}    
 #'     \item{\code{h12g.4}}{diarrhea:cs family welfare wkr}   
 #'     \item{\code{h12h.4}}{diarrhea:cs lady health visitr}   
 #'     \item{\code{h12i.4}}{diarrhea: cs public secto - na}   
-#'     \item{\code{h12j.4}}{diarrhea: private hosp\clin.}    
+#'     \item{\code{h12j.4}}{diarrhea: private hosp \ clin.}    
 #'     \item{\code{h12k.4}}{diarrhea: private pharmacy}       
 #'     \item{\code{h12l.4}}{diarrhea: private doctor}         
 #'     \item{\code{h12m.4}}{diarrhea: private mobile  - na}   
@@ -3830,7 +3830,7 @@
 #'     \item{\code{h15b.4}}{given an injection}               
 #'     \item{\code{h15c.4}}{given an intravenous (iv)}        
 #'     \item{\code{h15d.4}}{given home remedy, herbal med.}   
-#'     \item{\code{h15e.4}}{given cs: unknown pill\syrup}    
+#'     \item{\code{h15e.4}}{given cs: unknown pill \ syrup}    
 #'     \item{\code{h15f.4}}{given cs rice water}              
 #'     \item{\code{h15g.4}}{given cs lassi}                   
 #'     \item{\code{h15h.4}}{given cs other fluid}             
@@ -3844,32 +3844,32 @@
 #'     \item{\code{h31.4}}{had cough in last two weeks}       
 #'     \item{\code{h31a.4}}{how long cough lasted}            
 #'     \item{\code{h31b.4}}{short, rapid breaths}             
-#'     \item{\code{h32a.4}}{fever\cough: government hosp.}   
-#'     \item{\code{h32b.4}}{fever\cough: govt health  - na}  
-#'     \item{\code{h32c.4}}{fever\cough: govt health  - na}  
-#'     \item{\code{h32d.4}}{fever\cough: mobile clini - na}  
-#'     \item{\code{h32e.4}}{fever\cough: comm.health w- na}  
-#'     \item{\code{h32f.4}}{fever\cough: cs rhc\govt clin}  
-#'     \item{\code{h32g.4}}{fever\cough:cs family welf wkr}  
-#'     \item{\code{h32h.4}}{fever\cough:cs lady health vst}  
-#'     \item{\code{h32i.4}}{fever\cough: cs public se - na}  
-#'     \item{\code{h32j.4}}{fever\cough: private hosp\clin} 
-#'     \item{\code{h32k.4}}{fever\cough: private pharmacy}   
-#'     \item{\code{h32l.4}}{fever\cough: private doctor}     
-#'     \item{\code{h32m.4}}{fever\cough: private mobi - na}  
-#'     \item{\code{h32n.4}}{fever\cough: comm.health  - na}  
-#'     \item{\code{h32o.4}}{fever\cough: cs med.priv  - na}  
-#'     \item{\code{h32p.4}}{fever\cough: cs med.priv  - na}  
-#'     \item{\code{h32q.4}}{fever\cough: cs med.priv  - na}  
-#'     \item{\code{h32r.4}}{fever\cough: cs med.priv  - na}  
-#'     \item{\code{h32s.4}}{fever\cough: shop}               
-#'     \item{\code{h32t.4}}{fever\cough: traditional  - na}  
-#'     \item{\code{h32u.4}}{fever\cough:cs homeopath}        
-#'     \item{\code{h32v.4}}{fever\cough:cs hakim}            
-#'     \item{\code{h32w.4}}{fever\cough:cs faith healer}     
-#'     \item{\code{h32x.4}}{fever\cough: other}              
-#'     \item{\code{h32y.4}}{fever\cough: no treatment}       
-#'     \item{\code{h32z.4}}{fever\cough: medical treatment}  
+#'     \item{\code{h32a.4}}{fever \ cough: government hosp.}   
+#'     \item{\code{h32b.4}}{fever \ cough: govt health  - na}  
+#'     \item{\code{h32c.4}}{fever \ cough: govt health  - na}  
+#'     \item{\code{h32d.4}}{fever \ cough: mobile clini - na}  
+#'     \item{\code{h32e.4}}{fever \ cough: comm.health w- na}  
+#'     \item{\code{h32f.4}}{fever \ cough: cs rhc \ govt clin}  
+#'     \item{\code{h32g.4}}{fever \ cough:cs family welf wkr}  
+#'     \item{\code{h32h.4}}{fever \ cough:cs lady health vst}  
+#'     \item{\code{h32i.4}}{fever \ cough: cs public se - na}  
+#'     \item{\code{h32j.4}}{fever \ cough: private hosp \ clin} 
+#'     \item{\code{h32k.4}}{fever \ cough: private pharmacy}   
+#'     \item{\code{h32l.4}}{fever \ cough: private doctor}     
+#'     \item{\code{h32m.4}}{fever \ cough: private mobi - na}  
+#'     \item{\code{h32n.4}}{fever \ cough: comm.health  - na}  
+#'     \item{\code{h32o.4}}{fever \ cough: cs med.priv  - na}  
+#'     \item{\code{h32p.4}}{fever \ cough: cs med.priv  - na}  
+#'     \item{\code{h32q.4}}{fever \ cough: cs med.priv  - na}  
+#'     \item{\code{h32r.4}}{fever \ cough: cs med.priv  - na}  
+#'     \item{\code{h32s.4}}{fever \ cough: shop}               
+#'     \item{\code{h32t.4}}{fever \ cough: traditional  - na}  
+#'     \item{\code{h32u.4}}{fever \ cough:cs homeopath}        
+#'     \item{\code{h32v.4}}{fever \ cough:cs hakim}            
+#'     \item{\code{h32w.4}}{fever \ cough:cs faith healer}     
+#'     \item{\code{h32x.4}}{fever \ cough: other}              
+#'     \item{\code{h32y.4}}{fever \ cough: no treatment}       
+#'     \item{\code{h32z.4}}{fever \ cough: medical treatment}  
 #'     \item{\code{h33.4}}{given antibiotics}                 
 #'     \item{\code{h33a.4}}{given antimalarials}              
 #'     \item{\code{h34.4}}{given cough syrup}                 
@@ -3927,11 +3927,11 @@
 #'     \item{\code{h12c.5}}{diarrhea: govt health pos - na}   
 #'     \item{\code{h12d.5}}{diarrhea: mobile clinic   - na}   
 #'     \item{\code{h12e.5}}{diarrhea: comm.health work- na}   
-#'     \item{\code{h12f.5}}{diarrhea:cs rhc\govt. clinic}    
+#'     \item{\code{h12f.5}}{diarrhea:cs rhc \ govt. clinic}    
 #'     \item{\code{h12g.5}}{diarrhea:cs family welfare wkr}   
 #'     \item{\code{h12h.5}}{diarrhea:cs lady health visitr}   
 #'     \item{\code{h12i.5}}{diarrhea: cs public secto - na}   
-#'     \item{\code{h12j.5}}{diarrhea: private hosp\clin.}    
+#'     \item{\code{h12j.5}}{diarrhea: private hosp \ clin.}    
 #'     \item{\code{h12k.5}}{diarrhea: private pharmacy}       
 #'     \item{\code{h12l.5}}{diarrhea: private doctor}         
 #'     \item{\code{h12m.5}}{diarrhea: private mobile  - na}   
@@ -3957,7 +3957,7 @@
 #'     \item{\code{h15b.5}}{given an injection}               
 #'     \item{\code{h15c.5}}{given an intravenous (iv)}        
 #'     \item{\code{h15d.5}}{given home remedy, herbal med.}   
-#'     \item{\code{h15e.5}}{given cs: unknown pill\syrup}    
+#'     \item{\code{h15e.5}}{given cs: unknown pill \ syrup}    
 #'     \item{\code{h15f.5}}{given cs rice water}              
 #'     \item{\code{h15g.5}}{given cs lassi}                   
 #'     \item{\code{h15h.5}}{given cs other fluid}             
@@ -3971,32 +3971,32 @@
 #'     \item{\code{h31.5}}{had cough in last two weeks}       
 #'     \item{\code{h31a.5}}{how long cough lasted}            
 #'     \item{\code{h31b.5}}{short, rapid breaths}             
-#'     \item{\code{h32a.5}}{fever\cough: government hosp.}   
-#'     \item{\code{h32b.5}}{fever\cough: govt health  - na}  
-#'     \item{\code{h32c.5}}{fever\cough: govt health  - na}  
-#'     \item{\code{h32d.5}}{fever\cough: mobile clini - na}  
-#'     \item{\code{h32e.5}}{fever\cough: comm.health w- na}  
-#'     \item{\code{h32f.5}}{fever\cough: cs rhc\govt clin}  
-#'     \item{\code{h32g.5}}{fever\cough:cs family welf wkr}  
-#'     \item{\code{h32h.5}}{fever\cough:cs lady health vst}  
-#'     \item{\code{h32i.5}}{fever\cough: cs public se - na}  
-#'     \item{\code{h32j.5}}{fever\cough: private hosp\clin} 
-#'     \item{\code{h32k.5}}{fever\cough: private pharmacy}   
-#'     \item{\code{h32l.5}}{fever\cough: private doctor}     
-#'     \item{\code{h32m.5}}{fever\cough: private mobi - na}  
-#'     \item{\code{h32n.5}}{fever\cough: comm.health  - na}  
-#'     \item{\code{h32o.5}}{fever\cough: cs med.priv  - na}  
-#'     \item{\code{h32p.5}}{fever\cough: cs med.priv  - na}  
-#'     \item{\code{h32q.5}}{fever\cough: cs med.priv  - na}  
-#'     \item{\code{h32r.5}}{fever\cough: cs med.priv  - na}  
-#'     \item{\code{h32s.5}}{fever\cough: shop}               
-#'     \item{\code{h32t.5}}{fever\cough: traditional  - na}  
-#'     \item{\code{h32u.5}}{fever\cough:cs homeopath}        
-#'     \item{\code{h32v.5}}{fever\cough:cs hakim}            
-#'     \item{\code{h32w.5}}{fever\cough:cs faith healer}     
-#'     \item{\code{h32x.5}}{fever\cough: other}              
-#'     \item{\code{h32y.5}}{fever\cough: no treatment}       
-#'     \item{\code{h32z.5}}{fever\cough: medical treatment}  
+#'     \item{\code{h32a.5}}{fever \ cough: government hosp.}   
+#'     \item{\code{h32b.5}}{fever \ cough: govt health  - na}  
+#'     \item{\code{h32c.5}}{fever \ cough: govt health  - na}  
+#'     \item{\code{h32d.5}}{fever \ cough: mobile clini - na}  
+#'     \item{\code{h32e.5}}{fever \ cough: comm.health w- na}  
+#'     \item{\code{h32f.5}}{fever \ cough: cs rhc \ govt clin}  
+#'     \item{\code{h32g.5}}{fever \ cough:cs family welf wkr}  
+#'     \item{\code{h32h.5}}{fever \ cough:cs lady health vst}  
+#'     \item{\code{h32i.5}}{fever \ cough: cs public se - na}  
+#'     \item{\code{h32j.5}}{fever \ cough: private hosp \ clin} 
+#'     \item{\code{h32k.5}}{fever \ cough: private pharmacy}   
+#'     \item{\code{h32l.5}}{fever \ cough: private doctor}     
+#'     \item{\code{h32m.5}}{fever \ cough: private mobi - na}  
+#'     \item{\code{h32n.5}}{fever \ cough: comm.health  - na}  
+#'     \item{\code{h32o.5}}{fever \ cough: cs med.priv  - na}  
+#'     \item{\code{h32p.5}}{fever \ cough: cs med.priv  - na}  
+#'     \item{\code{h32q.5}}{fever \ cough: cs med.priv  - na}  
+#'     \item{\code{h32r.5}}{fever \ cough: cs med.priv  - na}  
+#'     \item{\code{h32s.5}}{fever \ cough: shop}               
+#'     \item{\code{h32t.5}}{fever \ cough: traditional  - na}  
+#'     \item{\code{h32u.5}}{fever \ cough:cs homeopath}        
+#'     \item{\code{h32v.5}}{fever \ cough:cs hakim}            
+#'     \item{\code{h32w.5}}{fever \ cough:cs faith healer}     
+#'     \item{\code{h32x.5}}{fever \ cough: other}              
+#'     \item{\code{h32y.5}}{fever \ cough: no treatment}       
+#'     \item{\code{h32z.5}}{fever \ cough: medical treatment}  
 #'     \item{\code{h33.5}}{given antibiotics}                 
 #'     \item{\code{h33a.5}}{given antimalarials}              
 #'     \item{\code{h34.5}}{given cough syrup}                 
@@ -4054,11 +4054,11 @@
 #'     \item{\code{h12c.6}}{diarrhea: govt health pos - na}   
 #'     \item{\code{h12d.6}}{diarrhea: mobile clinic   - na}   
 #'     \item{\code{h12e.6}}{diarrhea: comm.health work- na}   
-#'     \item{\code{h12f.6}}{diarrhea:cs rhc\govt. clinic}    
+#'     \item{\code{h12f.6}}{diarrhea:cs rhc \ govt. clinic}    
 #'     \item{\code{h12g.6}}{diarrhea:cs family welfare wkr}   
 #'     \item{\code{h12h.6}}{diarrhea:cs lady health visitr}   
 #'     \item{\code{h12i.6}}{diarrhea: cs public secto - na}   
-#'     \item{\code{h12j.6}}{diarrhea: private hosp\clin.}    
+#'     \item{\code{h12j.6}}{diarrhea: private hosp \ clin.}    
 #'     \item{\code{h12k.6}}{diarrhea: private pharmacy}       
 #'     \item{\code{h12l.6}}{diarrhea: private doctor}         
 #'     \item{\code{h12m.6}}{diarrhea: private mobile  - na}   
@@ -4084,7 +4084,7 @@
 #'     \item{\code{h15b.6}}{given an injection}               
 #'     \item{\code{h15c.6}}{given an intravenous (iv)}        
 #'     \item{\code{h15d.6}}{given home remedy, herbal med.}   
-#'     \item{\code{h15e.6}}{given cs: unknown pill\syrup}    
+#'     \item{\code{h15e.6}}{given cs: unknown pill \ syrup}    
 #'     \item{\code{h15f.6}}{given cs rice water}              
 #'     \item{\code{h15g.6}}{given cs lassi}                   
 #'     \item{\code{h15h.6}}{given cs other fluid}             
@@ -4098,32 +4098,32 @@
 #'     \item{\code{h31.6}}{had cough in last two weeks}       
 #'     \item{\code{h31a.6}}{how long cough lasted}            
 #'     \item{\code{h31b.6}}{short, rapid breaths}             
-#'     \item{\code{h32a.6}}{fever\cough: government hosp.}   
-#'     \item{\code{h32b.6}}{fever\cough: govt health  - na}  
-#'     \item{\code{h32c.6}}{fever\cough: govt health  - na}  
-#'     \item{\code{h32d.6}}{fever\cough: mobile clini - na}  
-#'     \item{\code{h32e.6}}{fever\cough: comm.health w- na}  
-#'     \item{\code{h32f.6}}{fever\cough: cs rhc\govt clin}  
-#'     \item{\code{h32g.6}}{fever\cough:cs family welf wkr}  
-#'     \item{\code{h32h.6}}{fever\cough:cs lady health vst}  
-#'     \item{\code{h32i.6}}{fever\cough: cs public se - na}  
-#'     \item{\code{h32j.6}}{fever\cough: private hosp\clin} 
-#'     \item{\code{h32k.6}}{fever\cough: private pharmacy}   
-#'     \item{\code{h32l.6}}{fever\cough: private doctor}     
-#'     \item{\code{h32m.6}}{fever\cough: private mobi - na}  
-#'     \item{\code{h32n.6}}{fever\cough: comm.health  - na}  
-#'     \item{\code{h32o.6}}{fever\cough: cs med.priv  - na}  
-#'     \item{\code{h32p.6}}{fever\cough: cs med.priv  - na}  
-#'     \item{\code{h32q.6}}{fever\cough: cs med.priv  - na}  
-#'     \item{\code{h32r.6}}{fever\cough: cs med.priv  - na}  
-#'     \item{\code{h32s.6}}{fever\cough: shop}               
-#'     \item{\code{h32t.6}}{fever\cough: traditional  - na}  
-#'     \item{\code{h32u.6}}{fever\cough:cs homeopath}        
-#'     \item{\code{h32v.6}}{fever\cough:cs hakim}            
-#'     \item{\code{h32w.6}}{fever\cough:cs faith healer}     
-#'     \item{\code{h32x.6}}{fever\cough: other}              
-#'     \item{\code{h32y.6}}{fever\cough: no treatment}       
-#'     \item{\code{h32z.6}}{fever\cough: medical treatment}  
+#'     \item{\code{h32a.6}}{fever \ cough: government hosp.}   
+#'     \item{\code{h32b.6}}{fever \ cough: govt health  - na}  
+#'     \item{\code{h32c.6}}{fever \ cough: govt health  - na}  
+#'     \item{\code{h32d.6}}{fever \ cough: mobile clini - na}  
+#'     \item{\code{h32e.6}}{fever \ cough: comm.health w- na}  
+#'     \item{\code{h32f.6}}{fever \ cough: cs rhc \ govt clin}  
+#'     \item{\code{h32g.6}}{fever \ cough:cs family welf wkr}  
+#'     \item{\code{h32h.6}}{fever \ cough:cs lady health vst}  
+#'     \item{\code{h32i.6}}{fever \ cough: cs public se - na}  
+#'     \item{\code{h32j.6}}{fever \ cough: private hosp \ clin} 
+#'     \item{\code{h32k.6}}{fever \ cough: private pharmacy}   
+#'     \item{\code{h32l.6}}{fever \ cough: private doctor}     
+#'     \item{\code{h32m.6}}{fever \ cough: private mobi - na}  
+#'     \item{\code{h32n.6}}{fever \ cough: comm.health  - na}  
+#'     \item{\code{h32o.6}}{fever \ cough: cs med.priv  - na}  
+#'     \item{\code{h32p.6}}{fever \ cough: cs med.priv  - na}  
+#'     \item{\code{h32q.6}}{fever \ cough: cs med.priv  - na}  
+#'     \item{\code{h32r.6}}{fever \ cough: cs med.priv  - na}  
+#'     \item{\code{h32s.6}}{fever \ cough: shop}               
+#'     \item{\code{h32t.6}}{fever \ cough: traditional  - na}  
+#'     \item{\code{h32u.6}}{fever \ cough:cs homeopath}        
+#'     \item{\code{h32v.6}}{fever \ cough:cs hakim}            
+#'     \item{\code{h32w.6}}{fever \ cough:cs faith healer}     
+#'     \item{\code{h32x.6}}{fever \ cough: other}              
+#'     \item{\code{h32y.6}}{fever \ cough: no treatment}       
+#'     \item{\code{h32z.6}}{fever \ cough: medical treatment}  
 #'     \item{\code{h33.6}}{given antibiotics}                 
 #'     \item{\code{h33a.6}}{given antimalarials}              
 #'     \item{\code{h34.6}}{given cough syrup}                 
@@ -4142,15 +4142,15 @@
 #'     \item{\code{hw1.1}}{age in months}                     
 #'     \item{\code{hw2.1}}{weight in kilograms (1 dec.)}      
 #'     \item{\code{hw3.1}}{height in centimeters (1 dec.)}    
-#'     \item{\code{hw4.1}}{ht\a percentile}                  
-#'     \item{\code{hw5.1}}{ht\a standard deviations}         
-#'     \item{\code{hw6.1}}{ht\a percent of ref. median}      
-#'     \item{\code{hw7.1}}{wt\a percentile}                  
-#'     \item{\code{hw8.1}}{wt\a standard deviations}         
-#'     \item{\code{hw9.1}}{wt\a percent of ref. median}      
-#'     \item{\code{hw10.1}}{wt\ht percentile}                
-#'     \item{\code{hw11.1}}{wt\ht standard deviations}       
-#'     \item{\code{hw12.1}}{wt\ht percent of ref. median}    
+#'     \item{\code{hw4.1}}{ht \ a percentile}                  
+#'     \item{\code{hw5.1}}{ht \ a standard deviations}         
+#'     \item{\code{hw6.1}}{ht \ a percent of ref. median}      
+#'     \item{\code{hw7.1}}{wt \ a percentile}                  
+#'     \item{\code{hw8.1}}{wt \ a standard deviations}         
+#'     \item{\code{hw9.1}}{wt \ a percent of ref. median}      
+#'     \item{\code{hw10.1}}{wt \ ht percentile}                
+#'     \item{\code{hw11.1}}{wt \ ht standard deviations}       
+#'     \item{\code{hw12.1}}{wt \ ht percent of ref. median}    
 #'     \item{\code{hw13.1}}{reason not measured}              
 #'     \item{\code{hw14.1}}{bcg scar on arm or shoulder}      
 #'     \item{\code{hw15.1}}{height: lying or standing}        
@@ -4159,25 +4159,25 @@
 #'     \item{\code{hw18.1}}{date measured (month)}            
 #'     \item{\code{hw19.1}}{date measured (year)}             
 #'     \item{\code{hw20.1}}{arm circumference (cms - 1d)}     
-#'     \item{\code{hw21.1}}{arm circ\a percentile}           
-#'     \item{\code{hw22.1}}{arm circ\a standard deviations}  
-#'     \item{\code{hw23.1}}{arm c\a percent of ref. median}  
-#'     \item{\code{hw24.1}}{arm circ\ht percentile}          
-#'     \item{\code{hw25.1}}{arm cir\ht standard deviations}  
-#'     \item{\code{hw26.1}}{arm cir\ht percent ref. median}  
+#'     \item{\code{hw21.1}}{arm circ \ a percentile}           
+#'     \item{\code{hw22.1}}{arm circ \ a standard deviations}  
+#'     \item{\code{hw23.1}}{arm c \ a percent of ref. median}  
+#'     \item{\code{hw24.1}}{arm circ \ ht percentile}          
+#'     \item{\code{hw25.1}}{arm cir \ ht standard deviations}  
+#'     \item{\code{hw26.1}}{arm cir \ ht percent ref. median}  
 #'     \item{\code{hwidx.2}}{index to birth history}          
 #'     \item{\code{hw1.2}}{age in months}                     
 #'     \item{\code{hw2.2}}{weight in kilograms (1 dec.)}      
 #'     \item{\code{hw3.2}}{height in centimeters (1 dec.)}    
-#'     \item{\code{hw4.2}}{ht\a percentile}                  
-#'     \item{\code{hw5.2}}{ht\a standard deviations}         
-#'     \item{\code{hw6.2}}{ht\a percent of ref. median}      
-#'     \item{\code{hw7.2}}{wt\a percentile}                  
-#'     \item{\code{hw8.2}}{wt\a standard deviations}         
-#'     \item{\code{hw9.2}}{wt\a percent of ref. median}      
-#'     \item{\code{hw10.2}}{wt\ht percentile}                
-#'     \item{\code{hw11.2}}{wt\ht standard deviations}       
-#'     \item{\code{hw12.2}}{wt\ht percent of ref. median}    
+#'     \item{\code{hw4.2}}{ht \ a percentile}                  
+#'     \item{\code{hw5.2}}{ht \ a standard deviations}         
+#'     \item{\code{hw6.2}}{ht \ a percent of ref. median}      
+#'     \item{\code{hw7.2}}{wt \ a percentile}                  
+#'     \item{\code{hw8.2}}{wt \ a standard deviations}         
+#'     \item{\code{hw9.2}}{wt \ a percent of ref. median}      
+#'     \item{\code{hw10.2}}{wt \ ht percentile}                
+#'     \item{\code{hw11.2}}{wt \ ht standard deviations}       
+#'     \item{\code{hw12.2}}{wt \ ht percent of ref. median}    
 #'     \item{\code{hw13.2}}{reason not measured}              
 #'     \item{\code{hw14.2}}{bcg scar on arm or shoulder}      
 #'     \item{\code{hw15.2}}{height: lying or standing}        
@@ -4186,25 +4186,25 @@
 #'     \item{\code{hw18.2}}{date measured (month)}            
 #'     \item{\code{hw19.2}}{date measured (year)}             
 #'     \item{\code{hw20.2}}{arm circumference (cms - 1d)}     
-#'     \item{\code{hw21.2}}{arm circ\a percentile}           
-#'     \item{\code{hw22.2}}{arm circ\a standard deviations}  
-#'     \item{\code{hw23.2}}{arm c\a percent of ref. median}  
-#'     \item{\code{hw24.2}}{arm circ\ht percentile}          
-#'     \item{\code{hw25.2}}{arm cir\ht standard deviations}  
-#'     \item{\code{hw26.2}}{arm cir\ht percent ref. median}  
+#'     \item{\code{hw21.2}}{arm circ \ a percentile}           
+#'     \item{\code{hw22.2}}{arm circ \ a standard deviations}  
+#'     \item{\code{hw23.2}}{arm c \ a percent of ref. median}  
+#'     \item{\code{hw24.2}}{arm circ \ ht percentile}          
+#'     \item{\code{hw25.2}}{arm cir \ ht standard deviations}  
+#'     \item{\code{hw26.2}}{arm cir \ ht percent ref. median}  
 #'     \item{\code{hwidx.3}}{index to birth history}          
 #'     \item{\code{hw1.3}}{age in months}                     
 #'     \item{\code{hw2.3}}{weight in kilograms (1 dec.)}      
 #'     \item{\code{hw3.3}}{height in centimeters (1 dec.)}    
-#'     \item{\code{hw4.3}}{ht\a percentile}                  
-#'     \item{\code{hw5.3}}{ht\a standard deviations}         
-#'     \item{\code{hw6.3}}{ht\a percent of ref. median}      
-#'     \item{\code{hw7.3}}{wt\a percentile}                  
-#'     \item{\code{hw8.3}}{wt\a standard deviations}         
-#'     \item{\code{hw9.3}}{wt\a percent of ref. median}      
-#'     \item{\code{hw10.3}}{wt\ht percentile}                
-#'     \item{\code{hw11.3}}{wt\ht standard deviations}       
-#'     \item{\code{hw12.3}}{wt\ht percent of ref. median}    
+#'     \item{\code{hw4.3}}{ht \ a percentile}                  
+#'     \item{\code{hw5.3}}{ht \ a standard deviations}         
+#'     \item{\code{hw6.3}}{ht \ a percent of ref. median}      
+#'     \item{\code{hw7.3}}{wt \ a percentile}                  
+#'     \item{\code{hw8.3}}{wt \ a standard deviations}         
+#'     \item{\code{hw9.3}}{wt \ a percent of ref. median}      
+#'     \item{\code{hw10.3}}{wt \ ht percentile}                
+#'     \item{\code{hw11.3}}{wt \ ht standard deviations}       
+#'     \item{\code{hw12.3}}{wt \ ht percent of ref. median}    
 #'     \item{\code{hw13.3}}{reason not measured}              
 #'     \item{\code{hw14.3}}{bcg scar on arm or shoulder}      
 #'     \item{\code{hw15.3}}{height: lying or standing}        
@@ -4213,25 +4213,25 @@
 #'     \item{\code{hw18.3}}{date measured (month)}            
 #'     \item{\code{hw19.3}}{date measured (year)}             
 #'     \item{\code{hw20.3}}{arm circumference (cms - 1d)}     
-#'     \item{\code{hw21.3}}{arm circ\a percentile}           
-#'     \item{\code{hw22.3}}{arm circ\a standard deviations}  
-#'     \item{\code{hw23.3}}{arm c\a percent of ref. median}  
-#'     \item{\code{hw24.3}}{arm circ\ht percentile}          
-#'     \item{\code{hw25.3}}{arm cir\ht standard deviations}  
-#'     \item{\code{hw26.3}}{arm cir\ht percent ref. median}  
+#'     \item{\code{hw21.3}}{arm circ \ a percentile}           
+#'     \item{\code{hw22.3}}{arm circ \ a standard deviations}  
+#'     \item{\code{hw23.3}}{arm c \ a percent of ref. median}  
+#'     \item{\code{hw24.3}}{arm circ \ ht percentile}          
+#'     \item{\code{hw25.3}}{arm cir \ ht standard deviations}  
+#'     \item{\code{hw26.3}}{arm cir \ ht percent ref. median}  
 #'     \item{\code{hwidx.4}}{index to birth history}          
 #'     \item{\code{hw1.4}}{age in months}                     
 #'     \item{\code{hw2.4}}{weight in kilograms (1 dec.)}      
 #'     \item{\code{hw3.4}}{height in centimeters (1 dec.)}    
-#'     \item{\code{hw4.4}}{ht\a percentile}                  
-#'     \item{\code{hw5.4}}{ht\a standard deviations}         
-#'     \item{\code{hw6.4}}{ht\a percent of ref. median}      
-#'     \item{\code{hw7.4}}{wt\a percentile}                  
-#'     \item{\code{hw8.4}}{wt\a standard deviations}         
-#'     \item{\code{hw9.4}}{wt\a percent of ref. median}      
-#'     \item{\code{hw10.4}}{wt\ht percentile}                
-#'     \item{\code{hw11.4}}{wt\ht standard deviations}       
-#'     \item{\code{hw12.4}}{wt\ht percent of ref. median}    
+#'     \item{\code{hw4.4}}{ht \ a percentile}                  
+#'     \item{\code{hw5.4}}{ht \ a standard deviations}         
+#'     \item{\code{hw6.4}}{ht \ a percent of ref. median}      
+#'     \item{\code{hw7.4}}{wt \ a percentile}                  
+#'     \item{\code{hw8.4}}{wt \ a standard deviations}         
+#'     \item{\code{hw9.4}}{wt \ a percent of ref. median}      
+#'     \item{\code{hw10.4}}{wt \ ht percentile}                
+#'     \item{\code{hw11.4}}{wt \ ht standard deviations}       
+#'     \item{\code{hw12.4}}{wt \ ht percent of ref. median}    
 #'     \item{\code{hw13.4}}{reason not measured}              
 #'     \item{\code{hw14.4}}{bcg scar on arm or shoulder}      
 #'     \item{\code{hw15.4}}{height: lying or standing}        
@@ -4240,25 +4240,25 @@
 #'     \item{\code{hw18.4}}{date measured (month)}            
 #'     \item{\code{hw19.4}}{date measured (year)}             
 #'     \item{\code{hw20.4}}{arm circumference (cms - 1d)}     
-#'     \item{\code{hw21.4}}{arm circ\a percentile}           
-#'     \item{\code{hw22.4}}{arm circ\a standard deviations}  
-#'     \item{\code{hw23.4}}{arm c\a percent of ref. median}  
-#'     \item{\code{hw24.4}}{arm circ\ht percentile}          
-#'     \item{\code{hw25.4}}{arm cir\ht standard deviations}  
-#'     \item{\code{hw26.4}}{arm cir\ht percent ref. median}  
+#'     \item{\code{hw21.4}}{arm circ \ a percentile}           
+#'     \item{\code{hw22.4}}{arm circ \ a standard deviations}  
+#'     \item{\code{hw23.4}}{arm c \ a percent of ref. median}  
+#'     \item{\code{hw24.4}}{arm circ \ ht percentile}          
+#'     \item{\code{hw25.4}}{arm cir \ ht standard deviations}  
+#'     \item{\code{hw26.4}}{arm cir \ ht percent ref. median}  
 #'     \item{\code{hwidx.5}}{index to birth history}          
 #'     \item{\code{hw1.5}}{age in months}                     
 #'     \item{\code{hw2.5}}{weight in kilograms (1 dec.)}      
 #'     \item{\code{hw3.5}}{height in centimeters (1 dec.)}    
-#'     \item{\code{hw4.5}}{ht\a percentile}                  
-#'     \item{\code{hw5.5}}{ht\a standard deviations}         
-#'     \item{\code{hw6.5}}{ht\a percent of ref. median}      
-#'     \item{\code{hw7.5}}{wt\a percentile}                  
-#'     \item{\code{hw8.5}}{wt\a standard deviations}         
-#'     \item{\code{hw9.5}}{wt\a percent of ref. median}      
-#'     \item{\code{hw10.5}}{wt\ht percentile}                
-#'     \item{\code{hw11.5}}{wt\ht standard deviations}       
-#'     \item{\code{hw12.5}}{wt\ht percent of ref. median}    
+#'     \item{\code{hw4.5}}{ht \ a percentile}                  
+#'     \item{\code{hw5.5}}{ht \ a standard deviations}         
+#'     \item{\code{hw6.5}}{ht \ a percent of ref. median}      
+#'     \item{\code{hw7.5}}{wt \ a percentile}                  
+#'     \item{\code{hw8.5}}{wt \ a standard deviations}         
+#'     \item{\code{hw9.5}}{wt \ a percent of ref. median}      
+#'     \item{\code{hw10.5}}{wt \ ht percentile}                
+#'     \item{\code{hw11.5}}{wt \ ht standard deviations}       
+#'     \item{\code{hw12.5}}{wt \ ht percent of ref. median}    
 #'     \item{\code{hw13.5}}{reason not measured}              
 #'     \item{\code{hw14.5}}{bcg scar on arm or shoulder}      
 #'     \item{\code{hw15.5}}{height: lying or standing}        
@@ -4267,25 +4267,25 @@
 #'     \item{\code{hw18.5}}{date measured (month)}            
 #'     \item{\code{hw19.5}}{date measured (year)}             
 #'     \item{\code{hw20.5}}{arm circumference (cms - 1d)}     
-#'     \item{\code{hw21.5}}{arm circ\a percentile}           
-#'     \item{\code{hw22.5}}{arm circ\a standard deviations}  
-#'     \item{\code{hw23.5}}{arm c\a percent of ref. median}  
-#'     \item{\code{hw24.5}}{arm circ\ht percentile}          
-#'     \item{\code{hw25.5}}{arm cir\ht standard deviations}  
-#'     \item{\code{hw26.5}}{arm cir\ht percent ref. median}  
+#'     \item{\code{hw21.5}}{arm circ \ a percentile}           
+#'     \item{\code{hw22.5}}{arm circ \ a standard deviations}  
+#'     \item{\code{hw23.5}}{arm c \ a percent of ref. median}  
+#'     \item{\code{hw24.5}}{arm circ \ ht percentile}          
+#'     \item{\code{hw25.5}}{arm cir \ ht standard deviations}  
+#'     \item{\code{hw26.5}}{arm cir \ ht percent ref. median}  
 #'     \item{\code{hwidx.6}}{index to birth history}          
 #'     \item{\code{hw1.6}}{age in months}                     
 #'     \item{\code{hw2.6}}{weight in kilograms (1 dec.)}      
 #'     \item{\code{hw3.6}}{height in centimeters (1 dec.)}    
-#'     \item{\code{hw4.6}}{ht\a percentile}                  
-#'     \item{\code{hw5.6}}{ht\a standard deviations}         
-#'     \item{\code{hw6.6}}{ht\a percent of ref. median}      
-#'     \item{\code{hw7.6}}{wt\a percentile}                  
-#'     \item{\code{hw8.6}}{wt\a standard deviations}         
-#'     \item{\code{hw9.6}}{wt\a percent of ref. median}      
-#'     \item{\code{hw10.6}}{wt\ht percentile}                
-#'     \item{\code{hw11.6}}{wt\ht standard deviations}       
-#'     \item{\code{hw12.6}}{wt\ht percent of ref. median}    
+#'     \item{\code{hw4.6}}{ht \ a percentile}                  
+#'     \item{\code{hw5.6}}{ht \ a standard deviations}         
+#'     \item{\code{hw6.6}}{ht \ a percent of ref. median}      
+#'     \item{\code{hw7.6}}{wt \ a percentile}                  
+#'     \item{\code{hw8.6}}{wt \ a standard deviations}         
+#'     \item{\code{hw9.6}}{wt \ a percent of ref. median}      
+#'     \item{\code{hw10.6}}{wt \ ht percentile}                
+#'     \item{\code{hw11.6}}{wt \ ht standard deviations}       
+#'     \item{\code{hw12.6}}{wt \ ht percent of ref. median}    
 #'     \item{\code{hw13.6}}{reason not measured}              
 #'     \item{\code{hw14.6}}{bcg scar on arm or shoulder}      
 #'     \item{\code{hw15.6}}{height: lying or standing}        
@@ -4294,14 +4294,14 @@
 #'     \item{\code{hw18.6}}{date measured (month)}            
 #'     \item{\code{hw19.6}}{date measured (year)}             
 #'     \item{\code{hw20.6}}{arm circumference (cms - 1d)}     
-#'     \item{\code{hw21.6}}{arm circ\a percentile}           
-#'     \item{\code{hw22.6}}{arm circ\a standard deviations}  
-#'     \item{\code{hw23.6}}{arm c\a percent of ref. median}  
-#'     \item{\code{hw24.6}}{arm circ\ht percentile}          
-#'     \item{\code{hw25.6}}{arm cir\ht standard deviations}  
-#'     \item{\code{hw26.6}}{arm cir\ht percent ref. median}  
+#'     \item{\code{hw21.6}}{arm circ \ a percentile}           
+#'     \item{\code{hw22.6}}{arm circ \ a standard deviations}  
+#'     \item{\code{hw23.6}}{arm c \ a percent of ref. median}  
+#'     \item{\code{hw24.6}}{arm circ \ ht percentile}          
+#'     \item{\code{hw25.6}}{arm cir \ ht standard deviations}  
+#'     \item{\code{hw26.6}}{arm cir \ ht percent ref. median}  
 #'     \item{\code{v501}}{current marital status}             
-#'     \item{\code{v502}}{currently\formerly\never marr.}   
+#'     \item{\code{v502}}{currently \ formerly \ never marr.}   
 #'     \item{\code{v503}}{number of unions}                   
 #'     \item{\code{v504}}{husband lives in house}             
 #'     \item{\code{v505}}{number of other wives}              
@@ -4414,7 +4414,7 @@
 #'     \item{\code{s327a}}{shown condom package}              
 #'     \item{\code{s327b}}{brand of condoms shown}            
 #'     \item{\code{s329}}{cost of condom}                     
-#'     \item{\code{s330}}{cost of iud\ster\injections}      
+#'     \item{\code{s330}}{cost of iud \ ster \ injections}      
 #'     \item{\code{s339}}{if own choice, desire to use}       
 #'     \item{\code{s349}}{message effective}                  
 #'     \item{\code{s409}}{advised to eat more during prg}     
@@ -4436,15 +4436,15 @@
 #'     \item{\code{s431n}}{fed nothing before breast}         
 #'     \item{\code{s439a}}{times given plain water}           
 #'     \item{\code{s439b}}{times given ghutti}                
-#'     \item{\code{s439c}}{times given sugar\honey water}    
+#'     \item{\code{s439c}}{times given sugar \ honey water}    
 #'     \item{\code{s439d}}{times given juice}                 
 #'     \item{\code{s439e}}{times given herbal tea}            
 #'     \item{\code{s439f}}{times given gripe water}           
 #'     \item{\code{s439g}}{times given baby formula}          
 #'     \item{\code{s439h}}{times given fresh milk}            
-#'     \item{\code{s439i}}{times given tinned\powd milk}     
+#'     \item{\code{s439i}}{times given tinned \ powd milk}     
 #'     \item{\code{s439j}}{times given other liquids}         
-#'     \item{\code{s439k}}{times given solid\mushy foods}    
+#'     \item{\code{s439k}}{times given solid \ mushy foods}    
 #'     \item{\code{s442}}{ever drink from nipple}             
 #'     \item{\code{s443}}{age for nipple regular basis}       
 #'     \item{\code{s495}}{amount of liquid for ors}           
@@ -4480,13 +4480,13 @@
 #'     \item{\code{s723a}}{began work - financial need}       
 #'     \item{\code{s723b}}{began work - supplem family in}    
 #'     \item{\code{s723c}}{began work - personal fulfillm}    
-#'     \item{\code{s723d}}{began work - husb sick\dead}      
-#'     \item{\code{s723e}}{began work - divorce\separatio}   
+#'     \item{\code{s723d}}{began work - husb sick \ dead}      
+#'     \item{\code{s723e}}{began work - divorce \ separatio}   
 #'     \item{\code{s723f}}{began work - other reason}         
 #'     \item{\code{idx94.1}}{index to birth history}          
 #'     \item{\code{s426.1}}{duration of abstinence}           
 #'     \item{\code{s428.1}}{who suggested no breastfeeding}   
-#'     \item{\code{s448.1}}{age solid\mushy food daily}      
+#'     \item{\code{s448.1}}{age solid \ mushy food daily}      
 #'     \item{\code{sp0d.1}}{polio 0 day}                      
 #'     \item{\code{sp0m.1}}{polio 0 month}                    
 #'     \item{\code{sp0y.1}}{polio 0 year}                     
@@ -4514,7 +4514,7 @@
 #'     \item{\code{idx94.2}}{index to birth history}          
 #'     \item{\code{s426.2}}{duration of abstinence}           
 #'     \item{\code{s428.2}}{who suggested no breastfeeding}   
-#'     \item{\code{s448.2}}{age solid\mushy food daily}      
+#'     \item{\code{s448.2}}{age solid \ mushy food daily}      
 #'     \item{\code{sp0d.2}}{polio 0 day}                      
 #'     \item{\code{sp0m.2}}{polio 0 month}                    
 #'     \item{\code{sp0y.2}}{polio 0 year}                     
@@ -4542,7 +4542,7 @@
 #'     \item{\code{idx94.3}}{index to birth history}          
 #'     \item{\code{s426.3}}{duration of abstinence}           
 #'     \item{\code{s428.3}}{who suggested no breastfeeding}   
-#'     \item{\code{s448.3}}{age solid\mushy food daily}      
+#'     \item{\code{s448.3}}{age solid \ mushy food daily}      
 #'     \item{\code{sp0d.3}}{polio 0 day}                      
 #'     \item{\code{sp0m.3}}{polio 0 month}                    
 #'     \item{\code{sp0y.3}}{polio 0 year}                     
@@ -4570,7 +4570,7 @@
 #'     \item{\code{idx94.4}}{index to birth history}          
 #'     \item{\code{s426.4}}{duration of abstinence}           
 #'     \item{\code{s428.4}}{who suggested no breastfeeding}   
-#'     \item{\code{s448.4}}{age solid\mushy food daily}      
+#'     \item{\code{s448.4}}{age solid \ mushy food daily}      
 #'     \item{\code{sp0d.4}}{polio 0 day}                      
 #'     \item{\code{sp0m.4}}{polio 0 month}                    
 #'     \item{\code{sp0y.4}}{polio 0 year}                     
@@ -4598,7 +4598,7 @@
 #'     \item{\code{idx94.5}}{index to birth history}          
 #'     \item{\code{s426.5}}{duration of abstinence}           
 #'     \item{\code{s428.5}}{who suggested no breastfeeding}   
-#'     \item{\code{s448.5}}{age solid\mushy food daily}      
+#'     \item{\code{s448.5}}{age solid \ mushy food daily}      
 #'     \item{\code{sp0d.5}}{polio 0 day}                      
 #'     \item{\code{sp0m.5}}{polio 0 month}                    
 #'     \item{\code{sp0y.5}}{polio 0 year}                     
@@ -4626,7 +4626,7 @@
 #'     \item{\code{idx94.6}}{index to birth history}          
 #'     \item{\code{s426.6}}{duration of abstinence}           
 #'     \item{\code{s428.6}}{who suggested no breastfeeding}   
-#'     \item{\code{s448.6}}{age solid\mushy food daily}      
+#'     \item{\code{s448.6}}{age solid \ mushy food daily}      
 #'     \item{\code{sp0d.6}}{polio 0 day}                      
 #'     \item{\code{sp0m.6}}{polio 0 month}                    
 #'     \item{\code{sp0y.6}}{polio 0 year}                     
@@ -4653,11 +4653,11 @@
 #'     \item{\code{s810y.6}}{date child measured (year)}      
 #'     \item{\code{smregion}}{region of residence}            
 #'     \item{\code{smtype}}{type of place of residence}       
-#'     \item{\code{smclust}}{cluster added to reg\type\dist}
+#'     \item{\code{smclust}}{cluster added to reg \ type \ dist}
 #'     \item{\code{smdist}}{district}                         
 #'     \item{\code{smhno}}{household number}                  
 #'     \item{\code{smline}}{husband's line number}            
-#'     \item{\code{smlocal}}{city\town\countryside}         
+#'     \item{\code{smlocal}}{city \ town \ countryside}         
 #'     \item{\code{smselect}}{first wife or not}              
 #'     \item{\code{smwife1}}{wife 1 line number}              
 #'     \item{\code{smwife2}}{wife 2 line number}              
@@ -4752,7 +4752,7 @@
 #'     \item{\code{sm218}}{cost of condom}                    
 #'     \item{\code{sm219}}{source of current method}          
 #'     \item{\code{sm220}}{time to get to source}             
-#'     \item{\code{sm221}}{easy\difficult to go to source}   
+#'     \item{\code{sm221}}{easy \ difficult to go to source}   
 #'     \item{\code{sm223m}}{month of sterilization}           
 #'     \item{\code{sm223y}}{year of sterilization}            
 #'     \item{\code{sm223c}}{cmc sterilization}                
@@ -4767,7 +4767,7 @@
 #'     \item{\code{sm231}}{know source for fp}                
 #'     \item{\code{sm232}}{source for family planning}        
 #'     \item{\code{sm233}}{time from home to place}           
-#'     \item{\code{sm234}}{easy\difficult to get to place}   
+#'     \item{\code{sm234}}{easy \ difficult to get to place}   
 #'     \item{\code{sm235a}}{heard about fp on radio}          
 #'     \item{\code{sm235b}}{heard about fp on television}     
 #'     \item{\code{sm237}}{message effective}                 
@@ -4782,7 +4782,7 @@
 #'     \item{\code{sm305f}}{husband's marriage flag}          
 #'     \item{\code{sm306a}}{presence of children}             
 #'     \item{\code{sm306b}}{presence of wife}                 
-#'     \item{\code{sm306c}}{presence of father\brother}      
+#'     \item{\code{sm306c}}{presence of father \ brother}      
 #'     \item{\code{sm306d}}{presence of other males}          
 #'     \item{\code{sm306e}}{presence of other females}        
 #'     \item{\code{sm401a}}{number of own sons}               
@@ -4832,7 +4832,7 @@
 #' # Loading PKIR21
 #'  \dontrun{
 #'  load(url(
-#'   "https://github.com/myaseen208/PDHSData/raw/master/DHS1990-91/PKIR21.RData"
+#'   "https://github.com/myaseen208/PDHSData/raw/master/data/PKIR21.RData"
 #'   ))
 #'   PKIR21
 #'  }

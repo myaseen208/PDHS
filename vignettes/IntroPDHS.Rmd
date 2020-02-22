@@ -35,11 +35,11 @@ resource_files:
 - vignettes/rbase.png
 - vignettes/rstudio.png
 - vignettes/rstudio panes.png
+bibliography: Bibliography.bib
 vignette: |
   %\VignetteIndexEntry{IntroPDHS}
   %\usepackage[utf8]{inputenc}
   %\VignetteEngine{knitr::rmarkdown_notangle}
-  %\VignetteEncoding{UTF-8}
 ---
 
 ```{r, echo=FALSE}
@@ -54,9 +54,7 @@ options(repos = r)
 
 ```{r, results='asis', echo=FALSE}
 switch(out_type,
-    html = {cat("
-  <p> 1. Department of Mathematics and Statistics, University of Agriculture Faisalabad, Faisalabad-Pakistan  (myaseen208@gmail.com).</p>
-              ")},
+    html = {cat("<p> 1. Department of Mathematics and Statistics, University of Agriculture Faisalabad, Faisalabad-Pakistan  (myaseen208@gmail.com).</p>")},
     latex = cat("\\begin{center}
 1. Department of Mathematics and Statistics, University of Agriculture Faisalabad, Faisalabad-Pakistan  (myaseen208@gmail.com).
 
